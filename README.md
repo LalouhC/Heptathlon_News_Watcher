@@ -1,4 +1,4 @@
-# Heptathlon News Watcher : Veille automatisée et intelligente pour Start.me
+# 🤖 Heptathlon News Watcher : Veille automatisée et intelligente pour Start.me
 
 > Un robot automatisé de veille informationnelle conçu pour regrouper et centraliser l'actualité de l'Heptathlon directement sur un tableau de bord [Start.me]
 
