@@ -10,6 +10,8 @@ L'**heptathlon** est une épreuve combinée d'athlétisme féminin comprenant **
 
 Malgré son intensité et sa beauté sportive, c'est une discipline **peu médiatisée** dans les flux d'actualités généralistes traditionnels. Les informations sont souvent éparpillées, ce qui rend la veille difficile pour les passionnés ou les petites structures.
 
+> Consultez le site de l'association pour en savoir plus [https://www.heptaleo.fr/]
+
 ---
 
 ## 💡 La Plus-Value pour une Petite Association
