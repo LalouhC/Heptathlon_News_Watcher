@@ -6,55 +6,20 @@
     <description>Flux international automatisé (FR/EN/ES) pour Heptaleo.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 03 Oct 2026 04:01:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 11:11:23 +0000</lastBuildDate>
     <item>
-      <title>[ES] Málaga se llena de estrellas - RFEA</title>
-      <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxQOG1fLWtoeEhDR1Uyb1YySVA0clpsVTlDXzJSZk5qSFJFNEJFZzBSdzBqY1RvUUE4MjY2dXpjT3lmUDVhWHVjZ3VlYnlJT1hpUHdDcTdMenptUDJ0YnBkZHFOZ29zd3ltanhhOEYyUXJ1dkNyU3VDUWZtNHNYQ3hOM05Uby1vMm1pZHdQRkNXcTRKVDN1aVE?oc=5</link>
-      <description>Publié le : Sun, 26 Jul 2026 07:00:00 GMT - Source : Google News (ES)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMilgFBVV95cUxQOG1fLWtoeEhDR1Uyb1YySVA0clpsVTlDXzJSZk5qSFJFNEJFZzBSdzBqY1RvUUE4MjY2dXpjT3lmUDVhWHVjZ3VlYnlJT1hpUHdDcTdMenptUDJ0YnBkZHFOZ29zd3ltanhhOEYyUXJ1dkNyU3VDUWZtNHNYQ3hOM05Uby1vMm1pZHdQRkNXcTRKVDN1aVE?oc=5</guid>
-      <pubDate>Sun, 26 Jul 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[EN] Americans wagered more on sports gambling than they spent on movies, museums, and music combined - Fortune</title>
-      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxPWV8ybW1mdEZTR3NQY3Q5ejhIMTlTVkNOb2ltZHZzQms5b2k0WTNLTENZQmJ1WTcwSlNVdHo1djlDTHVpOVc2UHh3Z2VxNFo0TTNMeERPNGcwa25mblBycDhwdWtFRDBiMUUyRGJTekx6ZDlMUFJPSkdkVVlqRkYzSHJmcVgwZHE5VDR2MGxqeWpJSThja0FHVU10M3JleTB5d0E?oc=5</link>
-      <description>Publié le : Sun, 26 Jul 2026 07:00:00 GMT - Source : Google News (EN)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiogFBVV95cUxPWV8ybW1mdEZTR3NQY3Q5ejhIMTlTVkNOb2ltZHZzQms5b2k0WTNLTENZQmJ1WTcwSlNVdHo1djlDTHVpOVc2UHh3Z2VxNFo0TTNMeERPNGcwa25mblBycDhwdWtFRDBiMUUyRGJTekx6ZDlMUFJPSkdkVVlqRkYzSHJmcVgwZHE5VDR2MGxqeWpJSThja0FHVU10M3JleTB5d0E?oc=5</guid>
-      <pubDate>Sun, 26 Jul 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[ES] Mejores combinaciones de licuadoras y procesadores de alimentos de 2026, según Consumer Reports - es.qz.com</title>
-      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxQR3hmQjh3M2s0QUVMRVRBQkVJYXhPVlNZSnJMdkRCNVNLZ3ZLUzgwejE4NlhrSm8tT1ctUDFVOUdfTXRod1Jmc2JIbmQ4czdTVUpQSUpVX2syd2hXeXhocVc0c3BUYTRYZFpzZ0ZSZ3ZWckhNZEI3YU1pYTVhcjNFN08zdnpETjNyZWdrSVpYa0g4S1VKSnZQdnR1cVdad2Q1OVhN?oc=5</link>
-      <description>Publié le : Mon, 03 Aug 2026 07:00:00 GMT - Source : Google News (ES)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiowFBVV95cUxQR3hmQjh3M2s0QUVMRVRBQkVJYXhPVlNZSnJMdkRCNVNLZ3ZLUzgwejE4NlhrSm8tT1ctUDFVOUdfTXRod1Jmc2JIbmQ4czdTVUpQSUpVX2syd2hXeXhocVc0c3BUYTRYZFpzZ0ZSZ3ZWckhNZEI3YU1pYTVhcjNFN08zdnpETjNyZWdrSVpYa0g4S1VKSnZQdnR1cVdad2Q1OVhN?oc=5</guid>
-      <pubDate>Mon, 03 Aug 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[EN] WU20 Oregon 26 preview: combined events and race walks - worldathletics.org</title>
-      <link>https://news.google.com/rss/articles/CBMiigJBVV95cUxQU05HQnBmck1HaW9Od1lXVFE5STBVQjltZ3BNaDBaclJnVGdZS3pEQnlyQy05R3ZTM0lVQ3otTnRteXVsYmd3M0JrVk5mT2REdlYtQ3U4Z196WjU4Ykd4dF9NT3h1Z3pPOFB3MHg1R0ltd2gxTUxWdERka0Mxbmt6dTJtZ1RpSXBYR3g0dEh5TWxDTGV6Ymh3ZDh2X0t5RTJwT2VZdlpzS3UwLThkbnRfS3ZsQUtPY1FhTkNUeWwzR1J1SnNxb1dpem1vT1diamVoWDdmbVppVWE2LVh5SXVEelJxTGFmQVl6N3NzeHJZUlE2anZfYlRnMENVMG9MZ2lyLVo4ZWFUbllzdw?oc=5</link>
-      <description>Publié le : Mon, 03 Aug 2026 07:00:00 GMT - Source : Google News (EN)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiigJBVV95cUxQU05HQnBmck1HaW9Od1lXVFE5STBVQjltZ3BNaDBaclJnVGdZS3pEQnlyQy05R3ZTM0lVQ3otTnRteXVsYmd3M0JrVk5mT2REdlYtQ3U4Z196WjU4Ykd4dF9NT3h1Z3pPOFB3MHg1R0ltd2gxTUxWdERka0Mxbmt6dTJtZ1RpSXBYR3g0dEh5TWxDTGV6Ymh3ZDh2X0t5RTJwT2VZdlpzS3UwLThkbnRfS3ZsQUtPY1FhTkNUeWwzR1J1SnNxb1dpem1vT1diamVoWDdmbVppVWE2LVh5SXVEelJxTGFmQVl6N3NzeHJZUlE2anZfYlRnMENVMG9MZ2lyLVo4ZWFUbllzdw?oc=5</guid>
-      <pubDate>Mon, 03 Aug 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[EN] Combined events bring food trucks, vendors, card trading to Uptown - NBC Montana</title>
-      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxQdjJScElvNlpTeHJ0eFprc3UtMnltc3JRbEFvaFpoT1VCZlJ5enpoWG1TMnVheTBKTDBZS0p6Ylk5bWJuSXJ2RjZVUDhaaUhjNUJqOWhwRlBJMHVMVm1tMFlCWEJfMTc0UWVSMnhQeUNlLVdZX1lSZjE0MzVCWldHaDBKeXIyTzlDbjh5eFR6eEZXZG5HU3ZERDNlNG5VUlE?oc=5</link>
-      <description>Publié le : Wed, 05 Aug 2026 07:00:00 GMT - Source : Google News (EN)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMinwFBVV95cUxQdjJScElvNlpTeHJ0eFprc3UtMnltc3JRbEFvaFpoT1VCZlJ5enpoWG1TMnVheTBKTDBZS0p6Ylk5bWJuSXJ2RjZVUDhaaUhjNUJqOWhwRlBJMHVMVm1tMFlCWEJfMTc0UWVSMnhQeUNlLVdZX1lSZjE0MzVCWldHaDBKeXIyTzlDbjh5eFR6eEZXZG5HU3ZERDNlNG5VUlE?oc=5</guid>
-      <pubDate>Wed, 05 Aug 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[FR] Athlétisme : Tous les records de France sur piste, route, marathon, concours et épreuves combinées | Liste complète - olympics.com</title>
-      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxNeE9kaS1iRjZSOXZIZU4yR3NFeVlPTUU4Q2R4LTF6YUFERWZzWm9qOHhBbnp6WTl0S3RtZ2sxOVNfWTRtMFBFM2tGSVg0STNWcWNoYUFCYzhMcktSWnZSU1lsLVA5VzhfNk84M2ZwaU9sYjhpWjhDOGNidTgzNkNhV0wwUElkRU82SzlUQ1gxSkxITXpxanJfUXRidHJNU081Y0lUVnhTSWR6dEZmbkk0V0pTX2o0NjQ?oc=5</link>
-      <description>Publié le : Thu, 13 Aug 2026 07:00:00 GMT - Source : Google News (FR)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxNeE9kaS1iRjZSOXZIZU4yR3NFeVlPTUU4Q2R4LTF6YUFERWZzWm9qOHhBbnp6WTl0S3RtZ2sxOVNfWTRtMFBFM2tGSVg0STNWcWNoYUFCYzhMcktSWnZSU1lsLVA5VzhfNk84M2ZwaU9sYjhpWjhDOGNidTgzNkNhV0wwUElkRU82SzlUQ1gxSkxITXpxanJfUXRidHJNU081Y0lUVnhTSWR6dEZmbkk0V0pTX2o0NjQ?oc=5</guid>
-      <pubDate>Thu, 13 Aug 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[ES] Ángela López-Iñesta, la joven reina del heptatlón que hace soñar a Daimiel - Ayuntamiento Daimiel</title>
-      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxOcHpMYWRZT2VkWkxRYzlVUU1zaFlSM3VNVFd5dEl2eHdNVTJJdTVyQWI3TVZ5b2RyZmJNU2ZGWnp3ZVBPNVNwXy1VV0dlT1hxN0llMnhCUEI5LWVleVhGNWNkVXdHck93czhJVGxvNHVKbjBma2ZzUWdCYWQ3RTJkOHVOd1dNdkowMDU5WFFyM1laQWNHVEpwVEhod2hDVTVXRy0wdGpfUWFvUnRuNjNmT2pfbEdJUQ?oc=5</link>
-      <description>Publié le : Fri, 14 Aug 2026 07:00:00 GMT - Source : Google News (ES)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitgFBVV95cUxOcHpMYWRZT2VkWkxRYzlVUU1zaFlSM3VNVFd5dEl2eHdNVTJJdTVyQWI3TVZ5b2RyZmJNU2ZGWnp3ZVBPNVNwXy1VV0dlT1hxN0llMnhCUEI5LWVleVhGNWNkVXdHck93czhJVGxvNHVKbjBma2ZzUWdCYWQ3RTJkOHVOd1dNdkowMDU5WFFyM1laQWNHVEpwVEhod2hDVTVXRy0wdGpfUWFvUnRuNjNmT2pfbEdJUQ?oc=5</guid>
+      <title>[EN] Kate O’Connor keeps heptathlon Euro gold medal in sights with satisfactory evening in Birmingham - independent.ie</title>
+      <link>https://news.google.com/rss/articles/CBMi_AFBVV95cUxOb1ZkMDBGTzBhWHhJaTNncXFpY3lzQV9xYlh4bWplLTFoT18tSUNJcW5mQl9YVFJBeEJ0SERVSEg0WWNNaHRwcFpNOWxEcF92NXJ3LVN6N0J3YXBkcEpGaU1vWVdlU05pMVlsMk5tN1dMdmEybTJPY2NCNFp4cnMySFEzZUxraWIyenA2TXdGVUlEclJGOTFheFJXTldpWERkYjdLQnBnTnMxSXQwbnFyaDg5T2ZCa2Jjc2JmYmE2R01Eb1Jxdk1hX0tuWEtQcDY3MENjNFVFUmkwelBjMEVPQmxtVEgzbTkxTFBGR0I4YmJMQ0NmLTEzVkZ1aEE?oc=5</link>
+      <description>Publié le : Fri, 14 Aug 2026 07:00:00 GMT - Source : Google News (EN)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi_AFBVV95cUxOb1ZkMDBGTzBhWHhJaTNncXFpY3lzQV9xYlh4bWplLTFoT18tSUNJcW5mQl9YVFJBeEJ0SERVSEg0WWNNaHRwcFpNOWxEcF92NXJ3LVN6N0J3YXBkcEpGaU1vWVdlU05pMVlsMk5tN1dMdmEybTJPY2NCNFp4cnMySFEzZUxraWIyenA2TXdGVUlEclJGOTFheFJXTldpWERkYjdLQnBnTnMxSXQwbnFyaDg5T2ZCa2Jjc2JmYmE2R01Eb1Jxdk1hX0tuWEtQcDY3MENjNFVFUmkwelBjMEVPQmxtVEgzbTkxTFBGR0I4YmJMQ0NmLTEzVkZ1aEE?oc=5</guid>
       <pubDate>Fri, 14 Aug 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[EN] A busy weekend to come of championship competitions: England Athletics U16 &amp; U18 Combined Events, Senior Para Championships and National Relay Championships - England Athletics</title>
+      <link>https://news.google.com/rss/articles/CBMimwJBVV95cUxQcWJJOGd0NnVxTmQ0YXpYdnZIZ25nN0dESmpTdjZZejh5WV9NeGxPRlExZzVmZ3Fud3VOY2M0dHl5ZnJUcl95RGRXcmZlYjFTYVF3RHZYYm1XV1dOYkNoV1ZicTFjaG1KTldsa25BN2ZTMm5ldlY0b0NJQkctT04tekN5NVJ1enJaRU10Wnh1VHdTRHhNdmlMQnhhamlyRDZhdHFBU0UtdnNGejdqdlFNZGgyNVBpOXFLd2Y5RGgxSjlfZHUySXJLZjE4VngyZEs3YXo5VzJYZlExVXk0V3JRbnhRY2lOVm9leXc2N28xSXlRaFl0YlU4R1EyZ1NhbHdYWTlBZ3Rpc0pyb0djbTlzbGEzWjY3RE9GZzk0?oc=5</link>
+      <description>Publié le : Wed, 19 Aug 2026 07:00:00 GMT - Source : Google News (EN)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMimwJBVV95cUxQcWJJOGd0NnVxTmQ0YXpYdnZIZ25nN0dESmpTdjZZejh5WV9NeGxPRlExZzVmZ3Fud3VOY2M0dHl5ZnJUcl95RGRXcmZlYjFTYVF3RHZYYm1XV1dOYkNoV1ZicTFjaG1KTldsa25BN2ZTMm5ldlY0b0NJQkctT04tekN5NVJ1enJaRU10Wnh1VHdTRHhNdmlMQnhhamlyRDZhdHFBU0UtdnNGejdqdlFNZGgyNVBpOXFLd2Y5RGgxSjlfZHUySXJLZjE4VngyZEs3YXo5VzJYZlExVXk0V3JRbnhRY2lOVm9leXc2N28xSXlRaFl0YlU4R1EyZ1NhbHdYWTlBZ3Rpc0pyb0djbTlzbGEzWjY3RE9GZzk0?oc=5</guid>
+      <pubDate>Wed, 19 Aug 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[EN] Combined World Championships: Hubert Kos, Sam Short Lead Two Events Apiece - Swimming World Magazine</title>
@@ -78,11 +43,11 @@
       <pubDate>Sat, 22 Aug 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[ES] Práctico nº 1 – Introducción al atletismo – Periodismo deportivo III - Facultad de Periodismo y Comunicación Social - UNLP</title>
-      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxOMU1fc1JGdmgwUTZYOTk5YU9fZlRVT00zUUNfbzlkSEIxcC12YVJUUkpxSEVPdlo3ZWVKRFZMR3FfWGdNOFJOY1BaSnQzQVZVRXVXdHF6U096dU5iNkdIT1FYTEY5MEZiZDFzekgwMlV0NFZjSkhmamFDNnVZUHVBUGpBMEZDV2pXTl9wWm1RbVJiQjc0aG9IaVl0cnktR1E3QmxyWg?oc=5</link>
-      <description>Publié le : Mon, 24 Aug 2026 07:00:00 GMT - Source : Google News (ES)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipAFBVV95cUxOMU1fc1JGdmgwUTZYOTk5YU9fZlRVT00zUUNfbzlkSEIxcC12YVJUUkpxSEVPdlo3ZWVKRFZMR3FfWGdNOFJOY1BaSnQzQVZVRXVXdHF6U096dU5iNkdIT1FYTEY5MEZiZDFzekgwMlV0NFZjSkhmamFDNnVZUHVBUGpBMEZDV2pXTl9wWm1RbVJiQjc0aG9IaVl0cnktR1E3QmxyWg?oc=5</guid>
-      <pubDate>Mon, 24 Aug 2026 07:00:00 +0000</pubDate>
+      <title>[EN] England Athletics Age Group Combined Events and Para Championships 2026: Signing off in style - England Athletics</title>
+      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxOVGFJeFRMVnB5WmdNMEc1bEVnZ0pMdDRjS0JVZXBZVTZPcURnVGR6dXNrWVNyWVo5Zm1vTW9KcEszQVVVVzFBX0dpb2JjbHU3RnhBSmlhM1l5MEJNSzkwWDdtM21iRWFZUnA5UTBYQXZBaVZNSjVKbHZuMy1fZGp0LXlIeUJvYkZGZ2N5RHBCMUZnb3NsTFoxTTdUWld1RDdpTzlXOE5rT2hrZ2xxX1o0ZGo2QjVMUmxZRi1WZ3huTQ?oc=5</link>
+      <description>Publié le : Sun, 23 Aug 2026 07:00:00 GMT - Source : Google News (EN)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivwFBVV95cUxOVGFJeFRMVnB5WmdNMEc1bEVnZ0pMdDRjS0JVZXBZVTZPcURnVGR6dXNrWVNyWVo5Zm1vTW9KcEszQVVVVzFBX0dpb2JjbHU3RnhBSmlhM1l5MEJNSzkwWDdtM21iRWFZUnA5UTBYQXZBaVZNSjVKbHZuMy1fZGp0LXlIeUJvYkZGZ2N5RHBCMUZnb3NsTFoxTTdUWld1RDdpTzlXOE5rT2hrZ2xxX1o0ZGo2QjVMUmxZRi1WZ3huTQ?oc=5</guid>
+      <pubDate>Sun, 23 Aug 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[EN] OU T&amp;F Announces Hinch as Combined Events/Pole Vault Coach - University of Oklahoma - soonersports.com</title>
@@ -97,6 +62,13 @@
       <description>Publié le : Mon, 31 Aug 2026 20:50:47 GMT - Source : Google News (EN)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMilwFBVV95cUxOY1E4ZjdjY0dLVWZreHFuak1jRzZsR2Uwdjk3X0JKckd4S3ZFRW01R0JlY21qWjh6dE0ybi0wVnctOG1WRlZzSU9ZdEc1ZkVfTDBENEU2bGJXQThtNXF4blptdXFESzhnb0hMc09WSFo2NEJCS081VmdPejV2NHVlNHI2N2dJcHEyN2pKR0lhM2gyUXJYQm40?oc=5</guid>
       <pubDate>Mon, 31 Aug 2026 20:50:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[EN] ICC WCF opens first combined bidding cycle for flagship events - Meetings &amp; Conventions Asia</title>
+      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxNbTM3YXd1S2E0YTZacHZ0clVSakVFTU4taFBaX19ZLWJiQW1tOW5SQVB5VTlTM2lrRVpIeGNpcmlMM0JkbE1iX1Z5S3ROZFlQZUtkUnRWeDBFckZlZU1ieDNDZEtDX3lIcWhPVWR1OVc3N2w2NGRIekNiUjJNRDFudG00M2RsVGRTdnNYajR6T2VBTUJOZ0t5YlVHZUFSa01CWWxXUkJGdE9qY3NDdXlaTDNxNmM5S0s3d1lSYUFQYw?oc=5</link>
+      <description>Publié le : Tue, 01 Sep 2026 07:00:00 GMT - Source : Google News (EN)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivwFBVV95cUxNbTM3YXd1S2E0YTZacHZ0clVSakVFTU4taFBaX19ZLWJiQW1tOW5SQVB5VTlTM2lrRVpIeGNpcmlMM0JkbE1iX1Z5S3ROZFlQZUtkUnRWeDBFckZlZU1ieDNDZEtDX3lIcWhPVWR1OVc3N2w2NGRIekNiUjJNRDFudG00M2RsVGRTdnNYajR6T2VBTUJOZ0t5YlVHZUFSa01CWWxXUkJGdE9qY3NDdXlaTDNxNmM5S0s3d1lSYUFQYw?oc=5</guid>
+      <pubDate>Tue, 01 Sep 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[ES] Campeonato de Cantabria Sub12 y Sub10 de Pruebas Combinadas / Campeonato de Cantabria Absoluto y Máster de Martillo Pesado / XXX Liga Escolar de Menores - Concursos aplazados de Martillo Sub16 (2026-10-03) - Federación Cántabra de Atletismo</title>
@@ -127,7 +99,21 @@
       <pubDate>Fri, 18 Sep 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[ES] Francesc Mosquera y Josep M. Mateo, campeones de Cataluña de pruebas combinadas - infocamp.cat</title>
+      <title>[EN] Alexa Brabec “aiming for” World Championship medal - fis-ski.com</title>
+      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxNZXFGZjBoZXVtOVRETDhzOXQxRXg2X0JScVo1UmRRcHpMSmZKSkNNdDIzM2l5SHhIVWRscHVhM0o0VEIxMVpwc0hnN2p6QWdzMGtYWWhIVzdYZ1Z3akk3bU5sdlVBV3NqNzVkVEhaZkdETnVRMFhNZmx1djRJa0VDQ2pLMllCbDJRdUdVUkI4a3pfWGtHdzk2NDhWeUhocHRqaVRB?oc=5</link>
+      <description>Publié le : Tue, 22 Sep 2026 12:48:05 GMT - Source : Google News (EN)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiowFBVV95cUxNZXFGZjBoZXVtOVRETDhzOXQxRXg2X0JScVo1UmRRcHpMSmZKSkNNdDIzM2l5SHhIVWRscHVhM0o0VEIxMVpwc0hnN2p6QWdzMGtYWWhIVzdYZ1Z3akk3bU5sdlVBV3NqNzVkVEhaZkdETnVRMFhNZmx1djRJa0VDQ2pLMllCbDJRdUdVUkI4a3pfWGtHdzk2NDhWeUhocHRqaVRB?oc=5</guid>
+      <pubDate>Tue, 22 Sep 2026 12:48:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[EN] “The Relentless Eye”: Combined prosodies of film and verse in Tony Harrison’s film poetry - UCL | University College London</title>
+      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeGtfYUlmNTBOdUtxUkNYY1BKMkgtM2RvX2R0ZHJqc1E4R2doRTZMSU5xSzQ2U1BpM2J2RGg4S0xIVDNHaFhKaE03ZE11cnVHQlh3dzVHNXBiVUY3ZmFWWmZTYWxkeXhHUE5UYWxEeDlWckVHb2Zjb1FfYncwd01ldnc2dU1MYnhyRTdpVm5QWmFkOHV6S0FqMDlCR0N2WTBXaG9laUVPd1RlZXhfLTRmUWV3ZWxjUW13?oc=5</link>
+      <description>Publié le : Wed, 23 Sep 2026 07:00:00 GMT - Source : Google News (EN)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeGtfYUlmNTBOdUtxUkNYY1BKMkgtM2RvX2R0ZHJqc1E4R2doRTZMSU5xSzQ2U1BpM2J2RGg4S0xIVDNHaFhKaE03ZE11cnVHQlh3dzVHNXBiVUY3ZmFWWmZTYWxkeXhHUE5UYWxEeDlWckVHb2Zjb1FfYncwd01ldnc2dU1MYnhyRTdpVm5QWmFkOHV6S0FqMDlCR0N2WTBXaG9laUVPd1RlZXhfLTRmUWV3ZWxjUW13?oc=5</guid>
+      <pubDate>Wed, 23 Sep 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[ES] Francesc Mosquera y Josep M. Mateo, campeones de Cataluña de pruebas combinadas - Infocamp</title>
       <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxNeTcwUzhDa2NWRGt1dVNDRzRpS0VZS3ZpSllUOHRZbHo5aU9jc0pGQVo3alRFalFFUmUzLU9nSkg5R3ZmSHRYRzhCcGpSelJXWVAwMFhGZ2hEUDBVdnFidjgyN0k3bjdfUkJNT2RkNnBQZEp2TG1GQndDd25LMER0LWw5YU4zUUF2cm0ycFB4RzRBNUVBSVkzQzktVFR3ZmpIU3l3?oc=5</link>
       <description>Publié le : Sun, 27 Sep 2026 07:45:24 GMT - Source : Google News (ES)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiowFBVV95cUxNeTcwUzhDa2NWRGt1dVNDRzRpS0VZS3ZpSllUOHRZbHo5aU9jc0pGQVo3alRFalFFUmUzLU9nSkg5R3ZmSHRYRzhCcGpSelJXWVAwMFhGZ2hEUDBVdnFidjgyN0k3bjdfUkJNT2RkNnBQZEp2TG1GQndDd25LMER0LWw5YU4zUUF2cm0ycFB4RzRBNUVBSVkzQzktVFR3ZmpIU3l3?oc=5</guid>
@@ -148,7 +134,7 @@
       <pubDate>Tue, 29 Sep 2026 12:33:00 +0000</pubDate>
     </item>
     <item>
-      <title>[FR] Athlétisme | Le RCAS veut faire de Schaerbeek la référence des épreuves combinées : « C’est fini le temps où on éclairait avec les voitures » - Sudinfo</title>
+      <title>[FR] Athlétisme | Le RCAS veut faire de Schaerbeek la référence des épreuves combinées : « C’est fini le temps où on éclairait avec les voitures » - sudinfo.be</title>
       <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxNcnBBUURWWjU2bUlYWmNPSlZrV3hJU0hldnczRTdid1JxWFEyTjdjeXh4TFVfYzRaZlNVaElPOG1UTEdWWXlRRkZCejVMM3ZZcUczZ01tX1dWYzZqbkd4dHB6Qi1jUXh4bVhEQmlVUGpXVHE0Zmpaak03N0R5d3EyWDVQVkZwWDJneTdleWdNNURsdGtWOHNEQ2V1LW1sUlVoeHFRQjNjVEtkcW04dzlIZXluX2x1OTd6ZG0wT1pfUDBkckdsUXBBM2FGSQ?oc=5</link>
       <description>Publié le : Wed, 30 Sep 2026 10:10:10 GMT - Source : Google News (FR)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiywFBVV95cUxNcnBBUURWWjU2bUlYWmNPSlZrV3hJU0hldnczRTdid1JxWFEyTjdjeXh4TFVfYzRaZlNVaElPOG1UTEdWWXlRRkZCejVMM3ZZcUczZ01tX1dWYzZqbkd4dHB6Qi1jUXh4bVhEQmlVUGpXVHE0Zmpaak03N0R5d3EyWDVQVkZwWDJneTdleWdNNURsdGtWOHNEQ2V1LW1sUlVoeHFRQjNjVEtkcW04dzlIZXluX2x1OTd6ZG0wT1pfUDBkckdsUXBBM2FGSQ?oc=5</guid>
@@ -169,7 +155,7 @@
       <pubDate>Wed, 30 Sep 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[EN] Ehammer and Kälin make history with Swiss double in Combined Events Tour - sportzhub.com</title>
+      <title>[EN] Ehammer and Kälin make history with Swiss double in Combined Events Tour - Sportzhub</title>
       <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxQZlBfN3M5QmVrVldNbXQxczBlWXZVYXJrdVZpN0R3eG0tam96MEh3UUZzT3NDUE83TmtLd0dvYlBjZGg1bldBNlhTVmxlNmZZcFNoUmhaY0huUDU0T2lGLVNERElkaVVISWg1QzNTUHpDY1dBNkx4cHVnajlOUS1iX1RJdHFjaFlsXzFEMnNEcTRLMkJTYnJKcUk5bWZsTTlIX0ctTXpXejVlSGZXM2ZMYw?oc=5</link>
       <description>Publié le : Wed, 30 Sep 2026 21:29:14 GMT - Source : Google News (EN)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisAFBVV95cUxQZlBfN3M5QmVrVldNbXQxczBlWXZVYXJrdVZpN0R3eG0tam96MEh3UUZzT3NDUE83TmtLd0dvYlBjZGg1bldBNlhTVmxlNmZZcFNoUmhaY0huUDU0T2lGLVNERElkaVVISWg1QzNTUHpDY1dBNkx4cHVnajlOUS1iX1RJdHFjaFlsXzFEMnNEcTRLMkJTYnJKcUk5bWZsTTlIX0ctTXpXejVlSGZXM2ZMYw?oc=5</guid>
@@ -183,11 +169,18 @@
       <pubDate>Thu, 01 Oct 2026 05:45:08 +0000</pubDate>
     </item>
     <item>
-      <title>[FR] Ehammer et Kälin signent un doublé suisse - Leman bleu</title>
-      <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxOcENpUDlacGhpYkYwN1VaLWdhbXhzTWNaMkZNc0s1N2F1V3NqSk9VT0xuTGJpM0JFUWNOdDhkV29EaURYRU16NWZGQVc4enlCRDgwaUIzUWpDWnRLbElJR1FzVjlXenhNUWlpX3lhcDBpeUZXWG9pY25QUERKQXFWQmV3dEVvTTh6b0duNEhLNl85YklPX2c?oc=5</link>
-      <description>Publié le : Thu, 01 Oct 2026 06:22:00 GMT - Source : Google News (FR)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMilgFBVV95cUxOcENpUDlacGhpYkYwN1VaLWdhbXhzTWNaMkZNc0s1N2F1V3NqSk9VT0xuTGJpM0JFUWNOdDhkV29EaURYRU16NWZGQVc4enlCRDgwaUIzUWpDWnRLbElJR1FzVjlXenhNUWlpX3lhcDBpeUZXWG9pY25QUERKQXFWQmV3dEVvTTh6b0duNEhLNl85YklPX2c?oc=5</guid>
-      <pubDate>Thu, 01 Oct 2026 06:22:00 +0000</pubDate>
+      <title>[FR] Simon Ehammer et Annik Kälin signent un doublé suisse historique - bluewin.ch</title>
+      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxPN2VDZ01xV1JDY1gwbzFjbHdmVno2dGFEUkYtLWFRLUZ6OVlsaG44TmY3YjZXajA5alJoNlBIMEFhVGktQUhiaExrUXY2ZmtiMTVhOVJ3S2VGeTFnT3lqUVYtVllkdzZNTExPMVhUc3NKdGRfR2NHNkljb1o0MjZBY0RjLXBWbWFWY29sRw?oc=5</link>
+      <description>Publié le : Thu, 01 Oct 2026 06:23:35 GMT - Source : Google News (FR)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMijAFBVV95cUxPN2VDZ01xV1JDY1gwbzFjbHdmVno2dGFEUkYtLWFRLUZ6OVlsaG44TmY3YjZXajA5alJoNlBIMEFhVGktQUhiaExrUXY2ZmtiMTVhOVJ3S2VGeTFnT3lqUVYtVllkdzZNTExPMVhUc3NKdGRfR2NHNkljb1o0MjZBY0RjLXBWbWFWY29sRw?oc=5</guid>
+      <pubDate>Thu, 01 Oct 2026 06:23:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[EN] WTA confirms equal prize money across all combined 1000 events from 2027 - Flashscore UK</title>
+      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxObUJVZVBDZW5vN0I2OGl2dmlNWVBMd3JscjBXYzFCb2FnMDJzX2VhRXRMNDBhZGxoTUhtUWMycFp1ZjhPZm80NlZPRDFqVk1oRXNEcEtWV0gtWVpCWkt6blpaSDRnTmktdzFZVnh3S1EtaU9KNFRjMEc3ZmpaeEtSSlNsWHlqQjhtOFVKcnlhOWtlY0ZyeUdVOEltaERoWTlwTmdpWW5WY2lfeHRFeGJIVmxTLXBLeFU?oc=5</link>
+      <description>Publié le : Thu, 01 Oct 2026 11:14:00 GMT - Source : Google News (EN)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxObUJVZVBDZW5vN0I2OGl2dmlNWVBMd3JscjBXYzFCb2FnMDJzX2VhRXRMNDBhZGxoTUhtUWMycFp1ZjhPZm80NlZPRDFqVk1oRXNEcEtWV0gtWVpCWkt6blpaSDRnTmktdzFZVnh3S1EtaU9KNFRjMEc3ZmpaeEtSSlNsWHlqQjhtOFVKcnlhOWtlY0ZyeUdVOEltaERoWTlwTmdpWW5WY2lfeHRFeGJIVmxTLXBLeFU?oc=5</guid>
+      <pubDate>Thu, 01 Oct 2026 11:14:00 +0000</pubDate>
     </item>
     <item>
       <title>[EN] WTA announces equal prize money across all combined 1000 tournaments from 2027 - Reuters</title>
@@ -198,9 +191,9 @@
     </item>
     <item>
       <title>[EN] WTA confirms 'major milestone' with equal prize money at combined events - BBC</title>
-      <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BZGJOR193R0VWVWJDS3RTS1J3XzY3bXdqdUJRV0Zkd19BMVVnTjhfTW9YQmxpYTMxeFJVTWt0Y0VyVC0zdXBsV29GYmpMM0gxcUpTcGFLVVhDQ1VaMEtIb0JNaGp5MHJV?oc=5</link>
+      <link>https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MUEJtSHRUMFhVUDQ0aENuWXBwTW0xVXlZRGs2LW0zU1o5YWdEcVNtMEJBcTdKc2Q1Y25ubXYwTnoxYmpKMndSZnROZExiOGRrRWhCd3g3VmZJcHRlSFM0b3F5SWttdw?oc=5</link>
       <description>Publié le : Thu, 01 Oct 2026 16:40:52 GMT - Source : Google News (EN)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BZGJOR193R0VWVWJDS3RTS1J3XzY3bXdqdUJRV0Zkd19BMVVnTjhfTW9YQmxpYTMxeFJVTWt0Y0VyVC0zdXBsV29GYmpMM0gxcUpTcGFLVVhDQ1VaMEtIb0JNaGp5MHJV?oc=5</guid>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MUEJtSHRUMFhVUDQ0aENuWXBwTW0xVXlZRGs2LW0zU1o5YWdEcVNtMEJBcTdKc2Q1Y25ubXYwTnoxYmpKMndSZnROZExiOGRrRWhCd3g3VmZJcHRlSFM0b3F5SWttdw?oc=5</guid>
       <pubDate>Thu, 01 Oct 2026 16:40:52 +0000</pubDate>
     </item>
     <item>
@@ -232,7 +225,7 @@
       <pubDate>Thu, 01 Oct 2026 19:59:00 +0000</pubDate>
     </item>
     <item>
-      <title>[EN] Women's Tennis Association ‌announces 'major milestone' with equal prize money across all combined 1000 tournaments from 2027 - Sky Sports</title>
+      <title>[EN] "Achieving equal prize money across all combined WTA 1000 tournaments is a major milestone for tennis," WTA chair Valerie Camillo said. - Sky Sports</title>
       <link>https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdWVfUUdTSjZ3ZEV3bzUzYWEtU2ROU1c5bS1aQW1RemxlRmM0Z3dzWF9XVER4N1FUenRzWkZDYUJmWGlQR1JwUHgtU3VFSk5rQUlpZ1l4Qkpubkh0cmY0UnlBUWlxdEdFWTNJX2M2NlF2ZWd2STh0Rmc1UlJldUtUNHhmSHJZY0pmeVlCOXd1RmUzZ3dhWkJOeDJSaEQzTTNfem8yaG1UaVI2emhYSkRONTBXUjE5bDh1dEE3UlhRbkhKaHdodEhTdnRxaHdPMkNCYjhGc3Q1QlZZaWJiSXV2cmpNOTdGNWJUVlVVZDVWMEdyOEI1clV0Z0hHUDM?oc=5</link>
       <description>Publié le : Fri, 02 Oct 2026 05:15:03 GMT - Source : Google News (EN)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdWVfUUdTSjZ3ZEV3bzUzYWEtU2ROU1c5bS1aQW1RemxlRmM0Z3dzWF9XVER4N1FUenRzWkZDYUJmWGlQR1JwUHgtU3VFSk5rQUlpZ1l4Qkpubkh0cmY0UnlBUWlxdEdFWTNJX2M2NlF2ZWd2STh0Rmc1UlJldUtUNHhmSHJZY0pmeVlCOXd1RmUzZ3dhWkJOeDJSaEQzTTNfem8yaG1UaVI2emhYSkRONTBXUjE5bDh1dEE3UlhRbkhKaHdodEhTdnRxaHdPMkNCYjhGc3Q1QlZZaWJiSXV2cmpNOTdGNWJUVlVVZDVWMEdyOEI1clV0Z0hHUDM?oc=5</guid>
@@ -260,7 +253,7 @@
       <pubDate>Fri, 02 Oct 2026 10:22:55 +0000</pubDate>
     </item>
     <item>
-      <title>[EN] WTA Tour secures equal prize money for combined ‘1,000’ events - sportcal.com</title>
+      <title>[EN] WTA Tour secures equal prize money for combined ‘1,000’ events - Sportcal</title>
       <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxNU2pIMVR6R2ZsOXM2VnM4U1F6VVZqeXNJTDE3eHFDcnBKSlZuZUtGUHZtSlJRLXVKMEk4bkFqNFNCYVdnRUpYU3NQSzdCSFdMcjY2QklHakM2ZHR6Q3VHdjVpcEdHWXVzTEJEVXA2aGJTU1FqNWZvZ2Y2QTBmdmx2Nnpmb3VyNnAyWE9xaTRxaklYWEtt?oc=5</link>
       <description>Publié le : Fri, 02 Oct 2026 10:50:25 GMT - Source : Google News (EN)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMilAFBVV95cUxNU2pIMVR6R2ZsOXM2VnM4U1F6VVZqeXNJTDE3eHFDcnBKSlZuZUtGUHZtSlJRLXVKMEk4bkFqNFNCYVdnRUpYU3NQSzdCSFdMcjY2QklHakM2ZHR6Q3VHdjVpcEdHWXVzTEJEVXA2aGJTU1FqNWZvZ2Y2QTBmdmx2Nnpmb3VyNnAyWE9xaTRxaklYWEtt?oc=5</guid>
@@ -274,10 +267,10 @@
       <pubDate>Fri, 02 Oct 2026 13:46:00 +0000</pubDate>
     </item>
     <item>
-      <title>[EN] WTA announces equal prize money with men for combined 1000 events - Yahoo Sports</title>
-      <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxNYnV3RGJrdlI1aXRYX0VxSUFIdGxNTHJHS0plbkpDSTJHNF9LYVloei1ZdkJJU2k4Tkpqay1JZTBqRFNvenBGRndXVV9yMmZkSGlpX2FheEhMdTQzdTRWRmVmM0lOVTR3UzJacE5MNExDSmVQSFEySDhIaDJWZFZLSllHU3hNeEk?oc=5</link>
+      <title>[EN] WTA announces equal prize money with men for combined 1000 events - AOL.com</title>
+      <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxPdGxFdmJMOXNXajAwckZrZGhTd1lrT1JPN2o4TjVVYm84TFdGREFmdVgxbkZDamtsb25iYUdOVjN2MWQtbWVoTFZNbjJ5dFJNNDF5VzV2Z2F1em5nV05hZXV3bGNFcDgzaTZPQkZ3bkZDRkM0MGhlUEZXLUEydTR6LQ?oc=5</link>
       <description>Publié le : Fri, 02 Oct 2026 13:46:34 GMT - Source : Google News (EN)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMihwFBVV95cUxNYnV3RGJrdlI1aXRYX0VxSUFIdGxNTHJHS0plbkpDSTJHNF9LYVloei1ZdkJJU2k4Tkpqay1JZTBqRFNvenBGRndXVV9yMmZkSGlpX2FheEhMdTQzdTRWRmVmM0lOVTR3UzJacE5MNExDSmVQSFEySDhIaDJWZFZLSllHU3hNeEk?oc=5</guid>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMigAFBVV95cUxPdGxFdmJMOXNXajAwckZrZGhTd1lrT1JPN2o4TjVVYm84TFdGREFmdVgxbkZDamtsb25iYUdOVjN2MWQtbWVoTFZNbjJ5dFJNNDF5VzV2Z2F1em5nV05hZXV3bGNFcDgzaTZPQkZ3bkZDRkM0MGhlUEZXLUEydTR6LQ?oc=5</guid>
       <pubDate>Fri, 02 Oct 2026 13:46:34 +0000</pubDate>
     </item>
     <item>
@@ -286,6 +279,13 @@
       <description>Publié le : Fri, 02 Oct 2026 17:16:57 GMT - Source : Google News (EN)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTFB2WERTWkpjdXBHOU9pRnJ4R3hPZ1ZPODBWZUZlYlRyNk9mYkw1YWFNaTY3M3dCMnZHT3ZobkJrRlJyMTlXOEhVWjNTT1VoZzc4X09tSzd4SUNQMHRqaUFBcE1TSTdCN1RDSVUwSFRVVk1DdkpTRjdnTWFqY09mdw?oc=5</guid>
       <pubDate>Fri, 02 Oct 2026 17:16:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[EN] "Communication of Sports Events" - Milyana Veleva combined journalism, sports, and academic experience in a book - Volley Week</title>
+      <link>https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdGo2eVltbmRnTkdpQmhzMEVIMWp0QUhVYnN0OEJTSFY0R3plMG5xM1ctWHZnWjI1MjhYdUd6M0l3TVVnbWUwWU1IV09Sd0hfa1VSajVHaHVESDdGRlBSajdFa2JsN3dLeDRRTjhzRDZwalNqYXRLRkNDclFwN0RyVnFtUjBkMm9VRUdzdWZOOHJZMzlSSmZVd2NrUm9vUG1VYmFvMFJyVzBhbFVGMThIclhfcExxSGRPMjNXTDNRQlNfbTNXMFdoeU5UaW5RQmJVaEFodjBjM3NBS0hFMkNn?oc=5</link>
+      <description>Publié le : Sat, 03 Oct 2026 09:04:38 GMT - Source : Google News (EN)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdGo2eVltbmRnTkdpQmhzMEVIMWp0QUhVYnN0OEJTSFY0R3plMG5xM1ctWHZnWjI1MjhYdUd6M0l3TVVnbWUwWU1IV09Sd0hfa1VSajVHaHVESDdGRlBSajdFa2JsN3dLeDRRTjhzRDZwalNqYXRLRkNDclFwN0RyVnFtUjBkMm9VRUdzdWZOOHJZMzlSSmZVd2NrUm9vUG1VYmFvMFJyVzBhbFVGMThIclhfcExxSGRPMjNXTDNRQlNfbTNXMFdoeU5UaW5RQmJVaEFodjBjM3NBS0hFMkNn?oc=5</guid>
+      <pubDate>Sat, 03 Oct 2026 09:04:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
