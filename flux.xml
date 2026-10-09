@@ -6,7 +6,7 @@
     <description>Flux international automatisé (FR/EN/ES) pour Heptaleo.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 08 Oct 2026 22:58:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 04:48:51 +0000</lastBuildDate>
     <item>
       <title>[FR] Athlétisme – Championnats de France : l’Yvetotaise Léonie Cambours de retour au premier plan - Paris Normandie</title>
       <link>https://news.google.com/rss/articles/CBMizgFBVV95cUxQYXQ4NmZwajVkZFNLLXl2SUhqOVRUTURaY0d5ZmVGMXZrNEpCeDNaUThLOGUyVGQwZXp6WUpuSGYtdEJjeERQeGd4bmYwQnZyc0tFb3J4eGxybENBYmpNMWNuWkJaU3ZTTXVCS19LUGpEUlhOejh2SjQyRXRuUHBIeFUwT1RjMk9hQTduQ014TUoxcExLcnZPTVBXanVtRFh0R1dNblh1eEI5Tm95RzN1Vzl5LTJyZ0FrNjRyZ1g1MWk2QjhBOGxYUEZELWZfZw?oc=5</link>
@@ -106,6 +106,13 @@
       <pubDate>Fri, 14 Aug 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>[EN] Combined World Championships: Hubert Kos, Sam Short Lead Two Events Apiece - Swimming World Magazine</title>
+      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxPMlpHS3ctWWIwcWpEQ1lUZnVma3UtTF9HdnlpN3l1NHNxU3pWVnplOHU5REs3Tnp2dE02SEdLMDNtaGNuU1JONUVEcW5ZWTlic3p1ZjlIbWJhSWRlMnJhQ2ZwN1pTMlhqU0ZyN1dReDVGV1cwRS11eXJYZDlVYkhnMnJteGJGSEdzUi1Eby1WdnBJaTJ4dHl6SzRtQmhTTGlXaUx6RE9jOW5BZ21zMS0zVlZaN2k5STA?oc=5</link>
+      <description>Publié le : Thu, 20 Aug 2026 07:00:00 GMT - Source : Google News (EN)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxPMlpHS3ctWWIwcWpEQ1lUZnVma3UtTF9HdnlpN3l1NHNxU3pWVnplOHU5REs3Tnp2dE02SEdLMDNtaGNuU1JONUVEcW5ZWTlic3p1ZjlIbWJhSWRlMnJhQ2ZwN1pTMlhqU0ZyN1dReDVGV1cwRS11eXJYZDlVYkhnMnJteGJGSEdzUi1Eby1WdnBJaTJ4dHl6SzRtQmhTTGlXaUx6RE9jOW5BZ21zMS0zVlZaN2k5STA?oc=5</guid>
+      <pubDate>Thu, 20 Aug 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>[ES] Noticias - Gobierno de Santa Fe</title>
       <link>https://news.google.com/rss/articles/CBMibEFVX3lxTE5ITzM3RXpjVExreERnQ1UwVmZGNEdkVDcwYWpsZ0VzdDZkRjR3ZjlfMXJSWGpJQVNyM1pXc3FSVHo3Mi1FMHZSci1sT1lwVlphWWhIRzhTNFpFNnZ4aDViZHFvemlOV3RxM2RmUQ?oc=5</link>
       <description>Publié le : Fri, 21 Aug 2026 07:00:00 GMT - Source : Google News (ES)</description>
@@ -183,25 +190,11 @@
       <pubDate>Mon, 21 Sep 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[EN] Which seven events are included in the women’s heptathlon that Jackie Joyner-Kersee competed in? - Britannica</title>
-      <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxNQ0dfTmdiVHNzWUhXd19udVVqckI1dHNGQ2tkN1huWUs5eXFoQVIxYXZPQWppOUZpVXJkdm9jT3FaUW5XNldaWDJJN0g3S1BfWURWWUdIazdpa1Awb2prcEYtMTVMOVZXbE5QUzF4RjdkLTBwcjJrbXU1aFFWVkZWY3BENmtRY3VRX1QyQm1NSVVBWmtTN2tLd2dlbFB2NmJpSVF3R3JvcktZT1kxcUwwSzJZY2VNUzRFLXBFeEdDWEpYTGdHUW0wbUc2VQ?oc=5</link>
-      <description>Publié le : Thu, 24 Sep 2026 06:03:03 GMT - Source : Google News (EN)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiywFBVV95cUxNQ0dfTmdiVHNzWUhXd19udVVqckI1dHNGQ2tkN1huWUs5eXFoQVIxYXZPQWppOUZpVXJkdm9jT3FaUW5XNldaWDJJN0g3S1BfWURWWUdIazdpa1Awb2prcEYtMTVMOVZXbE5QUzF4RjdkLTBwcjJrbXU1aFFWVkZWY3BENmtRY3VRX1QyQm1NSVVBWmtTN2tLd2dlbFB2NmJpSVF3R3JvcktZT1kxcUwwSzJZY2VNUzRFLXBFeEdDWEpYTGdHUW0wbUc2VQ?oc=5</guid>
-      <pubDate>Thu, 24 Sep 2026 06:03:03 +0000</pubDate>
-    </item>
-    <item>
       <title>[FR] Saint-Georges-de-Didonne : à 83 ans, Jean-Claude Chaumont décroche un nouveau titre de champion de France Masters - Sud Ouest</title>
       <link>https://news.google.com/rss/articles/CBMimgJBVV95cUxQUE1YNFVjZTJOZkdTZ24ydGIyYi1ocmcyaW16MHVRaEhCVmtZSzVRamtFTk1TUFl6QjRsM3JqZDJzMnBYMkZLa0NZT0NERGlndXJ4aU14OUNRV19BbnhBQV9LMzFiOTI3am92WDBRN2dKT2s1blU3bFptR3E2S2VnMC1EVC0wNTBKNVJfal82TE95RUZEV3VqbUxoOXRqVFBkempVRFNfSzVXT29YTFV5aHlYU0RPVUhJQlBRSjFtWUlIQl9FdnRyU01fUWpEY2FSdE0wZkthSWpVVXdjaEh1NVV4TUlwMjNzOEtsaWphZTdKUTBRQnlsZmUtNTVUWExUWVVXWHREb01YNVQxVnhhQzdoMDRHaE5WakE?oc=5</link>
       <description>Publié le : Mon, 28 Sep 2026 07:00:00 GMT - Source : Google News (FR)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMimgJBVV95cUxQUE1YNFVjZTJOZkdTZ24ydGIyYi1ocmcyaW16MHVRaEhCVmtZSzVRamtFTk1TUFl6QjRsM3JqZDJzMnBYMkZLa0NZT0NERGlndXJ4aU14OUNRV19BbnhBQV9LMzFiOTI3am92WDBRN2dKT2s1blU3bFptR3E2S2VnMC1EVC0wNTBKNVJfal82TE95RUZEV3VqbUxoOXRqVFBkempVRFNfSzVXT29YTFV5aHlYU0RPVUhJQlBRSjFtWUlIQl9FdnRyU01fUWpEY2FSdE0wZkthSWpVVXdjaEh1NVV4TUlwMjNzOEtsaWphZTdKUTBRQnlsZmUtNTVUWExUWVVXWHREb01YNVQxVnhhQzdoMDRHaE5WakE?oc=5</guid>
       <pubDate>Mon, 28 Sep 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[FR] Athlétisme | Le RCAS veut faire de Schaerbeek la référence des épreuves combinées : « C’est fini le temps où on éclairait avec les voitures » - Sudinfo</title>
-      <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxNcnBBUURWWjU2bUlYWmNPSlZrV3hJU0hldnczRTdid1JxWFEyTjdjeXh4TFVfYzRaZlNVaElPOG1UTEdWWXlRRkZCejVMM3ZZcUczZ01tX1dWYzZqbkd4dHB6Qi1jUXh4bVhEQmlVUGpXVHE0Zmpaak03N0R5d3EyWDVQVkZwWDJneTdleWdNNURsdGtWOHNEQ2V1LW1sUlVoeHFRQjNjVEtkcW04dzlIZXluX2x1OTd6ZG0wT1pfUDBkckdsUXBBM2FGSQ?oc=5</link>
-      <description>Publié le : Wed, 30 Sep 2026 10:10:10 GMT - Source : Google News (FR)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiywFBVV95cUxNcnBBUURWWjU2bUlYWmNPSlZrV3hJU0hldnczRTdid1JxWFEyTjdjeXh4TFVfYzRaZlNVaElPOG1UTEdWWXlRRkZCejVMM3ZZcUczZ01tX1dWYzZqbkd4dHB6Qi1jUXh4bVhEQmlVUGpXVHE0Zmpaak03N0R5d3EyWDVQVkZwWDJneTdleWdNNURsdGtWOHNEQ2V1LW1sUlVoeHFRQjNjVEtkcW04dzlIZXluX2x1OTd6ZG0wT1pfUDBkckdsUXBBM2FGSQ?oc=5</guid>
-      <pubDate>Wed, 30 Sep 2026 10:10:10 +0000</pubDate>
     </item>
     <item>
       <title>[EN] Ehammer and Kälin complete historic Swiss double in World Athletics Combined Events Tour - worldathletics.org</title>
@@ -244,6 +237,13 @@
       <description>Publié le : Thu, 01 Oct 2026 16:40:52 GMT - Source : Google News (EN)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MUEJtSHRUMFhVUDQ0aENuWXBwTW0xVXlZRGs2LW0zU1o5YWdEcVNtMEJBcTdKc2Q1Y25ubXYwTnoxYmpKMndSZnROZExiOGRrRWhCd3g3VmZJcHRlSFM0b3F5SWttdw?oc=5</guid>
       <pubDate>Thu, 01 Oct 2026 16:40:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[EN] WTA confirms equal prize money across all combined 1000 events from 2027 - Flashscore.com</title>
+      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxOd0FqYzRWVUJ1ajR1aUMxQXVnZTFoMU9FRVJKRDFGdDJQZDRUa0RZdXRqa293UGxpNG84RjdKYjUxM1c3aFJPX1VEem9ndnFGZzlMcElYaW56VlcyYlhmRUY3UEt2Tll2VWM5a1FfeUJzbFhPTU90akxES3MtemdvbTY1OE1TM1EwV2lIaGVuZmFDYXVDNklNU3pHVnRjOVFNYXJUV1U3VGEtS1M2cDhucVNwT3M?oc=5</link>
+      <description>Publié le : Thu, 01 Oct 2026 17:01:42 GMT - Source : Google News (EN)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitAFBVV95cUxOd0FqYzRWVUJ1ajR1aUMxQXVnZTFoMU9FRVJKRDFGdDJQZDRUa0RZdXRqa293UGxpNG84RjdKYjUxM1c3aFJPX1VEem9ndnFGZzlMcElYaW56VlcyYlhmRUY3UEt2Tll2VWM5a1FfeUJzbFhPTU90akxES3MtemdvbTY1OE1TM1EwV2lIaGVuZmFDYXVDNklNU3pHVnRjOVFNYXJUV1U3VGEtS1M2cDhucVNwT3M?oc=5</guid>
+      <pubDate>Thu, 01 Oct 2026 17:01:42 +0000</pubDate>
     </item>
     <item>
       <title>[EN] WTA Announces Equal Pay for All Combined 1000 Events - Front Office Sports</title>
