@@ -6,14 +6,7 @@
     <description>Flux international automatisé (FR/EN/ES) pour Heptaleo.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 10 Oct 2026 21:13:47 +0000</lastBuildDate>
-    <item>
-      <title>[FR] Championnats de France Elite : Alexis Miellet, Louey Ouerrat et Agathe Guillemot finisseurs hors pair à Albi - stadion.com</title>
-      <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxPZ1pjY3BjM3pmRlFBOG5qQUNmRi1JVUpTSGRQRjdOTGNlT0JFNXNzeE5zUklyRk94dDFwSjctZWVSN1Jzd2RhVElHZ2FXclIxaWgzN2dfWWwzNlZzTVh6bjF2a2tlSmY0bjZrTTZlX3MtME9QdEtnN0tlQ21hSjFJNGNYMlVRclB2ektGUW1Qc1RpRHV5RVNPeDgyZzUyTzQ3OWQyajRTbWo1VEhvd1JUWDdiTHZvZVlFYW1wOWRMLXF3M3dBaURsVGhB?oc=5</link>
-      <description>Publié le : Sat, 25 Jul 2026 07:00:00 GMT - Source : Google News (FR)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiygFBVV95cUxPZ1pjY3BjM3pmRlFBOG5qQUNmRi1JVUpTSGRQRjdOTGNlT0JFNXNzeE5zUklyRk94dDFwSjctZWVSN1Jzd2RhVElHZ2FXclIxaWgzN2dfWWwzNlZzTVh6bjF2a2tlSmY0bjZrTTZlX3MtME9QdEtnN0tlQ21hSjFJNGNYMlVRclB2ektGUW1Qc1RpRHV5RVNPeDgyZzUyTzQ3OWQyajRTbWo1VEhvd1JUWDdiTHZvZVlFYW1wOWRMLXF3M3dBaURsVGhB?oc=5</guid>
-      <pubDate>Sat, 25 Jul 2026 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 11 Oct 2026 04:18:56 +0000</lastBuildDate>
     <item>
       <title>[ES] Fernando Helling y Claudia Chichilnik ganaron el Triatlón de Invierno de Cervantes 2026 - Diario Río Negro</title>
       <link>https://news.google.com/rss/articles/CBMizgFBVV95cUxOZDZhZFpLbFBRQ29MM1J1QS1jQkY1eFdZdzRtd0VKMEs5RFVTb09BUFB3ZUdWV3lmRDB0c2pUX0xCdzZ0RVVaSHZNWVF5RTE3bDJRSm9xZE02ZnpEMUVXdHVXUXJTMk5vcUFlLU5fOGxkLURZSHlEMU5GSDBYVWNQNHZJQ0pKMllfV3lPdFROWWVXbl96X1hFMjhkeTNMZkNNNVhkX2tXMExBQ3FYdldiZHVPTmtwM3Nod20wUjRuUjUzNlhISkY3Y290TU0zQdIB1gFBVV95cUxPQXRHWU50TlhFRUQ2dUY1bDZNVGpuVlIzNTR1VWE3NlU2dU5IQUZ1ZF84aGtNSFFIMjdVWHlhQ0NqOEd2eklZY0hMSl9SdHhaU2JpOUM1RU9ydm05NHdIdE1yMng3RGdRcTNETVp5WDRIaDZGaGJLMy1lVVczV294Q3lFbDllcmhyaVhmamQweXQ0NG9JcGl0ZXJjcmlGc0lZdl9HMVJsSmdSZEhIaU5MVlFxQlVTWmo3YWZnOGlySUFIMzlzOXpTRERSN29COU1XbXpKdEpR?oc=5</link>
@@ -286,6 +279,13 @@
       <description>Publié le : Fri, 09 Oct 2026 18:00:00 GMT - Source : Google News (ES)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivgFBVV95cUxPMi1OVDVYTm1SSEZSNlVUN3BmNW5ObWc2SnNrT2VWc1lNSG1ldzZtNk1nM09KZmJweU1zRDVvclA2QTNkQnpObV91U1V0azRWc00wZTREMDFEUm9UMmdLWmdCc1MzX1d2Smh0di1tZVc0emxOU2ZqUUhfWkdxckZLWUNVcy1Yc2p4R05vTWFDSDBQNEhySl9mUmJWdl91cVRtZUdGZk91R3VCc3g5OFRhUlVPYlZCTVhyNHBLYi13?oc=5</guid>
       <pubDate>Fri, 09 Oct 2026 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[EN] Nanooks Win Four Events, Place Second at the Bulldog Pentathlon - University of Alaska Fairbanks Athletics</title>
+      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV19YMlh4ZjY2MDhENUZXZzdrWE5jdUpGVzRHc3NzWEUzQXlldVc3aHdVc1JXRk9ROExoNlNlalgySkctU2pwdUJOVE92THZ1b21zRDY1eTV4TFVtLTFHVnB2YVp2UHdjWFZQYnBMSVlBdExEVF80VGRRYWgtZHUwRDJsclg4bWU0OXZ2SE1iTW8wYzRkVE5TX09VTXhGOXhIbEJuTVBTOTY2UGdGSUYteVZRNlluaUxzRGI3UkhfX3R2VW8?oc=5</link>
+      <description>Publié le : Sun, 11 Oct 2026 03:54:54 GMT - Source : Google News (EN)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV19YMlh4ZjY2MDhENUZXZzdrWE5jdUpGVzRHc3NzWEUzQXlldVc3aHdVc1JXRk9ROExoNlNlalgySkctU2pwdUJOVE92THZ1b21zRDY1eTV4TFVtLTFHVnB2YVp2UHdjWFZQYnBMSVlBdExEVF80VGRRYWgtZHUwRDJsclg4bWU0OXZ2SE1iTW8wYzRkVE5TX09VTXhGOXhIbEJuTVBTOTY2UGdGSUYteVZRNlluaUxzRGI3UkhfX3R2VW8?oc=5</guid>
+      <pubDate>Sun, 11 Oct 2026 03:54:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
