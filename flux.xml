@@ -6,34 +6,20 @@
     <description>Flux international automatisé (FR/EN/ES) pour Heptaleo.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Oct 2026 00:12:19 +0000</lastBuildDate>
-    <item>
-      <title>[EN] Combined events bring food trucks, vendors, card trading to Uptown - NBC Montana</title>
-      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxQdjJScElvNlpTeHJ0eFprc3UtMnltc3JRbEFvaFpoT1VCZlJ5enpoWG1TMnVheTBKTDBZS0p6Ylk5bWJuSXJ2RjZVUDhaaUhjNUJqOWhwRlBJMHVMVm1tMFlCWEJfMTc0UWVSMnhQeUNlLVdZX1lSZjE0MzVCWldHaDBKeXIyTzlDbjh5eFR6eEZXZG5HU3ZERDNlNG5VUlE?oc=5</link>
-      <description>Publié le : Wed, 05 Aug 2026 07:00:00 GMT - Source : Google News (EN)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMinwFBVV95cUxQdjJScElvNlpTeHJ0eFprc3UtMnltc3JRbEFvaFpoT1VCZlJ5enpoWG1TMnVheTBKTDBZS0p6Ylk5bWJuSXJ2RjZVUDhaaUhjNUJqOWhwRlBJMHVMVm1tMFlCWEJfMTc0UWVSMnhQeUNlLVdZX1lSZjE0MzVCWldHaDBKeXIyTzlDbjh5eFR6eEZXZG5HU3ZERDNlNG5VUlE?oc=5</guid>
-      <pubDate>Wed, 05 Aug 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[FR] Athlétisme : Tous les records de France sur piste, route, marathon, concours et épreuves combinées | Liste complète - Olympics</title>
-      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxNeE9kaS1iRjZSOXZIZU4yR3NFeVlPTUU4Q2R4LTF6YUFERWZzWm9qOHhBbnp6WTl0S3RtZ2sxOVNfWTRtMFBFM2tGSVg0STNWcWNoYUFCYzhMcktSWnZSU1lsLVA5VzhfNk84M2ZwaU9sYjhpWjhDOGNidTgzNkNhV0wwUElkRU82SzlUQ1gxSkxITXpxanJfUXRidHJNU081Y0lUVnhTSWR6dEZmbkk0V0pTX2o0NjQ?oc=5</link>
-      <description>Publié le : Thu, 13 Aug 2026 07:00:00 GMT - Source : Google News (FR)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxNeE9kaS1iRjZSOXZIZU4yR3NFeVlPTUU4Q2R4LTF6YUFERWZzWm9qOHhBbnp6WTl0S3RtZ2sxOVNfWTRtMFBFM2tGSVg0STNWcWNoYUFCYzhMcktSWnZSU1lsLVA5VzhfNk84M2ZwaU9sYjhpWjhDOGNidTgzNkNhV0wwUElkRU82SzlUQ1gxSkxITXpxanJfUXRidHJNU081Y0lUVnhTSWR6dEZmbkk0V0pTX2o0NjQ?oc=5</guid>
-      <pubDate>Thu, 13 Aug 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[ES] Ángela López-Iñesta, la joven reina del heptatlón que hace soñar a Daimiel - Ayuntamiento Daimiel</title>
-      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxOcHpMYWRZT2VkWkxRYzlVUU1zaFlSM3VNVFd5dEl2eHdNVTJJdTVyQWI3TVZ5b2RyZmJNU2ZGWnp3ZVBPNVNwXy1VV0dlT1hxN0llMnhCUEI5LWVleVhGNWNkVXdHck93czhJVGxvNHVKbjBma2ZzUWdCYWQ3RTJkOHVOd1dNdkowMDU5WFFyM1laQWNHVEpwVEhod2hDVTVXRy0wdGpfUWFvUnRuNjNmT2pfbEdJUQ?oc=5</link>
-      <description>Publié le : Fri, 14 Aug 2026 07:00:00 GMT - Source : Google News (ES)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitgFBVV95cUxOcHpMYWRZT2VkWkxRYzlVUU1zaFlSM3VNVFd5dEl2eHdNVTJJdTVyQWI3TVZ5b2RyZmJNU2ZGWnp3ZVBPNVNwXy1VV0dlT1hxN0llMnhCUEI5LWVleVhGNWNkVXdHck93czhJVGxvNHVKbjBma2ZzUWdCYWQ3RTJkOHVOd1dNdkowMDU5WFFyM1laQWNHVEpwVEhod2hDVTVXRy0wdGpfUWFvUnRuNjNmT2pfbEdJUQ?oc=5</guid>
-      <pubDate>Fri, 14 Aug 2026 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 Oct 2026 13:39:30 +0000</lastBuildDate>
     <item>
       <title>[EN] Kate O’Connor keeps heptathlon Euro gold medal in sights with satisfactory evening in Birmingham - Irish Independent</title>
       <link>https://news.google.com/rss/articles/CBMi_AFBVV95cUxOb1ZkMDBGTzBhWHhJaTNncXFpY3lzQV9xYlh4bWplLTFoT18tSUNJcW5mQl9YVFJBeEJ0SERVSEg0WWNNaHRwcFpNOWxEcF92NXJ3LVN6N0J3YXBkcEpGaU1vWVdlU05pMVlsMk5tN1dMdmEybTJPY2NCNFp4cnMySFEzZUxraWIyenA2TXdGVUlEclJGOTFheFJXTldpWERkYjdLQnBnTnMxSXQwbnFyaDg5T2ZCa2Jjc2JmYmE2R01Eb1Jxdk1hX0tuWEtQcDY3MENjNFVFUmkwelBjMEVPQmxtVEgzbTkxTFBGR0I4YmJMQ0NmLTEzVkZ1aEE?oc=5</link>
       <description>Publié le : Fri, 14 Aug 2026 07:00:00 GMT - Source : Google News (EN)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi_AFBVV95cUxOb1ZkMDBGTzBhWHhJaTNncXFpY3lzQV9xYlh4bWplLTFoT18tSUNJcW5mQl9YVFJBeEJ0SERVSEg0WWNNaHRwcFpNOWxEcF92NXJ3LVN6N0J3YXBkcEpGaU1vWVdlU05pMVlsMk5tN1dMdmEybTJPY2NCNFp4cnMySFEzZUxraWIyenA2TXdGVUlEclJGOTFheFJXTldpWERkYjdLQnBnTnMxSXQwbnFyaDg5T2ZCa2Jjc2JmYmE2R01Eb1Jxdk1hX0tuWEtQcDY3MENjNFVFUmkwelBjMEVPQmxtVEgzbTkxTFBGR0I4YmJMQ0NmLTEzVkZ1aEE?oc=5</guid>
       <pubDate>Fri, 14 Aug 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[ES] El 29 de agosto se correrá una nueva edición del Tetratlón Chapelco - NoticiasNQN</title>
+      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQkNtUzNMd2JTZnRtdFdwU2FnYkxDLS1WejFSdjdZdFhIemhKZFpXUkllVnIyV055dmhrNk5qellGXy1Gbjc2LTF0QVlNa3ZRXzFmVFB3eTFGOENkbzd1bW1CalRNZ01INjBVWEt5bnpwcG5pR2pKVEEwN3VxVGMtZjdfUFJzbTZ5Mk50ZnNTVzA4Y3dRQXJEV1BqUkxhRkhkY1dZUWFuWnBNV2l2aWk4ZUF3UVdZZ1ljR2dJYkVxdXlhdzTSAcgBQVVfeXFMUE1ZeFI1ZmUyWG5yNV9oX3BxeklzeFBsbDVKYjl1RUJld0NfbkVmbENfVVdHYWVsbVg3MnQzOVlPXzYyRFNWS0R0TVg5RWV2eGYxbm9mUjVUX0FKb1lvY3J4YXlzdTRMRktfaXRfVm00dFVRUWVGMnoyNU9RcWZLNV9hNktSWHNhdkJsN0ZBQWsxZFhROU1aTEtmV2toLXZVcmo5QXFhNEFtMjd1emV3WDFCU0Fjc0EyX2Eyd2VPd2pubVY2bENMYm4?oc=5</link>
+      <description>Publié le : Sat, 15 Aug 2026 07:00:00 GMT - Source : Google News (ES)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQkNtUzNMd2JTZnRtdFdwU2FnYkxDLS1WejFSdjdZdFhIemhKZFpXUkllVnIyV055dmhrNk5qellGXy1Gbjc2LTF0QVlNa3ZRXzFmVFB3eTFGOENkbzd1bW1CalRNZ01INjBVWEt5bnpwcG5pR2pKVEEwN3VxVGMtZjdfUFJzbTZ5Mk50ZnNTVzA4Y3dRQXJEV1BqUkxhRkhkY1dZUWFuWnBNV2l2aWk4ZUF3UVdZZ1ljR2dJYkVxdXlhdzTSAcgBQVVfeXFMUE1ZeFI1ZmUyWG5yNV9oX3BxeklzeFBsbDVKYjl1RUJld0NfbkVmbENfVVdHYWVsbVg3MnQzOVlPXzYyRFNWS0R0TVg5RWV2eGYxbm9mUjVUX0FKb1lvY3J4YXlzdTRMRktfaXRfVm00dFVRUWVGMnoyNU9RcWZLNV9hNktSWHNhdkJsN0ZBQWsxZFhROU1aTEtmV2toLXZVcmo5QXFhNEFtMjd1emV3WDFCU0Fjc0EyX2Eyd2VPd2pubVY2bENMYm4?oc=5</guid>
+      <pubDate>Sat, 15 Aug 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[EN] A busy weekend to come of championship competitions: England Athletics U16 &amp; U18 Combined Events, Senior Para Championships and National Relay Championships - England Athletics</title>
@@ -99,11 +85,11 @@
       <pubDate>Wed, 26 Aug 2026 19:26:21 +0000</pubDate>
     </item>
     <item>
-      <title>[EN] Indian athletics calendar 2026 - full schedule - Olympics</title>
-      <link>https://news.google.com/rss/articles/CBMifEFVX3lxTE1ScEZQd3FoeVZOa0JKYTJMajRCTHZlNzJHQm5HaHpoYjI0RmwwX3JmOHhRTHV3VWIwblR2bFlyYVQzd1FVUm5TYzdkMk9RMV9taFNBSUxzZk55SEhsQlRWQTVoYmwyUDE0bHFPR21kMFg4dWx2WkRpNTR2QjM?oc=5</link>
-      <description>Publié le : Thu, 27 Aug 2026 07:00:00 GMT - Source : Google News (EN)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMifEFVX3lxTE1ScEZQd3FoeVZOa0JKYTJMajRCTHZlNzJHQm5HaHpoYjI0RmwwX3JmOHhRTHV3VWIwblR2bFlyYVQzd1FVUm5TYzdkMk9RMV9taFNBSUxzZk55SEhsQlRWQTVoYmwyUDE0bHFPR21kMFg4dWx2WkRpNTR2QjM?oc=5</guid>
-      <pubDate>Thu, 27 Aug 2026 07:00:00 +0000</pubDate>
+      <title>[ES] El Tetratlón de Chapelco 2026 se vive en directo - NoticiasNQN</title>
+      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVjR2UHFpbXNNZU1Nc3o5bFlyZWxKTmEyTHRWS0FCRHhBd0IxalRaOEl2a0tNd2c2RG82Vm9pV21NUmdQUVlXVXdfd1JJeWNrVUNhX05rdHNWOUlUUnBVWUdDT3huX0IydFNFVlFtdDVQRmNRU2RSVzI2UFY3WWxoRGZEVmhnTmZreGs1S1gwSXZjeHdDX3ZkYXJpNGRzdWxjZF9xTkpqM1BVd9IBrwFBVV95cUxNWmZ0V2tkOUlXaWoxUEZOZVJNVmRjZVExTG5xZVhNbTl0WlQ4NEMyUUpnOTRDWjVQZ0lnUTk3ZGpfLWZIM0tDTnhMN05IZk9WSHFJYzNxNG4wRFNueGROaXBKc0Q0RVBGQjFZU3lJMV84ZGR0WG1KR2ZDUlRDM2Y5a0o0MXRxMkRnRUoza0xrYk5XaUxWZTZpclFqbzd3dmp5WEUxblQ3dWM5R3diSUI0?oc=5</link>
+      <description>Publié le : Sat, 29 Aug 2026 07:00:00 GMT - Source : Google News (ES)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVjR2UHFpbXNNZU1Nc3o5bFlyZWxKTmEyTHRWS0FCRHhBd0IxalRaOEl2a0tNd2c2RG82Vm9pV21NUmdQUVlXVXdfd1JJeWNrVUNhX05rdHNWOUlUUnBVWUdDT3huX0IydFNFVlFtdDVQRmNRU2RSVzI2UFY3WWxoRGZEVmhnTmZreGs1S1gwSXZjeHdDX3ZkYXJpNGRzdWxjZF9xTkpqM1BVd9IBrwFBVV95cUxNWmZ0V2tkOUlXaWoxUEZOZVJNVmRjZVExTG5xZVhNbTl0WlQ4NEMyUUpnOTRDWjVQZ0lnUTk3ZGpfLWZIM0tDTnhMN05IZk9WSHFJYzNxNG4wRFNueGROaXBKc0Q0RVBGQjFZU3lJMV84ZGR0WG1KR2ZDUlRDM2Y5a0o0MXRxMkRnRUoza0xrYk5XaUxWZTZpclFqbzd3dmp5WEUxblQ3dWM5R3diSUI0?oc=5</guid>
+      <pubDate>Sat, 29 Aug 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[EN] Jaimie Robinson - Assistant Coach - Jumps and Combined Events - Women's Track &amp; Field Coaches - University of Illinois Athletics</title>
@@ -118,6 +104,20 @@
       <description>Publié le : Tue, 01 Sep 2026 07:00:00 GMT - Source : Google News (EN)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivwFBVV95cUxNbTM3YXd1S2E0YTZacHZ0clVSakVFTU4taFBaX19ZLWJiQW1tOW5SQVB5VTlTM2lrRVpIeGNpcmlMM0JkbE1iX1Z5S3ROZFlQZUtkUnRWeDBFckZlZU1ieDNDZEtDX3lIcWhPVWR1OVc3N2w2NGRIekNiUjJNRDFudG00M2RsVGRTdnNYajR6T2VBTUJOZ0t5YlVHZUFSa01CWWxXUkJGdE9qY3NDdXlaTDNxNmM5S0s3d1lSYUFQYw?oc=5</guid>
       <pubDate>Tue, 01 Sep 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[ES] Plottier presentó la 6.ª edición del Duatlón “Copa Ciudad de Plottier” - NoticiasNQN</title>
+      <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY3drTXdDRF91UFBXUDNfbVpnR3FSRmpkcnVKcHdheGIxZE9YbmxHSzlyR2FPRnJrTklKVmxRVkFXak1RclZoc1FFVVpxN1Z4M2U0ajNyaFBiamVXZlR1Nk1JMjRJLVFnQjBnYXF5VmRIMndLS0lBXy1NWkVEOEo3Vi1TbXN3VnYwYU1JZjBKZTJVVy1TbDlLcmk1SDctWFpvNEotWlhKS3hCcHVuaXFScy1ZUERaQjNSSWI3SzlFbHdHQdIBxwFBVV95cUxQdi1jN1hlMEkwR3poVmxNNm41VFVub0VtSUdsVjl2NmxnVnpVb1NQc0t3N3hTb0x1b1VGdkwybTlGSFhoM3FBVjVHSnB5LVdhUWVCNm5KTTY3WVItS3k2THF3WDJsN2JxZzhnaFFDRlZDRmRFWWs4VC12SDBuRVRjanNmV1NwaVMwNEdyazFWSTFQZUFJOEs1djdoTlNwdHpNeHduNGV2LWxMWE1UbkNrcGU3bk9HUExvV2R6RUEtM3RVMkR6b25Z?oc=5</link>
+      <description>Publié le : Fri, 04 Sep 2026 07:00:00 GMT - Source : Google News (ES)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY3drTXdDRF91UFBXUDNfbVpnR3FSRmpkcnVKcHdheGIxZE9YbmxHSzlyR2FPRnJrTklKVmxRVkFXak1RclZoc1FFVVpxN1Z4M2U0ajNyaFBiamVXZlR1Nk1JMjRJLVFnQjBnYXF5VmRIMndLS0lBXy1NWkVEOEo3Vi1TbXN3VnYwYU1JZjBKZTJVVy1TbDlLcmk1SDctWFpvNEotWlhKS3hCcHVuaXFScy1ZUERaQjNSSWI3SzlFbHdHQdIBxwFBVV95cUxQdi1jN1hlMEkwR3poVmxNNm41VFVub0VtSUdsVjl2NmxnVnpVb1NQc0t3N3hTb0x1b1VGdkwybTlGSFhoM3FBVjVHSnB5LVdhUWVCNm5KTTY3WVItS3k2THF3WDJsN2JxZzhnaFFDRlZDRmRFWWs4VC12SDBuRVRjanNmV1NwaVMwNEdyazFWSTFQZUFJOEs1djdoTlNwdHpNeHduNGV2LWxMWE1UbkNrcGU3bk9HUExvV2R6RUEtM3RVMkR6b25Z?oc=5</guid>
+      <pubDate>Fri, 04 Sep 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[FR] Les étoiles ont rendez-vous avec l’exploit - France Télévisions</title>
+      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxQVWZ1eUVTZVF5RTFUbVdWZmEzWjhLZnVjU2dlQ0VWX1QtT2RCTHBJODc1aVFkeXhuQXN5czdYWHI4S1VfY2c0NlY3OVNqQmJsYmJQOHZLLUlQWUVIN0RNRExZWjdWZ3hWcHFvYi1DOFIxYXhkelJZS2VoRUh5bldmRUUzOWxmb084NkFSem1lWUFYLUU4RW8zOGpJbzVBQzRLcjZXSTJYUEhacVdCLWc?oc=5</link>
+      <description>Publié le : Thu, 10 Sep 2026 16:33:51 GMT - Source : Google News (FR)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirgFBVV95cUxQVWZ1eUVTZVF5RTFUbVdWZmEzWjhLZnVjU2dlQ0VWX1QtT2RCTHBJODc1aVFkeXhuQXN5czdYWHI4S1VfY2c0NlY3OVNqQmJsYmJQOHZLLUlQWUVIN0RNRExZWjdWZ3hWcHFvYi1DOFIxYXhkelJZS2VoRUh5bldmRUUzOWxmb084NkFSem1lWUFYLUU4RW8zOGpJbzVBQzRLcjZXSTJYUEhacVdCLWc?oc=5</guid>
+      <pubDate>Thu, 10 Sep 2026 16:33:51 +0000</pubDate>
     </item>
     <item>
       <title>[EN] South Korea's Modern Pentathlon Team Targets Gold - 조선일보</title>
@@ -148,13 +148,6 @@
       <pubDate>Wed, 23 Sep 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[EN] Which seven events are included in the women’s heptathlon that Jackie Joyner-Kersee competed in? - Britannica</title>
-      <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxNQ0dfTmdiVHNzWUhXd19udVVqckI1dHNGQ2tkN1huWUs5eXFoQVIxYXZPQWppOUZpVXJkdm9jT3FaUW5XNldaWDJJN0g3S1BfWURWWUdIazdpa1Awb2prcEYtMTVMOVZXbE5QUzF4RjdkLTBwcjJrbXU1aFFWVkZWY3BENmtRY3VRX1QyQm1NSVVBWmtTN2tLd2dlbFB2NmJpSVF3R3JvcktZT1kxcUwwSzJZY2VNUzRFLXBFeEdDWEpYTGdHUW0wbUc2VQ?oc=5</link>
-      <description>Publié le : Thu, 24 Sep 2026 06:03:03 GMT - Source : Google News (EN)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiywFBVV95cUxNQ0dfTmdiVHNzWUhXd19udVVqckI1dHNGQ2tkN1huWUs5eXFoQVIxYXZPQWppOUZpVXJkdm9jT3FaUW5XNldaWDJJN0g3S1BfWURWWUdIazdpa1Awb2prcEYtMTVMOVZXbE5QUzF4RjdkLTBwcjJrbXU1aFFWVkZWY3BENmtRY3VRX1QyQm1NSVVBWmtTN2tLd2dlbFB2NmJpSVF3R3JvcktZT1kxcUwwSzJZY2VNUzRFLXBFeEdDWEpYTGdHUW0wbUc2VQ?oc=5</guid>
-      <pubDate>Thu, 24 Sep 2026 06:03:03 +0000</pubDate>
-    </item>
-    <item>
       <title>[FR] Figeac. Christophe Fournial sacré vice-champion de France de pentathlon sur piste - ladepeche.fr</title>
       <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxNMHlBVEh5TldfMHlyZEZYU2M4ZjR3T2h4M0ZjSmJvUmZVQlFpaTcyeC1lY3NXNmRQOXNzd2xhZ2lLTkxxcFdJYzBKSzRaZHpzNHBQT1lvTnRWR2VycTI1dWNSQndJdHl2NHlxQVphZUxxWHRVQVJYZWtKb3dKQTVndmxmR0UtdVpNeFFsYWdWNGdxWF91Q0ZtTENLODdwX0JuLWt5UmFTeTlENk9TeDNlckF0Y21UcE9VTzYwLTFqbw?oc=5</link>
       <description>Publié le : Sat, 26 Sep 2026 07:00:00 GMT - Source : Google News (FR)</description>
@@ -176,25 +169,11 @@
       <pubDate>Wed, 30 Sep 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[EN] Ehammer and Kälin make history with Swiss double in Combined Events Tour - Sportzhub</title>
-      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxQZlBfN3M5QmVrVldNbXQxczBlWXZVYXJrdVZpN0R3eG0tam96MEh3UUZzT3NDUE83TmtLd0dvYlBjZGg1bldBNlhTVmxlNmZZcFNoUmhaY0huUDU0T2lGLVNERElkaVVISWg1QzNTUHpDY1dBNkx4cHVnajlOUS1iX1RJdHFjaFlsXzFEMnNEcTRLMkJTYnJKcUk5bWZsTTlIX0ctTXpXejVlSGZXM2ZMYw?oc=5</link>
-      <description>Publié le : Wed, 30 Sep 2026 21:29:14 GMT - Source : Google News (EN)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisAFBVV95cUxQZlBfN3M5QmVrVldNbXQxczBlWXZVYXJrdVZpN0R3eG0tam96MEh3UUZzT3NDUE83TmtLd0dvYlBjZGg1bldBNlhTVmxlNmZZcFNoUmhaY0huUDU0T2lGLVNERElkaVVISWg1QzNTUHpDY1dBNkx4cHVnajlOUS1iX1RJdHFjaFlsXzFEMnNEcTRLMkJTYnJKcUk5bWZsTTlIX0ctTXpXejVlSGZXM2ZMYw?oc=5</guid>
-      <pubDate>Wed, 30 Sep 2026 21:29:14 +0000</pubDate>
-    </item>
-    <item>
       <title>[EN] A Rare Swiss Sweep In The Sport That Punishes Almost Everything - Sustain Health Magazine</title>
       <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxPR21sZERVNkJVaU1kS3lnZ3F2eTJ2aWNrZ01SQU1aSTgyd2p4LVRwQjlVZDBuWl94MnB3bTZ0SFVWOUdBR2wtWXFIcEktTl9TTFBqVnpCbXFYM1Y3VDIwZjFYOWowTzc2NllIRkM2VEdoQ0dzdTZnOGUzbm16OWdCX0JtMnRPdUJ6MEdCYTJYTUg?oc=5</link>
       <description>Publié le : Thu, 01 Oct 2026 05:45:08 GMT - Source : Google News (EN)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMikAFBVV95cUxPR21sZERVNkJVaU1kS3lnZ3F2eTJ2aWNrZ01SQU1aSTgyd2p4LVRwQjlVZDBuWl94MnB3bTZ0SFVWOUdBR2wtWXFIcEktTl9TTFBqVnpCbXFYM1Y3VDIwZjFYOWowTzc2NllIRkM2VEdoQ0dzdTZnOGUzbm16OWdCX0JtMnRPdUJ6MEdCYTJYTUg?oc=5</guid>
       <pubDate>Thu, 01 Oct 2026 05:45:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>[FR] Ehammer et Kälin remportent le classement mondial des épreuves combinées - La Télé</title>
-      <link>https://news.google.com/rss/articles/CBMieEFVX3lxTFBtV1hEd25nMXVWeGI1Q1VwZ042dkZ0LWQ5NERRMHJ2T0lPcFEwbDgzcU5vbFFxZ0hkamxaMmZIeU04OVd3ZWNRakNCZFV0YWFZM0RaQ0pzS2ZQVGVBcmFubnVZamRRT09oUnkxbWZvLTI4UndFV2xzcA?oc=5</link>
-      <description>Publié le : Thu, 01 Oct 2026 06:22:00 GMT - Source : Google News (FR)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMieEFVX3lxTFBtV1hEd25nMXVWeGI1Q1VwZ042dkZ0LWQ5NERRMHJ2T0lPcFEwbDgzcU5vbFFxZ0hkamxaMmZIeU04OVd3ZWNRakNCZFV0YWFZM0RaQ0pzS2ZQVGVBcmFubnVZamRRT09oUnkxbWZvLTI4UndFV2xzcA?oc=5</guid>
-      <pubDate>Thu, 01 Oct 2026 06:22:00 +0000</pubDate>
     </item>
     <item>
       <title>[FR] Ehammer et Kälin signent un doublé suisse - Leman bleu</title>
@@ -286,6 +265,27 @@
       <description>Publié le : Sun, 11 Oct 2026 03:54:54 GMT - Source : Google News (EN)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV19YMlh4ZjY2MDhENUZXZzdrWE5jdUpGVzRHc3NzWEUzQXlldVc3aHdVc1JXRk9ROExoNlNlalgySkctU2pwdUJOVE92THZ1b21zRDY1eTV4TFVtLTFHVnB2YVp2UHdjWFZQYnBMSVlBdExEVF80VGRRYWgtZHUwRDJsclg4bWU0OXZ2SE1iTW8wYzRkVE5TX09VTXhGOXhIbEJuTVBTOTY2UGdGSUYteVZRNlluaUxzRGI3UkhfX3R2VW8?oc=5</guid>
       <pubDate>Sun, 11 Oct 2026 03:54:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[EN] Vicente scores world pentathlon lead of 4728 points on her combined events comeback in Aubière - European Athletics</title>
+      <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxOb3dKaks0YkFqMjgtaHlYa3RheUVveFFSMEt3NzdRUkwtZVNERXdpMk5PNWlQQmljcnk0ekVxN0JKNzVkempwY2VSVTRibm1TQWNkM0tVd1k2b2w1QWpXSURIRk9jSGd6WTB2dEZrMHZwOEZlYlhhQzgzaGp6TmkxWUItSExvd3FHYXNVZW1TZm54anFSemMxa3pzQ0M5Zi1rVXJqVHNpU0xJQ0JlcXloNXdMVWFFel9OYVZ0aGhwUl9NMXpl?oc=5</link>
+      <description>Publié le : Mon, 12 Oct 2026 20:14:04 GMT - Source : Google News (EN)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixAFBVV95cUxOb3dKaks0YkFqMjgtaHlYa3RheUVveFFSMEt3NzdRUkwtZVNERXdpMk5PNWlQQmljcnk0ekVxN0JKNzVkempwY2VSVTRibm1TQWNkM0tVd1k2b2w1QWpXSURIRk9jSGd6WTB2dEZrMHZwOEZlYlhhQzgzaGp6TmkxWUItSExvd3FHYXNVZW1TZm54anFSemMxa3pzQ0M5Zi1rVXJqVHNpU0xJQ0JlcXloNXdMVWFFel9OYVZ0aGhwUl9NMXpl?oc=5</guid>
+      <pubDate>Mon, 12 Oct 2026 20:14:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[EN] Skotheim wins $30,000 World Combined Events Tour title - European Athletics</title>
+      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxOVjE2dHJMYWxxTG9CQ0JZcHhQbVd2enhiRUFrUFNQdWZvT0kyNFpEai1pTndVU0Y4U3pTMnJLcDZ2c0VQcVVSMWRXd1h4YVg1SEM3cmdET0FmenZuNUg3cnctSHc0YW95ME9heWhWRHV3dktBUkxLbDZQaVhTZ2treldaVkt2N2NHQVpjUTRkeVlQQzdhLUdrRUw3QUg?oc=5</link>
+      <description>Publié le : Tue, 13 Oct 2026 00:16:05 GMT - Source : Google News (EN)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMinAFBVV95cUxOVjE2dHJMYWxxTG9CQ0JZcHhQbVd2enhiRUFrUFNQdWZvT0kyNFpEai1pTndVU0Y4U3pTMnJLcDZ2c0VQcVVSMWRXd1h4YVg1SEM3cmdET0FmenZuNUg3cnctSHc0YW95ME9heWhWRHV3dktBUkxLbDZQaVhTZ2treldaVkt2N2NHQVpjUTRkeVlQQzdhLUdrRUw3QUg?oc=5</guid>
+      <pubDate>Tue, 13 Oct 2026 00:16:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[EN] Vanninen leads hard fought pentathlon after three events - European Athletics</title>
+      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxNWEg3U3NEZGJWSFVJdVVEbUlRYlNXdEtvdFo0MWVsMmpud2EtV3lRalhFbnhMcXVNT21OQnJHT2U4RkNWYlZMU2lSMUgyMnFDdmlWMUpmeEZtVUVfWklubGlDMDBIMVFOS1h5bERjNUU3aHUyc18wb2MwYjYxTEV5cGozV1J0NENaSXBmUi1kS1BqSUdOQ19nbkQ4SFNqOHh6?oc=5</link>
+      <description>Publié le : Tue, 13 Oct 2026 07:16:27 GMT - Source : Google News (EN)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMioAFBVV95cUxNWEg3U3NEZGJWSFVJdVVEbUlRYlNXdEtvdFo0MWVsMmpud2EtV3lRalhFbnhMcXVNT21OQnJHT2U4RkNWYlZMU2lSMUgyMnFDdmlWMUpmeEZtVUVfWklubGlDMDBIMVFOS1h5bERjNUU3aHUyc18wb2MwYjYxTEV5cGozV1J0NENaSXBmUi1kS1BqSUdOQ19nbkQ4SFNqOHh6?oc=5</guid>
+      <pubDate>Tue, 13 Oct 2026 07:16:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
