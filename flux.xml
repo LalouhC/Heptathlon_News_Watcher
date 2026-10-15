@@ -6,7 +6,14 @@
     <description>Flux international automatisé (FR/EN/ES) pour Heptaleo.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Oct 2026 10:56:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 16:24:10 +0000</lastBuildDate>
+    <item>
+      <title>[ES] Paul McGrath e Inés López, primeros campeones en Málaga 2026 - RFEA</title>
+      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxPMXlvTENNMmtqLU5KdERDdXIyYmJaRTZDX2pGajVBRTNrU0hjT0x5RDNtT290bi03T1h1b20wdUJCNlA4empWZkFpMEx4VFp6bTZXMnVkaF8xUHRJQUh0YkFSYzBJcjVCWV9LYWs4Z0U5ODBYRjFseHIxdlkyejhnUFVha09MSlpZSVRzalUzZTlfb3NrdDBYZVZQeWRjZ0dkUlN6MWZtNnNqN3BJQlg4aHhyY21kOWpuZ0E2eHpSSQ?oc=5</link>
+      <description>Publié le : Fri, 24 Jul 2026 07:00:00 GMT - Source : Google News (ES)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivwFBVV95cUxPMXlvTENNMmtqLU5KdERDdXIyYmJaRTZDX2pGajVBRTNrU0hjT0x5RDNtT290bi03T1h1b20wdUJCNlA4empWZkFpMEx4VFp6bTZXMnVkaF8xUHRJQUh0YkFSYzBJcjVCWV9LYWs4Z0U5ODBYRjFseHIxdlkyejhnUFVha09MSlpZSVRzalUzZTlfb3NrdDBYZVZQeWRjZ0dkUlN6MWZtNnNqN3BJQlg4aHhyY21kOWpuZ0E2eHpSSQ?oc=5</guid>
+      <pubDate>Fri, 24 Jul 2026 07:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>[FR] Athlétisme. Léonie Cambours regarde vers le haut et se tient prête à viser les étoiles - lecourriercauchois.fr</title>
       <link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxOa1NVWWF2bnpGa2NId0stQm9fbmhQN1hhNVo3OUFzNEs5TVV3d3hfY1VGUktMU2dLcmE3SE9IMkhwczRWT2pONFVGMElmRlVRX3N0UWpNcm1uVGlGNW4wV09wWHZoWkFpa25CbVBEV0VnUFlvQlBvV1lyTzY1X281MlhkZWVxc2ZqWlhmR3RUNDlWRHEtVzRYejRyQjRYUS1OVTFIdTBwRmFLLUhSRVRaUHZGZDl5c0VzQTVIQUxLMVRXcVBjMkJRR1RuRHFmaVdQYUE?oc=5</link>
@@ -26,13 +33,6 @@
       <link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMDltSXg0TUZxeWJMdUJycTR5M2lZQXhuWENfRnpzV1Y2dU1SYU51b3p2aFVVd2NQRFQtdVJtQjdYNjhBcFBzX1JNbWZQTTlPVW8zS0l2RmxKd2ZvaFZ6cVNmbGNxMkp0d0N4bDUydV9uX1c5UmVVR1ZaRDJ2ckx1TnRWRkh5ZExpaVZBWEE0VGhoOEQ2U0RvcGZNUURVU3dlcnFxazNsaDNYTUhJQWZJbHdfek5aQWFCN1Z2bVhmSWVHWmNIN3RFbC1vM0JqSnhSYldCYl9n?oc=5</link>
       <description>Publié le : Sat, 25 Jul 2026 07:00:00 GMT - Source : Google News (ES)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMDltSXg0TUZxeWJMdUJycTR5M2lZQXhuWENfRnpzV1Y2dU1SYU51b3p2aFVVd2NQRFQtdVJtQjdYNjhBcFBzX1JNbWZQTTlPVW8zS0l2RmxKd2ZvaFZ6cVNmbGNxMkp0d0N4bDUydV9uX1c5UmVVR1ZaRDJ2ckx1TnRWRkh5ZExpaVZBWEE0VGhoOEQ2U0RvcGZNUURVU3dlcnFxazNsaDNYTUhJQWZJbHdfek5aQWFCN1Z2bVhmSWVHWmNIN3RFbC1vM0JqSnhSYldCYl9n?oc=5</guid>
-      <pubDate>Sat, 25 Jul 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[FR] Championnats de France Elite : Alexis Miellet, Louey Ouerrat et Agathe Guillemot finisseurs hors pair à Albi - stadion.com</title>
-      <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxPZ1pjY3BjM3pmRlFBOG5qQUNmRi1JVUpTSGRQRjdOTGNlT0JFNXNzeE5zUklyRk94dDFwSjctZWVSN1Jzd2RhVElHZ2FXclIxaWgzN2dfWWwzNlZzTVh6bjF2a2tlSmY0bjZrTTZlX3MtME9QdEtnN0tlQ21hSjFJNGNYMlVRclB2ektGUW1Qc1RpRHV5RVNPeDgyZzUyTzQ3OWQyajRTbWo1VEhvd1JUWDdiTHZvZVlFYW1wOWRMLXF3M3dBaURsVGhB?oc=5</link>
-      <description>Publié le : Sat, 25 Jul 2026 07:00:00 GMT - Source : Google News (FR)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiygFBVV95cUxPZ1pjY3BjM3pmRlFBOG5qQUNmRi1JVUpTSGRQRjdOTGNlT0JFNXNzeE5zUklyRk94dDFwSjctZWVSN1Jzd2RhVElHZ2FXclIxaWgzN2dfWWwzNlZzTVh6bjF2a2tlSmY0bjZrTTZlX3MtME9QdEtnN0tlQ21hSjFJNGNYMlVRclB2ektGUW1Qc1RpRHV5RVNPeDgyZzUyTzQ3OWQyajRTbWo1VEhvd1JUWDdiTHZvZVlFYW1wOWRMLXF3M3dBaURsVGhB?oc=5</guid>
       <pubDate>Sat, 25 Jul 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
@@ -176,17 +176,17 @@
       <pubDate>Thu, 01 Oct 2026 06:22:00 +0000</pubDate>
     </item>
     <item>
-      <title>[EN] "Achieving equal prize money across all combined WTA 1000 tournaments is a major milestone for tennis," WTA chair Valerie Camillo said. - Sky Sports</title>
-      <link>https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdWVfUUdTSjZ3ZEV3bzUzYWEtU2ROU1c5bS1aQW1RemxlRmM0Z3dzWF9XVER4N1FUenRzWkZDYUJmWGlQR1JwUHgtU3VFSk5rQUlpZ1l4Qkpubkh0cmY0UnlBUWlxdEdFWTNJX2M2NlF2ZWd2STh0Rmc1UlJldUtUNHhmSHJZY0pmeVlCOXd1RmUzZ3dhWkJOeDJSaEQzTTNfem8yaG1UaVI2emhYSkRONTBXUjE5bDh1dEE3UlhRbkhKaHdodEhTdnRxaHdPMkNCYjhGc3Q1QlZZaWJiSXV2cmpNOTdGNWJUVlVVZDVWMEdyOEI1clV0Z0hHUDM?oc=5</link>
-      <description>Publié le : Thu, 01 Oct 2026 07:00:00 GMT - Source : Google News (EN)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdWVfUUdTSjZ3ZEV3bzUzYWEtU2ROU1c5bS1aQW1RemxlRmM0Z3dzWF9XVER4N1FUenRzWkZDYUJmWGlQR1JwUHgtU3VFSk5rQUlpZ1l4Qkpubkh0cmY0UnlBUWlxdEdFWTNJX2M2NlF2ZWd2STh0Rmc1UlJldUtUNHhmSHJZY0pmeVlCOXd1RmUzZ3dhWkJOeDJSaEQzTTNfem8yaG1UaVI2emhYSkRONTBXUjE5bDh1dEE3UlhRbkhKaHdodEhTdnRxaHdPMkNCYjhGc3Q1QlZZaWJiSXV2cmpNOTdGNWJUVlVVZDVWMEdyOEI1clV0Z0hHUDM?oc=5</guid>
-      <pubDate>Thu, 01 Oct 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[EN] WTA confirms equal prize money across all combined 1000 events from 2027 - Flashscore.com</title>
       <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxOd0FqYzRWVUJ1ajR1aUMxQXVnZTFoMU9FRVJKRDFGdDJQZDRUa0RZdXRqa293UGxpNG84RjdKYjUxM1c3aFJPX1VEem9ndnFGZzlMcElYaW56VlcyYlhmRUY3UEt2Tll2VWM5a1FfeUJzbFhPTU90akxES3MtemdvbTY1OE1TM1EwV2lIaGVuZmFDYXVDNklNU3pHVnRjOVFNYXJUV1U3VGEtS1M2cDhucVNwT3M?oc=5</link>
       <description>Publié le : Thu, 01 Oct 2026 07:00:00 GMT - Source : Google News (EN)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitAFBVV95cUxOd0FqYzRWVUJ1ajR1aUMxQXVnZTFoMU9FRVJKRDFGdDJQZDRUa0RZdXRqa293UGxpNG84RjdKYjUxM1c3aFJPX1VEem9ndnFGZzlMcElYaW56VlcyYlhmRUY3UEt2Tll2VWM5a1FfeUJzbFhPTU90akxES3MtemdvbTY1OE1TM1EwV2lIaGVuZmFDYXVDNklNU3pHVnRjOVFNYXJUV1U3VGEtS1M2cDhucVNwT3M?oc=5</guid>
+      <pubDate>Thu, 01 Oct 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[EN] "Achieving equal prize money across all combined WTA 1000 tournaments is a major milestone for tennis," WTA chair Valerie Camillo said. - Sky Sports</title>
+      <link>https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdWVfUUdTSjZ3ZEV3bzUzYWEtU2ROU1c5bS1aQW1RemxlRmM0Z3dzWF9XVER4N1FUenRzWkZDYUJmWGlQR1JwUHgtU3VFSk5rQUlpZ1l4Qkpubkh0cmY0UnlBUWlxdEdFWTNJX2M2NlF2ZWd2STh0Rmc1UlJldUtUNHhmSHJZY0pmeVlCOXd1RmUzZ3dhWkJOeDJSaEQzTTNfem8yaG1UaVI2emhYSkRONTBXUjE5bDh1dEE3UlhRbkhKaHdodEhTdnRxaHdPMkNCYjhGc3Q1QlZZaWJiSXV2cmpNOTdGNWJUVlVVZDVWMEdyOEI1clV0Z0hHUDM?oc=5</link>
+      <description>Publié le : Thu, 01 Oct 2026 07:00:00 GMT - Source : Google News (EN)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdWVfUUdTSjZ3ZEV3bzUzYWEtU2ROU1c5bS1aQW1RemxlRmM0Z3dzWF9XVER4N1FUenRzWkZDYUJmWGlQR1JwUHgtU3VFSk5rQUlpZ1l4Qkpubkh0cmY0UnlBUWlxdEdFWTNJX2M2NlF2ZWd2STh0Rmc1UlJldUtUNHhmSHJZY0pmeVlCOXd1RmUzZ3dhWkJOeDJSaEQzTTNfem8yaG1UaVI2emhYSkRONTBXUjE5bDh1dEE3UlhRbkhKaHdodEhTdnRxaHdPMkNCYjhGc3Q1QlZZaWJiSXV2cmpNOTdGNWJUVlVVZDVWMEdyOEI1clV0Z0hHUDM?oc=5</guid>
       <pubDate>Thu, 01 Oct 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
