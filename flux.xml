@@ -6,7 +6,7 @@
     <description>Flux international automatisé (FR/EN/ES) pour Heptaleo.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 Oct 2026 15:27:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 20:19:02 +0000</lastBuildDate>
     <item>
       <title>[FR] Les étoiles ont rendez-vous avec l’exploit - France Télévisions</title>
       <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxQVWZ1eUVTZVF5RTFUbVdWZmEzWjhLZnVjU2dlQ0VWX1QtT2RCTHBJODc1aVFkeXhuQXN5czdYWHI4S1VfY2c0NlY3OVNqQmJsYmJQOHZLLUlQWUVIN0RNRExZWjdWZ3hWcHFvYi1DOFIxYXhkelJZS2VoRUh5bldmRUUzOWxmb084NkFSem1lWUFYLUU4RW8zOGpJbzVBQzRLcjZXSTJYUEhacVdCLWc?oc=5</link>
@@ -227,9 +227,9 @@
     <item>
       <title>[EN] How Do Combined Sewer Overflows Affect Water Quality in Philadelphia? - Drexel University</title>
       <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxOMGJyc3Fmd0NTOXJac25pc3dGN3p0S1V6eGtPWktLVjI5ZnVPSkdXZDRpNndzWDh3SnZvYmVTdXBISkowdXNHLS1kRUpHeUxsRjJ3b3A0MHFwenphQjkyTFh0NlFVSVFqRk03Z0QzbUpCanNDLTlTcGY4TVQ0NDdjaVdsVnRpWG5LMnY1UGsyYk0yX3JKTFZCcUM5Wi1qMmNF?oc=5</link>
-      <description>Publié le : Thu, 15 Oct 2026 16:24:48 GMT - Source : Google News (EN)</description>
+      <description>Publié le : Thu, 15 Oct 2026 07:00:00 GMT - Source : Google News (EN)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMioAFBVV95cUxOMGJyc3Fmd0NTOXJac25pc3dGN3p0S1V6eGtPWktLVjI5ZnVPSkdXZDRpNndzWDh3SnZvYmVTdXBISkowdXNHLS1kRUpHeUxsRjJ3b3A0MHFwenphQjkyTFh0NlFVSVFqRk03Z0QzbUpCanNDLTlTcGY4TVQ0NDdjaVdsVnRpWG5LMnY1UGsyYk0yX3JKTFZCcUM5Wi1qMmNF?oc=5</guid>
-      <pubDate>Thu, 15 Oct 2026 16:24:48 +0000</pubDate>
+      <pubDate>Thu, 15 Oct 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[ES] Palafrugell, próxima cita master - RFEA</title>
@@ -251,13 +251,6 @@
       <description>Publié le : Sat, 17 Oct 2026 15:06:56 GMT - Source : Google News (ES)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMingFBVV95cUxOS1pna0R4ZklsdFdieHpUZkNtR2xiaDFJRi01eGtfcWNHcnZBZ0tvWEEyQjk3ampKNnh5cVFmUDFraWllUFZBQlplRGNmcGdXQWNiMnRVOFRMa2RySWJTckNnbndfQ3NiWHYzQkJiZkFMRDI4WnJwel9lWjMxUExsSG91Q1g3VGd3SlZ3c2VXZkN5aG9QX1lxcHZQREFHUQ?oc=5</guid>
       <pubDate>Sat, 17 Oct 2026 15:06:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>[ES] Cuatro medallas máster en Palafrugell - Federación de Atletismo de la Región de Murcia</title>
-      <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE5tUGJGVTB6X2xOSUZMb0t0QWFocGsyY0RyX1NsZWFiS1VpU1VZM2NyUi1HaWdhRExqZ29TMmx5TkVOeEV5V0hwa3kxRWJta1VvUEhxaDNvbTFiX3ZmRUcyQXpYSHNlLU0tdUE?oc=5</link>
-      <description>Publié le : Mon, 19 Oct 2026 08:33:14 GMT - Source : Google News (ES)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiakFVX3lxTE5tUGJGVTB6X2xOSUZMb0t0QWFocGsyY0RyX1NsZWFiS1VpU1VZM2NyUi1HaWdhRExqZ29TMmx5TkVOeEV5V0hwa3kxRWJta1VvUEhxaDNvbTFiX3ZmRUcyQXpYSHNlLU0tdUE?oc=5</guid>
-      <pubDate>Mon, 19 Oct 2026 08:33:14 +0000</pubDate>
     </item>
     <item>
       <title>[ES] Motril reunirá a 350 jóvenes atletas en el Campeonato de Andalucía Oriental Individual Sub12 y de Combinadas Sub14 - El Faro Motril</title>
@@ -286,6 +279,13 @@
       <description>Publié le : Fri, 23 Oct 2026 16:58:16 GMT - Source : Google News (ES)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMilAFBVV95cUxPQk9oa2pHdktvVzJ6R2ZhM1F4YjF6Q0VLZmlOdV9KdmhYMXBpUzA0WE5BOGhHaFR1Um9VNHpsbTMtb09HcHZTM25nVjNNWk9xLUFLbk9RdFVobkJfbjREMzQxbUNJb1pZX0tyR3UzUkJxSmJXaGtiTnF0emN2Z2tnR2haMHJpUmVYTmFvSTBMV3VCU19n?oc=5</guid>
       <pubDate>Fri, 23 Oct 2026 16:58:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[ES] Bahía, Inmaculada y CA San Roque suben al podio en los dos andaluces de atletismo de Algeciras - Europa Sur</title>
+      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxNNGFfLWI5VjQ0Z1h1dzQ1SkIzU0hjOUpXT1l4cmN0WWJlTFRWTkVYR3dnRVBPckZNMTJWNF9XUVdfYzNuZDVlVndwd2c1cG5MWnVjYmQzdm5GV3FGU2NqeHRKc0J1WjEwejdtNTRsQ1NwWWt4RTNNbWhhNFpweldiaW5fcEk5V1RZeFBfR0NCT0VRZElEa3F1TTQwZkxRUXFUSjNVWVRrVnpsVmUzMUhldzduWQ?oc=5</link>
+      <description>Publié le : Sat, 24 Oct 2026 18:31:58 GMT - Source : Google News (ES)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiswFBVV95cUxNNGFfLWI5VjQ0Z1h1dzQ1SkIzU0hjOUpXT1l4cmN0WWJlTFRWTkVYR3dnRVBPckZNMTJWNF9XUVdfYzNuZDVlVndwd2c1cG5MWnVjYmQzdm5GV3FGU2NqeHRKc0J1WjEwejdtNTRsQ1NwWWt4RTNNbWhhNFpweldiaW5fcEk5V1RZeFBfR0NCT0VRZElEa3F1TTQwZkxRUXFUSjNVWVRrVnpsVmUzMUhldzduWQ?oc=5</guid>
+      <pubDate>Sat, 24 Oct 2026 18:31:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
