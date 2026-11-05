@@ -6,7 +6,7 @@
     <description>Flux international automatisé (FR/EN/ES) pour Heptaleo.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Nov 2026 14:04:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 23:18:34 +0000</lastBuildDate>
     <item>
       <title>[FR] Athlétisme . Épreuves combinées : Célian Pigeron et Timéo Pion en coup de vent - Le Progrès</title>
       <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxQZ3dmQjJFRFE5OG5La1pGaFM0ajBrbWVHNnItU2p6dHNvem50RjA2VlhKRHVQNjFKVGtsTm5wX2l3dmltQ1d1ZU5ZeVhJUVFadkFfRGlsdzJQMkxieVZ0d3owR29zbnc5c01kU0t5QlJ4ZkhuSndlYTlmNE00S3JnSzRQYkNBcEg4bmFjV3pTOA?oc=5</link>
@@ -40,6 +40,13 @@
       <link>https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNzU2WnZvaEdHNW5DZW1oTkl0NE52TThVS2UySnl6RUtqRUtielVyeTVmeTVmaE13Z0JrMmhnX1NCUjd1UHdjbDMwb3AydnVTZXBCVVptZ0ZIU3NjVHdNVEMwdFhoV1p5U2NFaGlaVjlTYzI3ZGFvZVhEdU1JLVdYN1hmUms3QjR0VG50ZVdmY1dIYVFwV0xWYml0TVhYcnFoVVpwcl92bmdNRDBDOUJWd1BQMFhSb0pTT1VlMlJrTk54WjB6M3ZGRXBIMGVnMTZiUkRqZzZJSDd2bWRMNE5pTjB3dFhRQVhx?oc=5</link>
       <description>Publié le : Sun, 24 May 2026 07:00:00 GMT - Source : Google News (FR)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNzU2WnZvaEdHNW5DZW1oTkl0NE52TThVS2UySnl6RUtqRUtielVyeTVmeTVmaE13Z0JrMmhnX1NCUjd1UHdjbDMwb3AydnVTZXBCVVptZ0ZIU3NjVHdNVEMwdFhoV1p5U2NFaGlaVjlTYzI3ZGFvZVhEdU1JLVdYN1hmUms3QjR0VG50ZVdmY1dIYVFwV0xWYml0TVhYcnFoVVpwcl92bmdNRDBDOUJWd1BQMFhSb0pTT1VlMlJrTk54WjB6M3ZGRXBIMGVnMTZiUkRqZzZJSDd2bWRMNE5pTjB3dFhRQVhx?oc=5</guid>
+      <pubDate>Sun, 24 May 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[FR] Athlétisme. Régionaux d’épreuves combinées : Claire Letourneur sacrée au bout d’un grand suspense - Ouest-France</title>
+      <link>https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbmMxSVF4dklOZlVZcEcxRU15bk9RQnF3S2hOcHBoTjdJOURtT3gtQ0Vqc015NzJ5WnFzNXNOVFRmandXTFI4cTlkWDdXTmt6Y1IyQnFjSklmUnZVaWRMczZlNVNDb3RXQ3BvVzFOclFvbDVTVFdZNE5tM2g1LVdqTklKR1JKWWQ4SXhRQkZmbEFDYmZTZllpSGxqdTZtMUVkQnB6WGlFQ2V6Q3FhVWtLZUVjRGI2bTlWdnJKeG5xQjRNNC1wUHBva014Z2lybWlVeWRYSGxnOENSWXct?oc=5</link>
+      <description>Publié le : Sun, 24 May 2026 07:00:00 GMT - Source : Google News (FR)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbmMxSVF4dklOZlVZcEcxRU15bk9RQnF3S2hOcHBoTjdJOURtT3gtQ0Vqc015NzJ5WnFzNXNOVFRmandXTFI4cTlkWDdXTmt6Y1IyQnFjSklmUnZVaWRMczZlNVNDb3RXQ3BvVzFOclFvbDVTVFdZNE5tM2g1LVdqTklKR1JKWWQ4SXhRQkZmbEFDYmZTZllpSGxqdTZtMUVkQnB6WGlFQ2V6Q3FhVWtLZUVjRGI2bTlWdnJKeG5xQjRNNC1wUHBva014Z2lybWlVeWRYSGxnOENSWXct?oc=5</guid>
       <pubDate>Sun, 24 May 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
@@ -90,13 +97,6 @@
       <description>Publié le : Wed, 24 Jun 2026 07:00:00 GMT - Source : Google News (EN)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUW93U1ZRNmVET1pERVJud3EtOGlPcWp6cmYybTFHbkVmdGJmeU1rWXdfMF93S3dqREFzUC10SlRieVNRNFljQUJ3OWRWVTJKUVV3a1JKb2xFckVHaHNXX3Y5UHltMHd6OHN4MjNNRmxnd05XTkh5QV9Ua1FJX1dMYXd3d2dyRzlINlRXMG1WUGtkbHdadC1nSFlFUi00cnprTnF5cUE4aDd5cUpTX0FadjhiRnhwTndP?oc=5</guid>
       <pubDate>Wed, 24 Jun 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[ES] Se encuentra abierta la inscripción para el Circuito Municipal de Pruebas Combinadas - Municipalidad de General Pueyrredon</title>
-      <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxObElwTHJ0MHpzR0pTZFBuck1HZ1ZQc3RTdzZGdDVvT054WnpvbUV1elFEelJLTG82ajJveEtXTlI0VlliMWkwMVc5UjRqai1tZzQxMXFjNVk1VlY5dFoybTlwbEc2VWZDMDZuN0ZUY2xCMl8xN01tZnhoSklvZWxiU1RHMWpmMWNQN01oNGx5ZWY3ZVB1Z0NOLUJVQUdOY2RDMzNlY1hVa3ZteUlZQVR3dzRxWkwzMkhKeUFSXzV1eFlYLUhGd09OTg?oc=5</link>
-      <description>Publié le : Mon, 29 Jun 2026 07:00:00 GMT - Source : Google News (ES)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiyAFBVV95cUxObElwTHJ0MHpzR0pTZFBuck1HZ1ZQc3RTdzZGdDVvT054WnpvbUV1elFEelJLTG82ajJveEtXTlI0VlliMWkwMVc5UjRqai1tZzQxMXFjNVk1VlY5dFoybTlwbEc2VWZDMDZuN0ZUY2xCMl8xN01tZnhoSklvZWxiU1RHMWpmMWNQN01oNGx5ZWY3ZVB1Z0NOLUJVQUdOY2RDMzNlY1hVa3ZteUlZQVR3dzRxWkwzMkhKeUFSXzV1eFlYLUhGd09OTg?oc=5</guid>
-      <pubDate>Mon, 29 Jun 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[FR] Yvetot. Léonie Cambours, grand retour en heptathlon - lecourriercauchois.fr</title>
