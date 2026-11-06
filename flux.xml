@@ -6,7 +6,7 @@
     <description>Flux international automatisé (FR/EN/ES) pour Heptaleo.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Nov 2026 13:48:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 22:45:18 +0000</lastBuildDate>
     <item>
       <title>[FR] Athlétisme. Pré-régionaux d’épreuves combinées : Célian Pigeron et Timéo Pion passent entre les gouttes - Le Progrès</title>
       <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxNaFYzSEJJQUlhbnQ4TXN1V1ZrSGZkUzVxYzluMWVEWWF1WXlZMU1nbXU1cEZHSElXV1AycFAtdmF5TjNEVmFvUVJvSG02QjRhb2xQb3BSSGQ3ZDNTQzhfRHdzbkFqc1QydDlBTjJBbXdrWTBFRFd0STJrZm52RG9JVkJuLV9RemFpdzl6VDRVYUNkNVdUUXMzdlRPMnQ?oc=5</link>
@@ -136,9 +136,9 @@
     <item>
       <title>[FR] Championnats de France d'Épreuves Combinées : Maël Bephassou Lannurien en or - Ligue de Bretagne d'Athlétisme</title>
       <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSW9vcmhKRG50MXpNQUVib1V2MTI5dWFMODBEaUZobDd3b0xsQWI1S01OVFBMRjVOYTZ0d1JRZ2NZc053aE82VGRQZ1ozRk1Cc2lNOVVORVlaN0xWYkpaTl9ubHEwamU3bzc4VnNYQTJ0S2dHMzczTU1zYmg5cjY3a1diT2JwUGFxeHV5Sjk5Z01rd2J5VmtBVFFURUt3akdFOFoxaEU1U3U5Nms?oc=5</link>
-      <description>Publié le : Mon, 06 Jul 2026 07:00:00 GMT - Source : Google News (FR)</description>
+      <description>Publié le : Sun, 05 Jul 2026 07:00:00 GMT - Source : Google News (FR)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSW9vcmhKRG50MXpNQUVib1V2MTI5dWFMODBEaUZobDd3b0xsQWI1S01OVFBMRjVOYTZ0d1JRZ2NZc053aE82VGRQZ1ozRk1Cc2lNOVVORVlaN0xWYkpaTl9ubHEwamU3bzc4VnNYQTJ0S2dHMzczTU1zYmg5cjY3a1diT2JwUGFxeHV5Sjk5Z01rd2J5VmtBVFFURUt3akdFOFoxaEU1U3U5Nms?oc=5</guid>
-      <pubDate>Mon, 06 Jul 2026 07:00:00 +0000</pubDate>
+      <pubDate>Sun, 05 Jul 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[FR] ATHLE.FR | Championnats de France d’épreuves combinées : Ndouma-Mona et Lannurien en patrons - Fédération Française d'Athlétisme</title>
@@ -225,13 +225,6 @@
       <pubDate>Thu, 17 Sep 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[ES] Ayuntamiento de Estepona - Ayuntamiento de Estepona</title>
-      <link>https://news.google.com/rss/articles/CBMisgJBVV95cUxPdEJ5WkVNRGpSOVhyb1hjS0pzbkdwcDJPU25PMFpXcWJVTlJ0WERsb3ZHcFhLblFTNFczMzVxN0s5OEI2NmFLZzB6SW53SG5la0t1QnZSaTN1eDRVMW03V0NJSlNJaTR3N3hfZ1hRYU9MNGZDSDdSMmx5aENQWWVGbG42VW9qOWlmTlctZEx5b3RZSkhhS1JyUUl6dEZYZC1FTmd3WVZfR3N1MU5kVlpYd29JSmFsdXk5R2xSZU9NSnJENnVtdmNfQ3NyWVBsUGdVZHUtbmo3TElRWTUxSVdISFZ0V05wbktycjg1YmtoLTVOVThSc3pQLTBoSHJ1TlpXZFNfdkx2SUJ4Z2RXMkhXRHlsajdNWlBoTUhQdWtCRFhBb3Q1c3pMeVZleGZXdVNrbFE?oc=5</link>
-      <description>Publié le : Thu, 17 Sep 2026 23:12:47 GMT - Source : Google News (ES)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisgJBVV95cUxPdEJ5WkVNRGpSOVhyb1hjS0pzbkdwcDJPU25PMFpXcWJVTlJ0WERsb3ZHcFhLblFTNFczMzVxN0s5OEI2NmFLZzB6SW53SG5la0t1QnZSaTN1eDRVMW03V0NJSlNJaTR3N3hfZ1hRYU9MNGZDSDdSMmx5aENQWWVGbG42VW9qOWlmTlctZEx5b3RZSkhhS1JyUUl6dEZYZC1FTmd3WVZfR3N1MU5kVlpYd29JSmFsdXk5R2xSZU9NSnJENnVtdmNfQ3NyWVBsUGdVZHUtbmo3TElRWTUxSVdISFZ0V05wbktycjg1YmtoLTVOVThSc3pQLTBoSHJ1TlpXZFNfdkx2SUJ4Z2RXMkhXRHlsajdNWlBoTUhQdWtCRFhBb3Q1c3pMeVZleGZXdVNrbFE?oc=5</guid>
-      <pubDate>Thu, 17 Sep 2026 23:12:47 +0000</pubDate>
-    </item>
-    <item>
       <title>[FR] VIDEO. 200 m (F) : Léonie Cambours, meilleure Française en 24"48 - Les meetings d'athlétisme - France TV</title>
       <link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZWs5bDBsdUNmTkQzQTlnMlNTckRHZjFZQlluS0RId1FubDVSUkJmY01iOEVNbEcwUC0wMHlScHl4QjJDLUJ0ZnpRVXNuWUhUUW9WU0ZEcDJSZ0NSbnFyZHUtd0otWE43cUJyZGV6U3JncVktNlNBd3dEUGNtOGR0MzBWeGR1UWlKWEF6a0Y1LXc5aENTeHN6QXAtSzVadnU5Z0ppYVpXbWdhRG5JaW9UZWdkX1ZyQkhOZTRja1ppMGZQUEx5eVhZN2wtak5CcFVyZmtMUlhB?oc=5</link>
       <description>Publié le : Fri, 18 Sep 2026 07:00:00 GMT - Source : Google News (FR)</description>
@@ -286,6 +279,13 @@
       <description>Publié le : Fri, 06 Nov 2026 11:08:21 GMT - Source : Google News (FR)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMikAJBVV95cUxOX3hOTlotME94VnF5aXg5dlNITnA5bkhhNkxnejkzdW1IZWFsY01aYnB2WGxxX0hYQjN2U0pwMmNHMUNndzBONUtpNXhTYk1ndDlucDhmcmVNZUhoUlZ1T3BpX3BpTXcxdlN1MEhLTzY4VEQ2N1dMd0ZSc08xMFFKNkZuVENkU05BdnBnZVZBUE80WmNTT0N4ZEFVbHg0M3ZqbVpwYmg0UE9hS3NnRzc2NGQzRG9UaUNOVHFKUWN0ZjkzRGVzQU5XV1lVd082d1psaE13aG01OG1WZ1JJdGpOM3NTcGJndm9mVkxlcEd4enpRWDFzeGpHQzVIRUx6RmYwQXkxd3dTTkpMRHVSa3hlag?oc=5</guid>
       <pubDate>Fri, 06 Nov 2026 11:08:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[EN] England Athletics Indoor Championships 2027 dates announced - England Athletics</title>
+      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxNajRUei15RkIyNV9mcVVaVE9XTzA0Q0I2U3NFOGJIeG1aSXF1WDJsVVVibVJNZnZuaWoxZ0tDUnpyeXFXNU9WM2p1MmtxMmY2WElzNTlFc3NRTU5LRFBzOUhKSUgwdDRJNTMtNVJTN0dPazZsWEVSXzNjLVFzcXl5VVkzN0gwd19oSU4yUENJNFpuUVZZSEt3YnhHZThrT2M?oc=5</link>
+      <description>Publié le : Fri, 06 Nov 2026 15:42:37 GMT - Source : Google News (EN)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMinwFBVV95cUxNajRUei15RkIyNV9mcVVaVE9XTzA0Q0I2U3NFOGJIeG1aSXF1WDJsVVVibVJNZnZuaWoxZ0tDUnpyeXFXNU9WM2p1MmtxMmY2WElzNTlFc3NRTU5LRFBzOUhKSUgwdDRJNTMtNVJTN0dPazZsWEVSXzNjLVFzcXl5VVkzN0gwd19oSU4yUENJNFpuUVZZSEt3YnhHZThrT2M?oc=5</guid>
+      <pubDate>Fri, 06 Nov 2026 15:42:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
