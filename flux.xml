@@ -6,7 +6,21 @@
     <description>Flux international automatisé (FR/EN/ES) pour Heptaleo.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Nov 2026 14:42:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 23:15:01 +0000</lastBuildDate>
+    <item>
+      <title>[FR] Athlétisme . Épreuves combinées : Célian Pigeron et Timéo Pion en coup de vent - Le Progrès</title>
+      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxQZ3dmQjJFRFE5OG5La1pGaFM0ajBrbWVHNnItU2p6dHNvem50RjA2VlhKRHVQNjFKVGtsTm5wX2l3dmltQ1d1ZU5ZeVhJUVFadkFfRGlsdzJQMkxieVZ0d3owR29zbnc5c01kU0t5QlJ4ZkhuSndlYTlmNE00S3JnSzRQYkNBcEg4bmFjV3pTOA?oc=5</link>
+      <description>Publié le : Sat, 09 May 2026 07:00:00 GMT - Source : Google News (FR)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMijwFBVV95cUxQZ3dmQjJFRFE5OG5La1pGaFM0ajBrbWVHNnItU2p6dHNvem50RjA2VlhKRHVQNjFKVGtsTm5wX2l3dmltQ1d1ZU5ZeVhJUVFadkFfRGlsdzJQMkxieVZ0d3owR29zbnc5c01kU0t5QlJ4ZkhuSndlYTlmNE00S3JnSzRQYkNBcEg4bmFjV3pTOA?oc=5</guid>
+      <pubDate>Sat, 09 May 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[FR] Des championnats départementaux d'épreuves combinées d'athlétisme en petit comité à Nevers - Le Journal du Centre</title>
+      <link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxOS2YtaVdHa3hhdVhpUGNVMy0tTjRrV1lRWFRnb1NWa2hQVWR4SkNuQjdEak41TDRvZUFJZDFnX29MdTg4dWttV19wTGpFaUdPcXg3QWZtdnRzd052QWdVdWh6aWJmcXpzTl8xd0lSUTJPNzRSbXFlNDlOVGJKaEh6VTFQN2xCOWxnYlNhUVhQUmhlU2Fwc2hYUTFsRHJBRUhfOGMtdjNCYkN3OWpxWnMyQWxCQm1yVVg3bWtvR2hrbmxEdV9xamU1OEVSR3hmNHpJN2dMUVFSYm8?oc=5</link>
+      <description>Publié le : Sun, 10 May 2026 07:00:00 GMT - Source : Google News (FR)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi2AFBVV95cUxOS2YtaVdHa3hhdVhpUGNVMy0tTjRrV1lRWFRnb1NWa2hQVWR4SkNuQjdEak41TDRvZUFJZDFnX29MdTg4dWttV19wTGpFaUdPcXg3QWZtdnRzd052QWdVdWh6aWJmcXpzTl8xd0lSUTJPNzRSbXFlNDlOVGJKaEh6VTFQN2xCOWxnYlNhUVhQUmhlU2Fwc2hYUTFsRHJBRUhfOGMtdjNCYkN3OWpxWnMyQWxCQm1yVVg3bWtvR2hrbmxEdV9xamU1OEVSR3hmNHpJN2dMUVFSYm8?oc=5</guid>
+      <pubDate>Sun, 10 May 2026 07:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>[FR] Athlétisme. Régionaux d’épreuves combinées à Nantes : Noémie Kieffer, pour le plaisir - Ouest-France</title>
       <link>https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNFk4Qi1tLWZINnNmQzlMNUV2aWxmZGQ2Q1dIR2hZb1gwWG9oc3dfblpKRWhKLUp5OHhNdHljYWxMUDZjRk5QakRLLVN1RzFNdUVWWFdzVS0tOTR1M0FoVnFEb2JuRTZSSVQwaDlMNElkRFc1dG85TWU2VDdiOUs2amRzdFFCZS1lOTM0YUQ4LVFLLU56eUdTVUE5TGhHOExzSUtCM3dYdzQ1ekR0NkxxTmU1Q01fMEhDYkIxTnRfWHNacnlfVUM2bEUtdnlKLTdUekxyZEY3QU1VTmNKS3Zpc3JYb2tRY2VlN0dhV1JRQl9XelFq?oc=5</link>
@@ -41,13 +55,6 @@
       <description>Publié le : Fri, 29 May 2026 20:43:58 GMT - Source : Google News (EN)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMimgFBVV95cUxPS0swbDc1ZmczeWgxdjIzSmwtTkJzNmhGX181SmFuRTE1VHpyUEdNV2RoVm4yQVg1SFNvRTZ6dmQ2bkdraURCUmNoSlAzYllJU2RldHd1R1FWNmtCc0hLVWgwY0RaY2VnaVNLQ243eTl3MGlsaUo0Zml5MnBER0VrMnZPTGJid0M5N3B0VUxPeUFYYnAxTUxHTU9B?oc=5</guid>
       <pubDate>Fri, 29 May 2026 20:43:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>[EN] Fantastic performances in Fuerteventura - England Athletics</title>
-      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxQTmdRb0F3WEhEY0lsaTFSRW5BMnYxQUtINVc1UUYyYTV6OXp5S1kxdW5GaE02YVZXZks5bWdma3pWdkVvY25ZeVhId21yQXBHSEdfT05tZmU1U0t3R2o3YmZXbFFWTGNRTEYxYnRLczVyTlgwSVZHdUxvdzZiU2Vmd2x5ZEI?oc=5</link>
-      <description>Publié le : Wed, 03 Jun 2026 07:00:00 GMT - Source : Google News (EN)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMihAFBVV95cUxQTmdRb0F3WEhEY0lsaTFSRW5BMnYxQUtINVc1UUYyYTV6OXp5S1kxdW5GaE02YVZXZks5bWdma3pWdkVvY25ZeVhId21yQXBHSEdfT05tZmU1U0t3R2o3YmZXbFFWTGNRTEYxYnRLczVyTlgwSVZHdUxvdzZiU2Vmd2x5ZEI?oc=5</guid>
-      <pubDate>Wed, 03 Jun 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[FR] Athlétisme : aux championnats Aura d'épreuves combinées, les Auvergnats ont su se mettre en avant à Clermont-Ferrand - La Montagne</title>
@@ -216,13 +223,6 @@
       <description>Publié le : Sun, 23 Aug 2026 07:00:00 GMT - Source : Google News (EN)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivwFBVV95cUxOVGFJeFRMVnB5WmdNMEc1bEVnZ0pMdDRjS0JVZXBZVTZPcURnVGR6dXNrWVNyWVo5Zm1vTW9KcEszQVVVVzFBX0dpb2JjbHU3RnhBSmlhM1l5MEJNSzkwWDdtM21iRWFZUnA5UTBYQXZBaVZNSjVKbHZuMy1fZGp0LXlIeUJvYkZGZ2N5RHBCMUZnb3NsTFoxTTdUWld1RDdpTzlXOE5rT2hrZ2xxX1o0ZGo2QjVMUmxZRi1WZ3huTQ?oc=5</guid>
       <pubDate>Sun, 23 Aug 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[EN] OU T&amp;F Announces Hinch as Combined Events/Pole Vault Coach - University of Oklahoma - Soonersports.com</title>
-      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxOV3lpTUdCVkYwZG90WTh6UGlwamd2WEdPMXM0QktNcUlqOTRSSVE5dnNGSmhLX1hmTkJ0dWZxV1pLTUs3VWFSN2NSVDNlaHIxdkNaR0Z2ei1TUGVHOTd3YWpXMHV6djNRY1NoVkFBa2lpaWhlT0RkLWFrSVJhb1d0d0RXdEpJZ3AwaU5MRWdxRGdXZWRNZ1VnNlZCUEJ6OEd3aEJnOFBOOUNwRDhWUUdQV3l0dWI?oc=5</link>
-      <description>Publié le : Mon, 24 Aug 2026 07:00:00 GMT - Source : Google News (EN)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitAFBVV95cUxOV3lpTUdCVkYwZG90WTh6UGlwamd2WEdPMXM0QktNcUlqOTRSSVE5dnNGSmhLX1hmTkJ0dWZxV1pLTUs3VWFSN2NSVDNlaHIxdkNaR0Z2ei1TUGVHOTd3YWpXMHV6djNRY1NoVkFBa2lpaWhlT0RkLWFrSVJhb1d0d0RXdEpJZ3AwaU5MRWdxRGdXZWRNZ1VnNlZCUEJ6OEd3aEJnOFBOOUNwRDhWUUdQV3l0dWI?oc=5</guid>
-      <pubDate>Mon, 24 Aug 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[ES] Campeonato de Cantabria Sub12 y Sub10 de Pruebas Combinadas / Campeonato de Cantabria Absoluto y Máster de Martillo Pesado / XXX Liga Escolar de Menores - Concursos aplazados de Martillo Sub16 (2026-10-03) - Federación Cántabra de Atletismo</title>
