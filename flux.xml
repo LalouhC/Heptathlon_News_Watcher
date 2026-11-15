@@ -6,7 +6,7 @@
     <description>Flux international automatisé (FR/EN/ES) pour Heptaleo.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Nov 2026 13:29:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 22:31:11 +0000</lastBuildDate>
     <item>
       <title>[ES] Galicia hace historia ganando su primer título conjunto de pruebas combinadas - RFEA</title>
       <link>https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZ3BFM0dEdHlIallNNktWbVI3c1hJRGRQTmk0YzJQTER1VGJUeGExYXBubzNUT1lEWjRuME1USUh2OGNZbHowVWFGS1MybkNoeHpLRjVuSlpacHRzWnRKUE5xendxZjNzQ0FwRjNuVGV5a3pqeWNRRGRGSlY2cXZvWV9udll0MXNWUzYxb2ttWTItc0JfZDUzRTl1ZnlfUEVIOEU0LXN1MWQxbHhpazFlVzZhZEdCTDYyS1dZYWREVXRrVGw1VTY0eVdSR25GT3VqRko3b2h0UQ?oc=5</link>
@@ -55,6 +55,13 @@
       <description>Publié le : Fri, 29 May 2026 20:43:58 GMT - Source : Google News (EN)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMimgFBVV95cUxPS0swbDc1ZmczeWgxdjIzSmwtTkJzNmhGX181SmFuRTE1VHpyUEdNV2RoVm4yQVg1SFNvRTZ6dmQ2bkdraURCUmNoSlAzYllJU2RldHd1R1FWNmtCc0hLVWgwY0RaY2VnaVNLQ243eTl3MGlsaUo0Zml5MnBER0VrMnZPTGJid0M5N3B0VUxPeUFYYnAxTUxHTU9B?oc=5</guid>
       <pubDate>Fri, 29 May 2026 20:43:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[FR] Athlétisme. Championnats départementaux et de la CEA d’épreuves combinées : Clara Kuhn dans les clous - DNA.fr</title>
+      <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeWNScXNhWmh0MEtBbXFRc1RyVnBkR2xILWdJbGJUOXNBX2MwaE9wMURMU01WckdyS096dUtoRzY1amN4ckRVRmNwXzl3SWR3YjFRX2J3cjV2SWphc2FncDJ1WklYaEVmWG0wZWZfemZzd0pYdnE0dnQ3QnVSRnVMQktYNkRYcWxvNnN2aURhVDB4UGRRejkwYXlVdjNCaTBQVTFKQkwyekdMcFpvdksxWEdGdEExQ0tTcUlISWhkZTI?oc=5</link>
+      <description>Publié le : Sun, 31 May 2026 07:00:00 GMT - Source : Google News (FR)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeWNScXNhWmh0MEtBbXFRc1RyVnBkR2xILWdJbGJUOXNBX2MwaE9wMURMU01WckdyS096dUtoRzY1amN4ckRVRmNwXzl3SWR3YjFRX2J3cjV2SWphc2FncDJ1WklYaEVmWG0wZWZfemZzd0pYdnE0dnQ3QnVSRnVMQktYNkRYcWxvNnN2aURhVDB4UGRRejkwYXlVdjNCaTBQVTFKQkwyekdMcFpvdksxWEdGdEExQ0tTcUlISWhkZTI?oc=5</guid>
+      <pubDate>Sun, 31 May 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[FR] Athlétisme : aux championnats Aura d'épreuves combinées, les Auvergnats ont su se mettre en avant à Clermont-Ferrand - La Montagne</title>
@@ -117,13 +124,6 @@
       <link>https://news.google.com/rss/articles/CBMi7gFBVV95cUxOX0ZWRWhSNDJ1Y0JwM1dHWENVdlFxMzh3UzdKOXJHVzZMX3VycUlMWXZyWEtvczh2clB0ZjB0RHNPVjF3aFJRRkhKdVhfLWhMSG03QTZLYXpSUjR2SjFuNERGZm8xcm1EUm0tbjRQTzV4a29nWm5zRHBpLXJNeWpQNTJNbkhvMFMwckpNNWF4T3hFcTlKTEprS2xMRVBULVg2SEZkZzRTV3Rlb1RoQWI0ZVVIX1BYMGhvU0J5T0NSaHBvZlRHQkUwR2ZyQWI5NTcyclhDenRJODdpcHNoejBoQjdjY0RpY21Sc3NJQmdB?oc=5</link>
       <description>Publié le : Fri, 03 Jul 2026 07:00:00 GMT - Source : Google News (EN)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi7gFBVV95cUxOX0ZWRWhSNDJ1Y0JwM1dHWENVdlFxMzh3UzdKOXJHVzZMX3VycUlMWXZyWEtvczh2clB0ZjB0RHNPVjF3aFJRRkhKdVhfLWhMSG03QTZLYXpSUjR2SjFuNERGZm8xcm1EUm0tbjRQTzV4a29nWm5zRHBpLXJNeWpQNTJNbkhvMFMwckpNNWF4T3hFcTlKTEprS2xMRVBULVg2SEZkZzRTV3Rlb1RoQWI0ZVVIX1BYMGhvU0J5T0NSaHBvZlRHQkUwR2ZyQWI5NTcyclhDenRJODdpcHNoejBoQjdjY0RpY21Sc3NJQmdB?oc=5</guid>
-      <pubDate>Fri, 03 Jul 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[FR] Athlétisme. Championnats de France des épreuves combinées : le Lavallois Tom Morvan veut titiller les 6 800 pts - Ouest-France</title>
-      <link>https://news.google.com/rss/articles/CBMimgJBVV95cUxPRlJZMDc0c3JydVMyMU9ERXFBR3E4N25fT2VCSGR6NUNLbzNPQVQzMUJXbG5kVWdpSWVwNE91SXkxUUFvMEpMVThMQ3NRZmpNTGZPYTdnVFFJR3JESEdCU2hFRDdXSUVVaVcyME5nWk9lOGVtbnBYaDdZSS1zR3NNZ2tWOEpxdDRYZVB1MFp5cHRvcXJXcDB0RDM0ZGFJN1p3aERmT0puRjJaQU02aHRuWDAwb24wN29BR0JWdjd6VEVzTHRKajl4b1g3Sm9jQ0ZWWk1xZERyeUUwZi1KMW5RcHZMdFBCdndOR0VqTTNmY3huN1ExVlVMSkM2OE5pU21yVzFrSWcxOG50T1BhRUFldTUwQk56U0R4Z1E?oc=5</link>
-      <description>Publié le : Fri, 03 Jul 2026 07:00:00 GMT - Source : Google News (FR)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMimgJBVV95cUxPRlJZMDc0c3JydVMyMU9ERXFBR3E4N25fT2VCSGR6NUNLbzNPQVQzMUJXbG5kVWdpSWVwNE91SXkxUUFvMEpMVThMQ3NRZmpNTGZPYTdnVFFJR3JESEdCU2hFRDdXSUVVaVcyME5nWk9lOGVtbnBYaDdZSS1zR3NNZ2tWOEpxdDRYZVB1MFp5cHRvcXJXcDB0RDM0ZGFJN1p3aERmT0puRjJaQU02aHRuWDAwb24wN29BR0JWdjd6VEVzTHRKajl4b1g3Sm9jQ0ZWWk1xZERyeUUwZi1KMW5RcHZMdFBCdndOR0VqTTNmY3huN1ExVlVMSkM2OE5pU21yVzFrSWcxOG50T1BhRUFldTUwQk56U0R4Z1E?oc=5</guid>
       <pubDate>Fri, 03 Jul 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
@@ -260,6 +260,13 @@
       <pubDate>Fri, 18 Sep 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>[EN] Ehammer and Kälin complete historic Swiss double in World Athletics Combined Events Tour - worldathletics.org</title>
+      <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVDlrQ1dQM1AwX3hZb3Q1WmtCWTFkUjZ3UmxMR2V6NGtQVXZfYUotMUlFRUJydWZUTTFTMDVaM2JOSFZjNm45UjBZWkxOMU9iV3d5RUJUcFNEdzhkSHZSV3NRY29UNWRjQXpoZ2pFUFctRjA4WEd1N2tzVFZ2NWV5ZE1kRURzQ2VkRGl5TTNZV3NpYld2b0NQQkJyUTRwR015NTN5UXdsV1l1VXd4bnNGWWY1VXNGbWZXTDA2X0l1MGVSRVJmSm9MUA?oc=5</link>
+      <description>Publié le : Wed, 30 Sep 2026 07:00:00 GMT - Source : Google News (EN)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVDlrQ1dQM1AwX3hZb3Q1WmtCWTFkUjZ3UmxMR2V6NGtQVXZfYUotMUlFRUJydWZUTTFTMDVaM2JOSFZjNm45UjBZWkxOMU9iV3d5RUJUcFNEdzhkSHZSV3NRY29UNWRjQXpoZ2pFUFctRjA4WEd1N2tzVFZ2NWV5ZE1kRURzQ2VkRGl5TTNZV3NpYld2b0NQQkJyUTRwR015NTN5UXdsV1l1VXd4bnNGWWY1VXNGbWZXTDA2X0l1MGVSRVJmSm9MUA?oc=5</guid>
+      <pubDate>Wed, 30 Sep 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>[EN] 123.ie All-Ireland Schools Combined Events - Athletics Ireland</title>
       <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ2huUGdnSzVISnctSHZubzl6aGtNakI3SmZqWnYwN2ZZYjN2SU1CVlRhX1VOdzBjeG8ya3ZEMkFueHhoeHBzU3R2NzAxSjFKQ2U1a3hUN2tXY29Td003RzYtRDNyNEJ2SlNSeVNUR3dnYldFYWlOeUh0U2xheVlJUW1vYw?oc=5</link>
       <description>Publié le : Sat, 17 Oct 2026 07:00:00 GMT - Source : Google News (EN)</description>
@@ -279,13 +286,6 @@
       <description>Publié le : Fri, 13 Nov 2026 09:38:31 GMT - Source : Google News (EN)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipwFBVV95cUxNZkJGRlE2clprUEhXWE1URzg4WXhkbURsd3hCU1NoZmVxNXk2cWk5TldlaW5MTTF1SDJRMkx6UlBWWTJyeUpmSWlWaHdkVFpGS2lLbUhmcGUtM3pNN0MwbG5QRUNXR3J3dUxJdkdrVlJGc21qeUdaMENidDRlVHFnbEpsczkwbEk0S3JKZEZqNHhhaFpLUFEyMlU0b2tTbG1hMU5GTUVycw?oc=5</guid>
       <pubDate>Fri, 13 Nov 2026 09:38:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>[EN] French combined events athlete Lazraq-Khlass suspended for 22 months — Interia Sport - UA.NEWS</title>
-      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxNYnZnQmpWaDVFWDVwQVlJWWZERHJrTXhCWnBMM1M0Z05ha3RRaUNBZ2J2SFlUcy1QaW0zelpFazUwaVJ5WFBCaUcxdGhFdUpJLXFIeWpzRWhNVUtBRThRZFdPMGk5VEdWcHA1dVZxNUdXNTFtb29oX2JFU3hQOGJMR2Y5d1hnOWtQUklybXRBZHJ1N2lFVTZOY0dIRk1RT1p4QXFDNEJR?oc=5</link>
-      <description>Publié le : Fri, 13 Nov 2026 12:49:21 GMT - Source : Google News (EN)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipgFBVV95cUxNYnZnQmpWaDVFWDVwQVlJWWZERHJrTXhCWnBMM1M0Z05ha3RRaUNBZ2J2SFlUcy1QaW0zelpFazUwaVJ5WFBCaUcxdGhFdUpJLXFIeWpzRWhNVUtBRThRZFdPMGk5VEdWcHA1dVZxNUdXNTFtb29oX2JFU3hQOGJMR2Y5d1hnOWtQUklybXRBZHJ1N2lFVTZOY0dIRk1RT1p4QXFDNEJR?oc=5</guid>
-      <pubDate>Fri, 13 Nov 2026 12:49:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
