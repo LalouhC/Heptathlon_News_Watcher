@@ -6,21 +6,7 @@
     <description>Flux international automatisé (FR/EN/ES) pour Heptaleo.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Nov 2026 22:31:11 +0000</lastBuildDate>
-    <item>
-      <title>[ES] Galicia hace historia ganando su primer título conjunto de pruebas combinadas - RFEA</title>
-      <link>https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZ3BFM0dEdHlIallNNktWbVI3c1hJRGRQTmk0YzJQTER1VGJUeGExYXBubzNUT1lEWjRuME1USUh2OGNZbHowVWFGS1MybkNoeHpLRjVuSlpacHRzWnRKUE5xendxZjNzQ0FwRjNuVGV5a3pqeWNRRGRGSlY2cXZvWV9udll0MXNWUzYxb2ttWTItc0JfZDUzRTl1ZnlfUEVIOEU0LXN1MWQxbHhpazFlVzZhZEdCTDYyS1dZYWREVXRrVGw1VTY0eVdSR25GT3VqRko3b2h0UQ?oc=5</link>
-      <description>Publié le : Mon, 04 May 2026 07:00:00 GMT - Source : Google News (ES)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZ3BFM0dEdHlIallNNktWbVI3c1hJRGRQTmk0YzJQTER1VGJUeGExYXBubzNUT1lEWjRuME1USUh2OGNZbHowVWFGS1MybkNoeHpLRjVuSlpacHRzWnRKUE5xendxZjNzQ0FwRjNuVGV5a3pqeWNRRGRGSlY2cXZvWV9udll0MXNWUzYxb2ttWTItc0JfZDUzRTl1ZnlfUEVIOEU0LXN1MWQxbHhpazFlVzZhZEdCTDYyS1dZYWREVXRrVGw1VTY0eVdSR25GT3VqRko3b2h0UQ?oc=5</guid>
-      <pubDate>Mon, 04 May 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[ES] Cuatro lucenses lideran a Galicia en su primer título de pruebas combinadas en Valencia - El Progreso de Lugo</title>
-      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxPaWhvSnBWTXQ1X1JXZjM1ajQyRmhXUVlQdWJVbURKREFyaVhqdmRrenFWUHBkU2dTUzl6NWNXcVZfRk04UDBJSjlWODlFX1Bpb280c1hrZlRXd0JqWG9PNllxdVhmejAtRG45OE9kVWFnMmc3eHB4dTFHZ3R5YlJmQnFXLUdYX1c1aXB4cXNsWmhpNk5l0gGaAUFVX3lxTFBfcElVRmJnSEw1VkswZFhPc1BhWkJZTWF6bk45d1NGVVd6YVVBN1JWSEcwQ20wM2pJUTU4VldFQ2FtOTRxSGVUQ0E3SFBGSHMtTU5ad28zb0JQRjRiSHZHcEVacXFNTFZxczRCVy1HbXpDVEZYVGtCWXBCWFNFV09uN09NYUFWczl3ZHlxclQwUTdoNTY2aTZ0Rmc?oc=5</link>
-      <description>Publié le : Tue, 05 May 2026 07:00:00 GMT - Source : Google News (ES)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMilAFBVV95cUxPaWhvSnBWTXQ1X1JXZjM1ajQyRmhXUVlQdWJVbURKREFyaVhqdmRrenFWUHBkU2dTUzl6NWNXcVZfRk04UDBJSjlWODlFX1Bpb280c1hrZlRXd0JqWG9PNllxdVhmejAtRG45OE9kVWFnMmc3eHB4dTFHZ3R5YlJmQnFXLUdYX1c1aXB4cXNsWmhpNk5l0gGaAUFVX3lxTFBfcElVRmJnSEw1VkswZFhPc1BhWkJZTWF6bk45d1NGVVd6YVVBN1JWSEcwQ20wM2pJUTU4VldFQ2FtOTRxSGVUQ0E3SFBGSHMtTU5ad28zb0JQRjRiSHZHcEVacXFNTFZxczRCVy1HbXpDVEZYVGtCWXBCWFNFV09uN09NYUFWczl3ZHlxclQwUTdoNTY2aTZ0Rmc?oc=5</guid>
-      <pubDate>Tue, 05 May 2026 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 16 Nov 2026 04:59:57 +0000</lastBuildDate>
     <item>
       <title>[FR] Athlétisme . Épreuves combinées : Célian Pigeron et Timéo Pion en coup de vent - Le Progrès</title>
       <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxQZ3dmQjJFRFE5OG5La1pGaFM0ajBrbWVHNnItU2p6dHNvem50RjA2VlhKRHVQNjFKVGtsTm5wX2l3dmltQ1d1ZU5ZeVhJUVFadkFfRGlsdzJQMkxieVZ0d3owR29zbnc5c01kU0t5QlJ4ZkhuSndlYTlmNE00S3JnSzRQYkNBcEg4bmFjV3pTOA?oc=5</link>
@@ -253,6 +239,13 @@
       <pubDate>Tue, 08 Sep 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>[ES] Pruebas combinadas de sangre y genética estiman el momento de aparición de síntomas de Alzheimer - Lab Medica en Español</title>
+      <link>https://news.google.com/rss/articles/CBMi-wFBVV95cUxNVHkwMVBvNERLazd2ZDdjdkRnYmVVRFZLdWhSRUFxUkN2dkNKRGZGNjBPS1BwODF2TDByelRaVkRRRXVpRm5nZ1Y1WnlnYjZpMHlwZ29YSUl3OVVCR1g1anRZWk9RT3NNUXFCLXN3ekpXNUdjLTVCQ0dUdXpqUnVmamtES3pibHBBMnRyeWh1WlpVamVjeVNOZVBBSXAwUUUweWZDTEJuMENhT3JLQVNkWTFhME40NGNQczBDTllNUlByLV9CRlg1dEhnb0FoWEt5eG0zS0tDRkotS2loTmI1UTVidEFVcHZ0a042azRJZkx2ZTgzZ1lZdWZHNNIBhAJBVV95cUxQaVhwWHRxVHRudjJOdTU3RWprZl9famRhR2l0ckJ6QUdGLXNZeWZ5NGgyYXVZbVRNQkF2MFVsdlpzLXRmM1MyUUdsSHpkTVFDdVRHUllsY1k5RFhsVkFNTDBaRXpjZ3huV0JlM0hyX0I3SU9fT2hFcXNZbS1ZQkdXY2xJNUtFdEdZbjlnTWRQVktnYkNoTHgyck1Lek01UEJUNG5sQXVGcUV2eWttTDdmdkNoYkc0WTA2RGs0MlFWTkI1XzRxak9BQjdXNjFaWF9YRTNwNzNmal8tVFB0NjR2UnhITDRqQzc0TWJPQldNSUt3S192TzVwRUJBN2NkcWdaMG9Weg?oc=5</link>
+      <description>Publié le : Thu, 17 Sep 2026 07:00:00 GMT - Source : Google News (ES)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi-wFBVV95cUxNVHkwMVBvNERLazd2ZDdjdkRnYmVVRFZLdWhSRUFxUkN2dkNKRGZGNjBPS1BwODF2TDByelRaVkRRRXVpRm5nZ1Y1WnlnYjZpMHlwZ29YSUl3OVVCR1g1anRZWk9RT3NNUXFCLXN3ekpXNUdjLTVCQ0dUdXpqUnVmamtES3pibHBBMnRyeWh1WlpVamVjeVNOZVBBSXAwUUUweWZDTEJuMENhT3JLQVNkWTFhME40NGNQczBDTllNUlByLV9CRlg1dEhnb0FoWEt5eG0zS0tDRkotS2loTmI1UTVidEFVcHZ0a042azRJZkx2ZTgzZ1lZdWZHNNIBhAJBVV95cUxQaVhwWHRxVHRudjJOdTU3RWprZl9famRhR2l0ckJ6QUdGLXNZeWZ5NGgyYXVZbVRNQkF2MFVsdlpzLXRmM1MyUUdsSHpkTVFDdVRHUllsY1k5RFhsVkFNTDBaRXpjZ3huV0JlM0hyX0I3SU9fT2hFcXNZbS1ZQkdXY2xJNUtFdEdZbjlnTWRQVktnYkNoTHgyck1Lek01UEJUNG5sQXVGcUV2eWttTDdmdkNoYkc0WTA2RGs0MlFWTkI1XzRxak9BQjdXNjFaWF9YRTNwNzNmal8tVFB0NjR2UnhITDRqQzc0TWJPQldNSUt3S192TzVwRUJBN2NkcWdaMG9Weg?oc=5</guid>
+      <pubDate>Thu, 17 Sep 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>[FR] VIDEO. 200 m (F) : Léonie Cambours, meilleure Française en 24"48 - Les meetings d'athlétisme - France TV</title>
       <link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZWs5bDBsdUNmTkQzQTlnMlNTckRHZjFZQlluS0RId1FubDVSUkJmY01iOEVNbEcwUC0wMHlScHl4QjJDLUJ0ZnpRVXNuWUhUUW9WU0ZEcDJSZ0NSbnFyZHUtd0otWE43cUJyZGV6U3JncVktNlNBd3dEUGNtOGR0MzBWeGR1UWlKWEF6a0Y1LXc5aENTeHN6QXAtSzVadnU5Z0ppYVpXbWdhRG5JaW9UZWdkX1ZyQkhOZTRja1ppMGZQUEx5eVhZN2wtak5CcFVyZmtMUlhB?oc=5</link>
       <description>Publié le : Fri, 18 Sep 2026 07:00:00 GMT - Source : Google News (FR)</description>
@@ -286,6 +279,13 @@
       <description>Publié le : Fri, 13 Nov 2026 09:38:31 GMT - Source : Google News (EN)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipwFBVV95cUxNZkJGRlE2clprUEhXWE1URzg4WXhkbURsd3hCU1NoZmVxNXk2cWk5TldlaW5MTTF1SDJRMkx6UlBWWTJyeUpmSWlWaHdkVFpGS2lLbUhmcGUtM3pNN0MwbG5QRUNXR3J3dUxJdkdrVlJGc21qeUdaMENidDRlVHFnbEpsczkwbEk0S3JKZEZqNHhhaFpLUFEyMlU0b2tTbG1hMU5GTUVycw?oc=5</guid>
       <pubDate>Fri, 13 Nov 2026 09:38:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[ES] Del Castillo consideró que la ACPC debería ser reconocida como referente provincial de las pruebas combinadas - 7PAGINAS</title>
+      <link>https://news.google.com/rss/articles/CBMizwFBVV95cUxOTGFmeldTWnJUc1VfWTRoYlRJTWlDeVFqdy1KQ28yOGd4RnBUcHcwTmhJVExwZ1VLSi1ZNmV4dDJzZjFkV1RET2xIcUY1R3kxdDZHMGEzSWxZN2FfTzZCMDNoYzZiNzBwUjRXSjNVOUkwMGV4U1ZveFpuOG5wZTNhN3RWWEdIalhLVVZpVHVER2w5TmZld1hXWlJVTEFTMXEwZFJVX3JtSjdiSUJkaXFLdVlENXVNR1hCTHAzLTRrOE5ZWWV6Slo4UzNORm03WkU?oc=5</link>
+      <description>Publié le : Mon, 16 Nov 2026 03:00:41 GMT - Source : Google News (ES)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizwFBVV95cUxOTGFmeldTWnJUc1VfWTRoYlRJTWlDeVFqdy1KQ28yOGd4RnBUcHcwTmhJVExwZ1VLSi1ZNmV4dDJzZjFkV1RET2xIcUY1R3kxdDZHMGEzSWxZN2FfTzZCMDNoYzZiNzBwUjRXSjNVOUkwMGV4U1ZveFpuOG5wZTNhN3RWWEdIalhLVVZpVHVER2w5TmZld1hXWlJVTEFTMXEwZFJVX3JtSjdiSUJkaXFLdVlENXVNR1hCTHAzLTRrOE5ZWWV6Slo4UzNORm03WkU?oc=5</guid>
+      <pubDate>Mon, 16 Nov 2026 03:00:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
