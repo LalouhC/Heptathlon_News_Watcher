@@ -6,7 +6,7 @@
     <description>Flux international automatisé (FR/EN/ES) pour Heptaleo.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Nov 2026 06:18:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 20:00:01 +0000</lastBuildDate>
     <item>
       <title>[FR] Athlétisme. Régionaux d’épreuves combinées : Louka Tesson vise le top 5 Français au décathlon cadets - Ouest-France</title>
       <link>https://news.google.com/rss/articles/CBMiigJBVV95cUxPcV9KTE9OR0xPcG1mVXA5c0VOMlR1MGI1aUxhczhBcjNfejVZUGV3d0lpQjlQb0FLYVVXR19FZ0JkWmxYa0FUYXdBSThvVDNBU1ZaR1VnMWtnQVNMWVBKNHNsMDBIdWF6YkV3enZmNGFLQUhWWmJQNWllbzhDQzlybmVCbE5QWDNyV29BQzJwMDRXUk5qVUNIV1JmV3NzOUJWU2dRREQ5S3V0V2RJT1V1YW8wOTU4aURnZEU1eWhMdDNDaDVza1R2eDQ4VzQ4UVVVTGd5QlBHLTNBYUtSdTVpVmtqOGZtNjhQM1dfdlQwSmliTnhuOXZqekpXb2RWZk1YSzdYNXJ3V2FsQQ?oc=5</link>
@@ -155,13 +155,6 @@
       <pubDate>Tue, 07 Jul 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[FR] Athlétisme : des épreuves combinées réussies à Aix - La Provence</title>
-      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNmRXbzNSQWY3MWZTdU4yR3ZxWjlpV3h6WlF1ZUtzaFpnT2licS0yMWQtMXRJRzQ5VU9UcDlGdHpBenpFN29TRnU0SGJVcjhTdWw3ckJVS3Z3cXhJSkw4NXZRMWdqc0ZtNHNNb2Y5bXBFc2hYdUdVcWFsS0xTMVM1TER2VjRqRm5EdHlpcW5XMmxzRW80MHp1akhRVlItRVJjV2lYVHpaTTE0dTg?oc=5</link>
-      <description>Publié le : Wed, 08 Jul 2026 07:00:00 GMT - Source : Google News (FR)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNmRXbzNSQWY3MWZTdU4yR3ZxWjlpV3h6WlF1ZUtzaFpnT2licS0yMWQtMXRJRzQ5VU9UcDlGdHpBenpFN29TRnU0SGJVcjhTdWw3ckJVS3Z3cXhJSkw4NXZRMWdqc0ZtNHNNb2Y5bXBFc2hYdUdVcWFsS0xTMVM1TER2VjRqRm5EdHlpcW5XMmxzRW80MHp1akhRVlItRVJjV2lYVHpaTTE0dTg?oc=5</guid>
-      <pubDate>Wed, 08 Jul 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[ES] Málaga 2026 prueba a prueba: combinadas y marcha - RFEA</title>
       <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxNcThmNWx4Zl9HamJ4V1A2UFJvQThxS3liRFVtSUFfLXR2dzZiNkU4NnQxUVJPVjdYQzRUMnh1UDRwalQwOVl3NXk2a1c5X0dHTFVBbVVXU0ZpOFVmV1JnRlNkMklBTC1KYXRBTTZFQzJGMlNNM21TWjZ1RzlzaEJaSmdvZW9zUUlXbC1aNV9ydGJwekJLY3FHYnVhQ2ZfYXNkbUJWUk1IaVFMT01B?oc=5</link>
       <description>Publié le : Wed, 22 Jul 2026 07:00:00 GMT - Source : Google News (ES)</description>
@@ -246,6 +239,13 @@
       <pubDate>Fri, 18 Sep 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>[EN] WTA confirms 'major milestone' with equal prize money at combined events - BBC</title>
+      <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BZGJOR193R0VWVWJDS3RTS1J3XzY3bXdqdUJRV0Zkd19BMVVnTjhfTW9YQmxpYTMxeFJVTWt0Y0VyVC0zdXBsV29GYmpMM0gxcUpTcGFLVVhDQ1VaMEtIb0JNaGp5MHJV?oc=5</link>
+      <description>Publié le : Thu, 01 Oct 2026 07:00:00 GMT - Source : Google News (EN)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BZGJOR193R0VWVWJDS3RTS1J3XzY3bXdqdUJRV0Zkd19BMVVnTjhfTW9YQmxpYTMxeFJVTWt0Y0VyVC0zdXBsV29GYmpMM0gxcUpTcGFLVVhDQ1VaMEtIb0JNaGp5MHJV?oc=5</guid>
+      <pubDate>Thu, 01 Oct 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>[EN] WTA Announces Equal Pay for All Combined 1000 Events - Front Office Sports</title>
       <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxNRTFrZjZ2amhVMmFoVXdzR1BlaHdpMndvNXBQTjJvVEl0SUN3dlgxbXJSZlppV052SDR4cTRBNWIxQ2Fqb1ZJT2JvSTI4bEc4M1FJZFlTZjRrdzZwMFgxZWVOUXJZUWhxZ05oVS1hM2ExRVZIbWJkXzg2emtSbzJuUkM3TmxFM0hKNUM1a0ZpVS1QQ0VMY0E?oc=5</link>
       <description>Publié le : Thu, 01 Oct 2026 07:00:00 GMT - Source : Google News (EN)</description>
@@ -283,9 +283,9 @@
     <item>
       <title>[FR] Nyons. Athlétisme : treize Nyonsais sur les podiums des épreuves combinées - Le Dauphiné Libéré</title>
       <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxQcXV0dEdxbUlfcWJZTHItS01mUUN2ZC1YWVdFamZMdkF2SjY0U1cwcmh1MDc5emZwczlzejVzMWVYbVhtakRaT0ZOdUZiR0RxUUFrcldzVmFYVGEzeFU2TUhNWkNzZ01FczYzQklOb0s0TWRScVAtcU5BS0lBc2NaOVRDLWFxZjJ3ejJFX0tSVExuc0pldjc1MVBXSkgtRm13cXRCRHNkVFV1TWZWamc?oc=5</link>
-      <description>Publié le : Mon, 16 Nov 2026 18:03:45 GMT - Source : Google News (FR)</description>
+      <description>Publié le : Mon, 16 Nov 2026 18:37:00 GMT - Source : Google News (FR)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirgFBVV95cUxQcXV0dEdxbUlfcWJZTHItS01mUUN2ZC1YWVdFamZMdkF2SjY0U1cwcmh1MDc5emZwczlzejVzMWVYbVhtakRaT0ZOdUZiR0RxUUFrcldzVmFYVGEzeFU2TUhNWkNzZ01FczYzQklOb0s0TWRScVAtcU5BS0lBc2NaOVRDLWFxZjJ3ejJFX0tSVExuc0pldjc1MVBXSkgtRm13cXRCRHNkVFV1TWZWamc?oc=5</guid>
-      <pubDate>Mon, 16 Nov 2026 18:03:45 +0000</pubDate>
+      <pubDate>Mon, 16 Nov 2026 18:37:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
