@@ -6,7 +6,14 @@
     <description>Flux international automatisé (FR/EN/ES) pour Heptaleo.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Nov 2026 05:58:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 17:55:29 +0000</lastBuildDate>
+    <item>
+      <title>[FR] Athlétisme . Épreuves combinées : Célian Pigeron et Timéo Pion en coup de vent - Le Progrès</title>
+      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxQZ3dmQjJFRFE5OG5La1pGaFM0ajBrbWVHNnItU2p6dHNvem50RjA2VlhKRHVQNjFKVGtsTm5wX2l3dmltQ1d1ZU5ZeVhJUVFadkFfRGlsdzJQMkxieVZ0d3owR29zbnc5c01kU0t5QlJ4ZkhuSndlYTlmNE00S3JnSzRQYkNBcEg4bmFjV3pTOA?oc=5</link>
+      <description>Publié le : Sat, 09 May 2026 07:00:00 GMT - Source : Google News (FR)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMijwFBVV95cUxQZ3dmQjJFRFE5OG5La1pGaFM0ajBrbWVHNnItU2p6dHNvem50RjA2VlhKRHVQNjFKVGtsTm5wX2l3dmltQ1d1ZU5ZeVhJUVFadkFfRGlsdzJQMkxieVZ0d3owR29zbnc5c01kU0t5QlJ4ZkhuSndlYTlmNE00S3JnSzRQYkNBcEg4bmFjV3pTOA?oc=5</guid>
+      <pubDate>Sat, 09 May 2026 07:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>[FR] Des championnats départementaux d'épreuves combinées d'athlétisme en petit comité à Nevers - Le Journal du Centre</title>
       <link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxOS2YtaVdHa3hhdVhpUGNVMy0tTjRrV1lRWFRnb1NWa2hQVWR4SkNuQjdEak41TDRvZUFJZDFnX29MdTg4dWttV19wTGpFaUdPcXg3QWZtdnRzd052QWdVdWh6aWJmcXpzTl8xd0lSUTJPNzRSbXFlNDlOVGJKaEh6VTFQN2xCOWxnYlNhUVhQUmhlU2Fwc2hYUTFsRHJBRUhfOGMtdjNCYkN3OWpxWnMyQWxCQm1yVVg3bWtvR2hrbmxEdV9xamU1OEVSR3hmNHpJN2dMUVFSYm8?oc=5</link>
@@ -99,13 +106,6 @@
       <pubDate>Wed, 01 Jul 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[EN] England Athletics Senior and U20 track and field and combined events championships, powered by Citroën: The weekend starts here - England Athletics</title>
-      <link>https://news.google.com/rss/articles/CBMi7gFBVV95cUxOX0ZWRWhSNDJ1Y0JwM1dHWENVdlFxMzh3UzdKOXJHVzZMX3VycUlMWXZyWEtvczh2clB0ZjB0RHNPVjF3aFJRRkhKdVhfLWhMSG03QTZLYXpSUjR2SjFuNERGZm8xcm1EUm0tbjRQTzV4a29nWm5zRHBpLXJNeWpQNTJNbkhvMFMwckpNNWF4T3hFcTlKTEprS2xMRVBULVg2SEZkZzRTV3Rlb1RoQWI0ZVVIX1BYMGhvU0J5T0NSaHBvZlRHQkUwR2ZyQWI5NTcyclhDenRJODdpcHNoejBoQjdjY0RpY21Sc3NJQmdB?oc=5</link>
-      <description>Publié le : Fri, 03 Jul 2026 07:00:00 GMT - Source : Google News (EN)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi7gFBVV95cUxOX0ZWRWhSNDJ1Y0JwM1dHWENVdlFxMzh3UzdKOXJHVzZMX3VycUlMWXZyWEtvczh2clB0ZjB0RHNPVjF3aFJRRkhKdVhfLWhMSG03QTZLYXpSUjR2SjFuNERGZm8xcm1EUm0tbjRQTzV4a29nWm5zRHBpLXJNeWpQNTJNbkhvMFMwckpNNWF4T3hFcTlKTEprS2xMRVBULVg2SEZkZzRTV3Rlb1RoQWI0ZVVIX1BYMGhvU0J5T0NSaHBvZlRHQkUwR2ZyQWI5NTcyclhDenRJODdpcHNoejBoQjdjY0RpY21Sc3NJQmdB?oc=5</guid>
-      <pubDate>Fri, 03 Jul 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[FR] Athlétisme. Championnats de France des épreuves combinées : le Lavallois Tom Morvan veut titiller les 6 800 pts - Ouest-France</title>
       <link>https://news.google.com/rss/articles/CBMimgJBVV95cUxPRlJZMDc0c3JydVMyMU9ERXFBR3E4N25fT2VCSGR6NUNLbzNPQVQzMUJXbG5kVWdpSWVwNE91SXkxUUFvMEpMVThMQ3NRZmpNTGZPYTdnVFFJR3JESEdCU2hFRDdXSUVVaVcyME5nWk9lOGVtbnBYaDdZSS1zR3NNZ2tWOEpxdDRYZVB1MFp5cHRvcXJXcDB0RDM0ZGFJN1p3aERmT0puRjJaQU02aHRuWDAwb24wN29BR0JWdjd6VEVzTHRKajl4b1g3Sm9jQ0ZWWk1xZERyeUUwZi1KMW5RcHZMdFBCdndOR0VqTTNmY3huN1ExVlVMSkM2OE5pU21yVzFrSWcxOG50T1BhRUFldTUwQk56U0R4Z1E?oc=5</link>
       <description>Publié le : Fri, 03 Jul 2026 07:00:00 GMT - Source : Google News (FR)</description>
@@ -124,6 +124,13 @@
       <link>https://news.google.com/rss/articles/CBMiiwJBVV95cUxQTG43RWdCa0V3aG81N2lTVm5Tc2tCaW15VENsX0t4X3dXbHF6RG1OZDdDNGhBT05hOWI1czROLVl6OEZWWEUxdFpyUnhjRFdVZmplbmdkRUVWLUhUN2tDZHlxa0F3cFlxcU9XUmRRd0FjQVZTalFDZkpHLXNReXBfWC1oOExzaUZYUmFuc08xeHQtNnVBVkdIYnBRZER0Nlk4UW83dEtDU0lRS1R2MXRWQ2pnaXhfTjA5cGw2SzJtSTRMUV9HNDBFR2ozOUlPeldnLWhrdmtoNzJuMXhhRFI0Z1BmRUp4Q0xaYnR6TnlLeVY0VzhRY1ExYzJ3V0dhRnB2SHN2QWNFRUVhcHM?oc=5</link>
       <description>Publié le : Sat, 04 Jul 2026 07:00:00 GMT - Source : Google News (EN)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiiwJBVV95cUxQTG43RWdCa0V3aG81N2lTVm5Tc2tCaW15VENsX0t4X3dXbHF6RG1OZDdDNGhBT05hOWI1czROLVl6OEZWWEUxdFpyUnhjRFdVZmplbmdkRUVWLUhUN2tDZHlxa0F3cFlxcU9XUmRRd0FjQVZTalFDZkpHLXNReXBfWC1oOExzaUZYUmFuc08xeHQtNnVBVkdIYnBRZER0Nlk4UW83dEtDU0lRS1R2MXRWQ2pnaXhfTjA5cGw2SzJtSTRMUV9HNDBFR2ozOUlPeldnLWhrdmtoNzJuMXhhRFI0Z1BmRUp4Q0xaYnR6TnlLeVY0VzhRY1ExYzJ3V0dhRnB2SHN2QWNFRUVhcHM?oc=5</guid>
+      <pubDate>Sat, 04 Jul 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[FR] Championnats de France d’épreuves combinées : le titre en junior pour le Rennais Maël-Béphassou Lannurien - Le Télégramme</title>
+      <link>https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNkE2UG5qa0E2OW5TbEdkbUhLWnYtZVhaQ0ROOFVkdDdUM2V1cDlxTjhDX2R1Q2RTR09YYUFnUldaUFZCMk1iaXlZc0JIMHo2MTVJRmlJTW9QaGx1WEVKQVY5SW9GUFVkb1VGRUdsX3dnSlFIX2pZMVliU01qVXFCQzIyRk85dEY2V2lDVlNBYmxQNzV5TnFPcXlyRkhKU0cwTTJ5dDUwVDRfakQ2YkdfRlFjbWZpSGR0WGg5NTZUNmxWSjJ1SFFYWHJ1alVuVmlzajRHajhpTUQ5QzlOYk03ODBKekZkVFl5eTh2UG45SFNOQQ?oc=5</link>
+      <description>Publié le : Sat, 04 Jul 2026 07:00:00 GMT - Source : Google News (FR)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNkE2UG5qa0E2OW5TbEdkbUhLWnYtZVhaQ0ROOFVkdDdUM2V1cDlxTjhDX2R1Q2RTR09YYUFnUldaUFZCMk1iaXlZc0JIMHo2MTVJRmlJTW9QaGx1WEVKQVY5SW9GUFVkb1VGRUdsX3dnSlFIX2pZMVliU01qVXFCQzIyRk85dEY2V2lDVlNBYmxQNzV5TnFPcXlyRkhKU0cwTTJ5dDUwVDRfakQ2YkdfRlFjbWZpSGR0WGg5NTZUNmxWSjJ1SFFYWHJ1alVuVmlzajRHajhpTUQ5QzlOYk03ODBKekZkVFl5eTh2UG45SFNOQQ?oc=5</guid>
       <pubDate>Sat, 04 Jul 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
@@ -244,13 +251,6 @@
       <description>Publié le : Thu, 01 Oct 2026 07:00:00 GMT - Source : Google News (EN)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BZGJOR193R0VWVWJDS3RTS1J3XzY3bXdqdUJRV0Zkd19BMVVnTjhfTW9YQmxpYTMxeFJVTWt0Y0VyVC0zdXBsV29GYmpMM0gxcUpTcGFLVVhDQ1VaMEtIb0JNaGp5MHJV?oc=5</guid>
       <pubDate>Thu, 01 Oct 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[EN] 123.ie All-Ireland Schools Combined Events - Athletics Ireland</title>
-      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ2huUGdnSzVISnctSHZubzl6aGtNakI3SmZqWnYwN2ZZYjN2SU1CVlRhX1VOdzBjeG8ya3ZEMkFueHhoeHBzU3R2NzAxSjFKQ2U1a3hUN2tXY29Td003RzYtRDNyNEJ2SlNSeVNUR3dnYldFYWlOeUh0U2xheVlJUW1vYw?oc=5</link>
-      <description>Publié le : Sat, 17 Oct 2026 07:00:00 GMT - Source : Google News (EN)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ2huUGdnSzVISnctSHZubzl6aGtNakI3SmZqWnYwN2ZZYjN2SU1CVlRhX1VOdzBjeG8ya3ZEMkFueHhoeHBzU3R2NzAxSjFKQ2U1a3hUN2tXY29Td003RzYtRDNyNEJ2SlNSeVNUR3dnYldFYWlOeUh0U2xheVlJUW1vYw?oc=5</guid>
-      <pubDate>Sat, 17 Oct 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[ES] LAS PRUEBAS COMBINADAS, PROTAGONISTAS EN RÍO ESGUEVA - Federación de Atletismo de Castilla y León</title>
