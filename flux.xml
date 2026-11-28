@@ -6,146 +6,13 @@
     <description>Flux international automatisé (FR/EN/ES) pour Heptaleo.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Nov 2026 16:14:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 01:09:46 +0000</lastBuildDate>
     <item>
-      <title>[ES] Marta Barroso, de la Inmaculada, sexta en el nacional de pruebas combinadas con Andalucía - Europa Sur</title>
-      <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxOdHZkRlhCeTBkT1JfRjBxTk1xS3duc196ZnY5b3B1WUVQZTlPTEVvY0ptUHoyQjRLdjl5cVh4T0NiR2VkWVRHalg1dW5abHAxWERQMzAzdTVfc0hxbG4yTFNBOFJrRlV1OHBsTmtiYmV2ZEZsMG9DSVoweGQ4UVZuelpOM3dYR2lOUDZQSEdyVGRtR3ZoRmtiNEc1NlhsUkk1M19TVndncmRoWlBBN21Ma2hzYlVCMDNqOUtWYg?oc=5</link>
-      <description>Publié le : Sun, 03 May 2026 07:00:00 GMT - Source : Google News (ES)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxOdHZkRlhCeTBkT1JfRjBxTk1xS3duc196ZnY5b3B1WUVQZTlPTEVvY0ptUHoyQjRLdjl5cVh4T0NiR2VkWVRHalg1dW5abHAxWERQMzAzdTVfc0hxbG4yTFNBOFJrRlV1OHBsTmtiYmV2ZEZsMG9DSVoweGQ4UVZuelpOM3dYR2lOUDZQSEdyVGRtR3ZoRmtiNEc1NlhsUkk1M19TVndncmRoWlBBN21Ma2hzYlVCMDNqOUtWYg?oc=5</guid>
-      <pubDate>Sun, 03 May 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[ES] Campeonato de España de Pruebas Combinadas por Federaciones Autonómicas - Fundació Esportiva Municipal València</title>
-      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxNTVU1S2owbTFnMFBHNVNtWkNSbDMwSmI2VFNxdncwaUpDTEhMUUVmdkJZcUZVTUZGbTBMZ1JYVFZfdm1nYi1kMHNqYjNBd3h3X3hYeXFxNFM1X3lMTUdwajNuWmZ2Uzg5dEVsbkw4MzZ2cGY3ak8ya09GTnFwOXk5c3h6bXhyYlFmekRlT0RaMlctYVZ0by1oNXMwck1DR2RzaXlnS2FqSzVkZGJtSmhV?oc=5</link>
-      <description>Publié le : Sun, 03 May 2026 07:00:00 GMT - Source : Google News (ES)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirwFBVV95cUxNTVU1S2owbTFnMFBHNVNtWkNSbDMwSmI2VFNxdncwaUpDTEhMUUVmdkJZcUZVTUZGbTBMZ1JYVFZfdm1nYi1kMHNqYjNBd3h3X3hYeXFxNFM1X3lMTUdwajNuWmZ2Uzg5dEVsbkw4MzZ2cGY3ak8ya09GTnFwOXk5c3h6bXhyYlFmekRlT0RaMlctYVZ0by1oNXMwck1DR2RzaXlnS2FqSzVkZGJtSmhV?oc=5</guid>
-      <pubDate>Sun, 03 May 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[ES] Galicia hace historia ganando su primer título conjunto de pruebas combinadas - RFEA</title>
-      <link>https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZ3BFM0dEdHlIallNNktWbVI3c1hJRGRQTmk0YzJQTER1VGJUeGExYXBubzNUT1lEWjRuME1USUh2OGNZbHowVWFGS1MybkNoeHpLRjVuSlpacHRzWnRKUE5xendxZjNzQ0FwRjNuVGV5a3pqeWNRRGRGSlY2cXZvWV9udll0MXNWUzYxb2ttWTItc0JfZDUzRTl1ZnlfUEVIOEU0LXN1MWQxbHhpazFlVzZhZEdCTDYyS1dZYWREVXRrVGw1VTY0eVdSR25GT3VqRko3b2h0UQ?oc=5</link>
-      <description>Publié le : Mon, 04 May 2026 07:00:00 GMT - Source : Google News (ES)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZ3BFM0dEdHlIallNNktWbVI3c1hJRGRQTmk0YzJQTER1VGJUeGExYXBubzNUT1lEWjRuME1USUh2OGNZbHowVWFGS1MybkNoeHpLRjVuSlpacHRzWnRKUE5xendxZjNzQ0FwRjNuVGV5a3pqeWNRRGRGSlY2cXZvWV9udll0MXNWUzYxb2ttWTItc0JfZDUzRTl1ZnlfUEVIOEU0LXN1MWQxbHhpazFlVzZhZEdCTDYyS1dZYWREVXRrVGw1VTY0eVdSR25GT3VqRko3b2h0UQ?oc=5</guid>
-      <pubDate>Mon, 04 May 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[ES] La FAMU ocupa el séptimo puesto en el Nacional de pruebas combinadas en Valencia - Murcia Plaza</title>
-      <link>https://news.google.com/rss/articles/CBMizAFBVV95cUxOcWo3amJOSmdZZnNMYzRNQzdoTmpfbVNiS2ROYUpVVTJZdGl4eG52SVZEWERwSHlyZ0tsNWI5WWdYS0xNUlZodlN5VEhiZ0c5MnRCMHRPSVVFZ2VaQ3VTT2VJd0tYNHpSaVh3bnN1N3RIY2ptZTAzRlhCUEJWSVU0NVptR2RRdW1Ka3hzaTZSd0dKT2MzWVZIeDRQWlFRUFdtZW9DazdHQWNkM3lEYzF2a3hTcVpHRm9QcjFKbGJTN3JFRDgwUjZtVzZuTGg?oc=5</link>
-      <description>Publié le : Tue, 05 May 2026 07:00:00 GMT - Source : Google News (ES)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizAFBVV95cUxOcWo3amJOSmdZZnNMYzRNQzdoTmpfbVNiS2ROYUpVVTJZdGl4eG52SVZEWERwSHlyZ0tsNWI5WWdYS0xNUlZodlN5VEhiZ0c5MnRCMHRPSVVFZ2VaQ3VTT2VJd0tYNHpSaVh3bnN1N3RIY2ptZTAzRlhCUEJWSVU0NVptR2RRdW1Ka3hzaTZSd0dKT2MzWVZIeDRQWlFRUFdtZW9DazdHQWNkM3lEYzF2a3hTcVpHRm9QcjFKbGJTN3JFRDgwUjZtVzZuTGg?oc=5</guid>
-      <pubDate>Tue, 05 May 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[FR] Athlétisme . Épreuves combinées : Célian Pigeron et Timéo Pion en coup de vent - Le Progrès</title>
-      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxQZ3dmQjJFRFE5OG5La1pGaFM0ajBrbWVHNnItU2p6dHNvem50RjA2VlhKRHVQNjFKVGtsTm5wX2l3dmltQ1d1ZU5ZeVhJUVFadkFfRGlsdzJQMkxieVZ0d3owR29zbnc5c01kU0t5QlJ4ZkhuSndlYTlmNE00S3JnSzRQYkNBcEg4bmFjV3pTOA?oc=5</link>
-      <description>Publié le : Sat, 09 May 2026 07:00:00 GMT - Source : Google News (FR)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMijwFBVV95cUxQZ3dmQjJFRFE5OG5La1pGaFM0ajBrbWVHNnItU2p6dHNvem50RjA2VlhKRHVQNjFKVGtsTm5wX2l3dmltQ1d1ZU5ZeVhJUVFadkFfRGlsdzJQMkxieVZ0d3owR29zbnc5c01kU0t5QlJ4ZkhuSndlYTlmNE00S3JnSzRQYkNBcEg4bmFjV3pTOA?oc=5</guid>
-      <pubDate>Sat, 09 May 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[FR] Athlétisme. Régionaux d’épreuves combinées à Nantes : Noémie Kieffer, pour le plaisir - Ouest-France</title>
-      <link>https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNFk4Qi1tLWZINnNmQzlMNUV2aWxmZGQ2Q1dIR2hZb1gwWG9oc3dfblpKRWhKLUp5OHhNdHljYWxMUDZjRk5QakRLLVN1RzFNdUVWWFdzVS0tOTR1M0FoVnFEb2JuRTZSSVQwaDlMNElkRFc1dG85TWU2VDdiOUs2amRzdFFCZS1lOTM0YUQ4LVFLLU56eUdTVUE5TGhHOExzSUtCM3dYdzQ1ekR0NkxxTmU1Q01fMEhDYkIxTnRfWHNacnlfVUM2bEUtdnlKLTdUekxyZEY3QU1VTmNKS3Zpc3JYb2tRY2VlN0dhV1JRQl9XelFq?oc=5</link>
-      <description>Publié le : Thu, 21 May 2026 07:00:00 GMT - Source : Google News (FR)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNFk4Qi1tLWZINnNmQzlMNUV2aWxmZGQ2Q1dIR2hZb1gwWG9oc3dfblpKRWhKLUp5OHhNdHljYWxMUDZjRk5QakRLLVN1RzFNdUVWWFdzVS0tOTR1M0FoVnFEb2JuRTZSSVQwaDlMNElkRFc1dG85TWU2VDdiOUs2amRzdFFCZS1lOTM0YUQ4LVFLLU56eUdTVUE5TGhHOExzSUtCM3dYdzQ1ekR0NkxxTmU1Q01fMEhDYkIxTnRfWHNacnlfVUM2bEUtdnlKLTdUekxyZEY3QU1VTmNKS3Zpc3JYb2tRY2VlN0dhV1JRQl9XelFq?oc=5</guid>
-      <pubDate>Thu, 21 May 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[FR] Athlétisme. Régionaux d’épreuves combinées : Louka Tesson vise le top 5 Français au décathlon cadets - Ouest-France</title>
-      <link>https://news.google.com/rss/articles/CBMiigJBVV95cUxPcV9KTE9OR0xPcG1mVXA5c0VOMlR1MGI1aUxhczhBcjNfejVZUGV3d0lpQjlQb0FLYVVXR19FZ0JkWmxYa0FUYXdBSThvVDNBU1ZaR1VnMWtnQVNMWVBKNHNsMDBIdWF6YkV3enZmNGFLQUhWWmJQNWllbzhDQzlybmVCbE5QWDNyV29BQzJwMDRXUk5qVUNIV1JmV3NzOUJWU2dRREQ5S3V0V2RJT1V1YW8wOTU4aURnZEU1eWhMdDNDaDVza1R2eDQ4VzQ4UVVVTGd5QlBHLTNBYUtSdTVpVmtqOGZtNjhQM1dfdlQwSmliTnhuOXZqekpXb2RWZk1YSzdYNXJ3V2FsQQ?oc=5</link>
-      <description>Publié le : Thu, 21 May 2026 07:00:00 GMT - Source : Google News (FR)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiigJBVV95cUxPcV9KTE9OR0xPcG1mVXA5c0VOMlR1MGI1aUxhczhBcjNfejVZUGV3d0lpQjlQb0FLYVVXR19FZ0JkWmxYa0FUYXdBSThvVDNBU1ZaR1VnMWtnQVNMWVBKNHNsMDBIdWF6YkV3enZmNGFLQUhWWmJQNWllbzhDQzlybmVCbE5QWDNyV29BQzJwMDRXUk5qVUNIV1JmV3NzOUJWU2dRREQ5S3V0V2RJT1V1YW8wOTU4aURnZEU1eWhMdDNDaDVza1R2eDQ4VzQ4UVVVTGd5QlBHLTNBYUtSdTVpVmtqOGZtNjhQM1dfdlQwSmliTnhuOXZqekpXb2RWZk1YSzdYNXJ3V2FsQQ?oc=5</guid>
-      <pubDate>Thu, 21 May 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[FR] Athlétisme. Régionaux d’épreuves combinées : Claire Letourneur sacrée au bout d’un grand suspense - Ouest-France</title>
-      <link>https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbmMxSVF4dklOZlVZcEcxRU15bk9RQnF3S2hOcHBoTjdJOURtT3gtQ0Vqc015NzJ5WnFzNXNOVFRmandXTFI4cTlkWDdXTmt6Y1IyQnFjSklmUnZVaWRMczZlNVNDb3RXQ3BvVzFOclFvbDVTVFdZNE5tM2g1LVdqTklKR1JKWWQ4SXhRQkZmbEFDYmZTZllpSGxqdTZtMUVkQnB6WGlFQ2V6Q3FhVWtLZUVjRGI2bTlWdnJKeG5xQjRNNC1wUHBva014Z2lybWlVeWRYSGxnOENSWXct?oc=5</link>
-      <description>Publié le : Sun, 24 May 2026 07:00:00 GMT - Source : Google News (FR)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbmMxSVF4dklOZlVZcEcxRU15bk9RQnF3S2hOcHBoTjdJOURtT3gtQ0Vqc015NzJ5WnFzNXNOVFRmandXTFI4cTlkWDdXTmt6Y1IyQnFjSklmUnZVaWRMczZlNVNDb3RXQ3BvVzFOclFvbDVTVFdZNE5tM2g1LVdqTklKR1JKWWQ4SXhRQkZmbEFDYmZTZllpSGxqdTZtMUVkQnB6WGlFQ2V6Q3FhVWtLZUVjRGI2bTlWdnJKeG5xQjRNNC1wUHBva014Z2lybWlVeWRYSGxnOENSWXct?oc=5</guid>
-      <pubDate>Sun, 24 May 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[EN] Watch again | Hypomeeting 2026 - Götzis - World Combined Events Tour Gold - worldathletics.org</title>
-      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxPS0swbDc1ZmczeWgxdjIzSmwtTkJzNmhGX181SmFuRTE1VHpyUEdNV2RoVm4yQVg1SFNvRTZ6dmQ2bkdraURCUmNoSlAzYllJU2RldHd1R1FWNmtCc0hLVWgwY0RaY2VnaVNLQ243eTl3MGlsaUo0Zml5MnBER0VrMnZPTGJid0M5N3B0VUxPeUFYYnAxTUxHTU9B?oc=5</link>
-      <description>Publié le : Fri, 29 May 2026 20:43:58 GMT - Source : Google News (EN)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMimgFBVV95cUxPS0swbDc1ZmczeWgxdjIzSmwtTkJzNmhGX181SmFuRTE1VHpyUEdNV2RoVm4yQVg1SFNvRTZ6dmQ2bkdraURCUmNoSlAzYllJU2RldHd1R1FWNmtCc0hLVWgwY0RaY2VnaVNLQ243eTl3MGlsaUo0Zml5MnBER0VrMnZPTGJid0M5N3B0VUxPeUFYYnAxTUxHTU9B?oc=5</guid>
-      <pubDate>Fri, 29 May 2026 20:43:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>[FR] Athlétisme : aux championnats Aura d'épreuves combinées, les Auvergnats ont su se mettre en avant à Clermont-Ferrand - La Montagne</title>
-      <link>https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUzNCUG40YW04T1VsMUdmZlBDUVFhRzVyWV9scV9SUUd1Z0tGRWpCdGxZMm5lSGxQdnVvazJ3UldvSmRnVGtVLXJvVEQ2QS1xNEtaWDl4Vlk4ekp6bEdKZlVBRTJkQTdSOU1lcURoNktpc1FSd0lTbEU3RnpfbG83Tzd0aHhlNVBJY0gzZGhuYXdjSUQ2VFVTY2pZbk02LVVQX0FYeVprVXdWSnVSbG8xbVVRZldxU3BBR29CclB6RWUzQ1RSR2o5RjFaWGdGeERjcksySWotYjMwNlRwVUc1bGVhSEphVXJzR0hHaklPdEVTQQ?oc=5</link>
-      <description>Publié le : Sun, 07 Jun 2026 07:00:00 GMT - Source : Google News (FR)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUzNCUG40YW04T1VsMUdmZlBDUVFhRzVyWV9scV9SUUd1Z0tGRWpCdGxZMm5lSGxQdnVvazJ3UldvSmRnVGtVLXJvVEQ2QS1xNEtaWDl4Vlk4ekp6bEdKZlVBRTJkQTdSOU1lcURoNktpc1FSd0lTbEU3RnpfbG83Tzd0aHhlNVBJY0gzZGhuYXdjSUQ2VFVTY2pZbk02LVVQX0FYeVprVXdWSnVSbG8xbVVRZldxU3BBR29CclB6RWUzQ1RSR2o5RjFaWGdGeERjcksySWotYjMwNlRwVUc1bGVhSEphVXJzR0hHaklPdEVTQQ?oc=5</guid>
-      <pubDate>Sun, 07 Jun 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[ES] Las pruebas combinadas de #EspañaAtletismo se miden a Portugal - RFEA</title>
-      <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYzlpYTFFY3FzRDlqS3drei1PRm5XSl96dm5POWNtZFJMNEtNUlBhTTFqVmVIT1RuaU5pQWdhVG03Ujc3YXFpR3V1TE5fal9wQ1ZzS2dSdlpMOUNQb3FnZzVJdm5LY1RNN1pqY2NfM0ttemlPNXVpRmNSVHNzNmk1MHREYlJWMGFvcGVpNjBJNmprU2Nib2NpcXBBWjdmMkxoZkZwTHBvUGI2SkdMalZkUkEtanZwSUtaUGFWcG0tNHNPQQ?oc=5</link>
-      <description>Publié le : Mon, 22 Jun 2026 07:00:00 GMT - Source : Google News (ES)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYzlpYTFFY3FzRDlqS3drei1PRm5XSl96dm5POWNtZFJMNEtNUlBhTTFqVmVIT1RuaU5pQWdhVG03Ujc3YXFpR3V1TE5fal9wQ1ZzS2dSdlpMOUNQb3FnZzVJdm5LY1RNN1pqY2NfM0ttemlPNXVpRmNSVHNzNmk1MHREYlJWMGFvcGVpNjBJNmprU2Nib2NpcXBBWjdmMkxoZkZwTHBvUGI2SkdMalZkUkEtanZwSUtaUGFWcG0tNHNPQQ?oc=5</guid>
-      <pubDate>Mon, 22 Jun 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[ES] España Atletismo vence a Portugal en el Trofeo Ibérico de Pruebas Combinadas - RFEA</title>
-      <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYW95RnZOamd4M0loVjBNREF1dk9mSnlQRjVPSDJ3c1R5V19PNl9Wa0xYWU1uX3FNWWdrbXZHNl92dk5RaHFtbUU5RDNkamRWVzVzRjZIaU1EREFpZmo2N3RxaERqNE0tU2ZOTWx6emw0QWRrWlJVb2dXZzVPbVZnc2lBNkE1SmNpQlpCUXZxOVdpQ1pELUFMMU1Ea0pmNzJTc1dSX1Y0QUVOVHBYbk1TU3FiV08xVzRzdjBBVWMySHpCRVA2SVBfMVdEN1NrMWpWMzNv?oc=5</link>
-      <description>Publié le : Wed, 24 Jun 2026 07:00:00 GMT - Source : Google News (ES)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYW95RnZOamd4M0loVjBNREF1dk9mSnlQRjVPSDJ3c1R5V19PNl9Wa0xYWU1uX3FNWWdrbXZHNl92dk5RaHFtbUU5RDNkamRWVzVzRjZIaU1EREFpZmo2N3RxaERqNE0tU2ZOTWx6emw0QWRrWlJVb2dXZzVPbVZnc2lBNkE1SmNpQlpCUXZxOVdpQ1pELUFMMU1Ea0pmNzJTc1dSX1Y0QUVOVHBYbk1TU3FiV08xVzRzdjBBVWMySHpCRVA2SVBfMVdEN1NrMWpWMzNv?oc=5</guid>
-      <pubDate>Wed, 24 Jun 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[EN] Paul Miller to Lead Combined Emerald and Questex Business as Chief Executive Officer - Apollo Global Management</title>
-      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUW93U1ZRNmVET1pERVJud3EtOGlPcWp6cmYybTFHbkVmdGJmeU1rWXdfMF93S3dqREFzUC10SlRieVNRNFljQUJ3OWRWVTJKUVV3a1JKb2xFckVHaHNXX3Y5UHltMHd6OHN4MjNNRmxnd05XTkh5QV9Ua1FJX1dMYXd3d2dyRzlINlRXMG1WUGtkbHdadC1nSFlFUi00cnprTnF5cUE4aDd5cUpTX0FadjhiRnhwTndP?oc=5</link>
-      <description>Publié le : Wed, 24 Jun 2026 07:00:00 GMT - Source : Google News (EN)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUW93U1ZRNmVET1pERVJud3EtOGlPcWp6cmYybTFHbkVmdGJmeU1rWXdfMF93S3dqREFzUC10SlRieVNRNFljQUJ3OWRWVTJKUVV3a1JKb2xFckVHaHNXX3Y5UHltMHd6OHN4MjNNRmxnd05XTkh5QV9Ua1FJX1dMYXd3d2dyRzlINlRXMG1WUGtkbHdadC1nSFlFUi00cnprTnF5cUE4aDd5cUpTX0FadjhiRnhwTndP?oc=5</guid>
-      <pubDate>Wed, 24 Jun 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[ES] Se encuentra abierta la inscripción para el Circuito Municipal de Pruebas Combinadas - Municipalidad de General Pueyrredon</title>
-      <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxObElwTHJ0MHpzR0pTZFBuck1HZ1ZQc3RTdzZGdDVvT054WnpvbUV1elFEelJLTG82ajJveEtXTlI0VlliMWkwMVc5UjRqai1tZzQxMXFjNVk1VlY5dFoybTlwbEc2VWZDMDZuN0ZUY2xCMl8xN01tZnhoSklvZWxiU1RHMWpmMWNQN01oNGx5ZWY3ZVB1Z0NOLUJVQUdOY2RDMzNlY1hVa3ZteUlZQVR3dzRxWkwzMkhKeUFSXzV1eFlYLUhGd09OTg?oc=5</link>
-      <description>Publié le : Mon, 29 Jun 2026 07:00:00 GMT - Source : Google News (ES)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiyAFBVV95cUxObElwTHJ0MHpzR0pTZFBuck1HZ1ZQc3RTdzZGdDVvT054WnpvbUV1elFEelJLTG82ajJveEtXTlI0VlliMWkwMVc5UjRqai1tZzQxMXFjNVk1VlY5dFoybTlwbEc2VWZDMDZuN0ZUY2xCMl8xN01tZnhoSklvZWxiU1RHMWpmMWNQN01oNGx5ZWY3ZVB1Z0NOLUJVQUdOY2RDMzNlY1hVa3ZteUlZQVR3dzRxWkwzMkhKeUFSXzV1eFlYLUhGd09OTg?oc=5</guid>
-      <pubDate>Mon, 29 Jun 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[FR] Yvetot. Léonie Cambours, grand retour en heptathlon - lecourriercauchois.fr</title>
-      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxQMTBqNWtMNG9ZMVdva3dPMWFvY3RyNUZaSE1VOGNrcUJzTVQtclpPb1l5TV9fN21uR3hURUJHTHFPSzFoYjdoOGQtOUFWTFV3YmNyTk1SUjJnZ1ZobjlTWkk1US05VzA5MXY2SlhqOXkzSjh4Q0dObjNuR3BrcnY4dHZEaXpjUW9SX3p0aHZWM2lzYWgtRXNIWnhlM05YQ3c4VEE?oc=5</link>
-      <description>Publié le : Wed, 01 Jul 2026 07:00:00 GMT - Source : Google News (FR)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiogFBVV95cUxQMTBqNWtMNG9ZMVdva3dPMWFvY3RyNUZaSE1VOGNrcUJzTVQtclpPb1l5TV9fN21uR3hURUJHTHFPSzFoYjdoOGQtOUFWTFV3YmNyTk1SUjJnZ1ZobjlTWkk1US05VzA5MXY2SlhqOXkzSjh4Q0dObjNuR3BrcnY4dHZEaXpjUW9SX3p0aHZWM2lzYWgtRXNIWnhlM05YQ3c4VEE?oc=5</guid>
-      <pubDate>Wed, 01 Jul 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[FR] Athlétisme. Championnats de France des épreuves combinées : le Lavallois Tom Morvan veut titiller les 6 800 pts - Ouest-France</title>
-      <link>https://news.google.com/rss/articles/CBMimgJBVV95cUxPRlJZMDc0c3JydVMyMU9ERXFBR3E4N25fT2VCSGR6NUNLbzNPQVQzMUJXbG5kVWdpSWVwNE91SXkxUUFvMEpMVThMQ3NRZmpNTGZPYTdnVFFJR3JESEdCU2hFRDdXSUVVaVcyME5nWk9lOGVtbnBYaDdZSS1zR3NNZ2tWOEpxdDRYZVB1MFp5cHRvcXJXcDB0RDM0ZGFJN1p3aERmT0puRjJaQU02aHRuWDAwb24wN29BR0JWdjd6VEVzTHRKajl4b1g3Sm9jQ0ZWWk1xZERyeUUwZi1KMW5RcHZMdFBCdndOR0VqTTNmY3huN1ExVlVMSkM2OE5pU21yVzFrSWcxOG50T1BhRUFldTUwQk56U0R4Z1E?oc=5</link>
-      <description>Publié le : Fri, 03 Jul 2026 07:00:00 GMT - Source : Google News (FR)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMimgJBVV95cUxPRlJZMDc0c3JydVMyMU9ERXFBR3E4N25fT2VCSGR6NUNLbzNPQVQzMUJXbG5kVWdpSWVwNE91SXkxUUFvMEpMVThMQ3NRZmpNTGZPYTdnVFFJR3JESEdCU2hFRDdXSUVVaVcyME5nWk9lOGVtbnBYaDdZSS1zR3NNZ2tWOEpxdDRYZVB1MFp5cHRvcXJXcDB0RDM0ZGFJN1p3aERmT0puRjJaQU02aHRuWDAwb24wN29BR0JWdjd6VEVzTHRKajl4b1g3Sm9jQ0ZWWk1xZERyeUUwZi1KMW5RcHZMdFBCdndOR0VqTTNmY3huN1ExVlVMSkM2OE5pU21yVzFrSWcxOG50T1BhRUFldTUwQk56U0R4Z1E?oc=5</guid>
-      <pubDate>Fri, 03 Jul 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[FR] ATHLE.FR | Championnats de France d'épreuves combinées : les jeunes en lice à Aix-en-Provence - Fédération Française d'Athlétisme</title>
-      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxPMk1FMnZ6R0stU3pGeDhoNTVkel9HVURscGFKSVZxQnV2cEhBVjlkWFNkNG45WVhHeEMzWmpWLU5CR1ZiZ1gxWXV3Qi1EdHpnR2ZEa2tzMmN2LWlSUWtkbE5BOF8wRFpxUk1QQ3l2ZThIdV9ra05BVjdaVTcwOG00ZkNBOW1iOUUtNTlkUFFEUFAzYk9wMjNScUdpT2NXSXpmTkJZY2tnNXpXNUVmVGU5U1poMWhOd2lNdlE?oc=5</link>
-      <description>Publié le : Fri, 03 Jul 2026 07:00:00 GMT - Source : Google News (FR)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiugFBVV95cUxPMk1FMnZ6R0stU3pGeDhoNTVkel9HVURscGFKSVZxQnV2cEhBVjlkWFNkNG45WVhHeEMzWmpWLU5CR1ZiZ1gxWXV3Qi1EdHpnR2ZEa2tzMmN2LWlSUWtkbE5BOF8wRFpxUk1QQ3l2ZThIdV9ra05BVjdaVTcwOG00ZkNBOW1iOUUtNTlkUFFEUFAzYk9wMjNScUdpT2NXSXpmTkJZY2tnNXpXNUVmVGU5U1poMWhOd2lNdlE?oc=5</guid>
-      <pubDate>Fri, 03 Jul 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[FR] Championnats de France d’épreuves combinées : le titre en junior pour le Rennais Maël-Béphassou Lannurien - Le Télégramme</title>
-      <link>https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNkE2UG5qa0E2OW5TbEdkbUhLWnYtZVhaQ0ROOFVkdDdUM2V1cDlxTjhDX2R1Q2RTR09YYUFnUldaUFZCMk1iaXlZc0JIMHo2MTVJRmlJTW9QaGx1WEVKQVY5SW9GUFVkb1VGRUdsX3dnSlFIX2pZMVliU01qVXFCQzIyRk85dEY2V2lDVlNBYmxQNzV5TnFPcXlyRkhKU0cwTTJ5dDUwVDRfakQ2YkdfRlFjbWZpSGR0WGg5NTZUNmxWSjJ1SFFYWHJ1alVuVmlzajRHajhpTUQ5QzlOYk03ODBKekZkVFl5eTh2UG45SFNOQQ?oc=5</link>
-      <description>Publié le : Sat, 04 Jul 2026 07:00:00 GMT - Source : Google News (FR)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNkE2UG5qa0E2OW5TbEdkbUhLWnYtZVhaQ0ROOFVkdDdUM2V1cDlxTjhDX2R1Q2RTR09YYUFnUldaUFZCMk1iaXlZc0JIMHo2MTVJRmlJTW9QaGx1WEVKQVY5SW9GUFVkb1VGRUdsX3dnSlFIX2pZMVliU01qVXFCQzIyRk85dEY2V2lDVlNBYmxQNzV5TnFPcXlyRkhKU0cwTTJ5dDUwVDRfakQ2YkdfRlFjbWZpSGR0WGg5NTZUNmxWSjJ1SFFYWHJ1alVuVmlzajRHajhpTUQ5QzlOYk03ODBKekZkVFl5eTh2UG45SFNOQQ?oc=5</guid>
-      <pubDate>Sat, 04 Jul 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[EN] England Athletics Senior and U20 track and field and combined events championships, powered by Citroën: Tickets punched, job done - England Athletics</title>
-      <link>https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdUxtV1k5cjB4TDJIclFCbWRmdFA0OE1ETjFCLV9FM3dsQ1F0SnRFQmZyMzFpcmVzWmxHVW9vajhQRFJCWkNEWkNEZHNKTjZNdS0wcGNYWkZXbmhUVVlTbG9iQkFNMTBrY0FuTVFzNDJYTEdwZTFQQ2pHc2VjZGdaM2tuZ1JnZkJRSmkzVHpkOTRZaFBoRkNzRTdOSWxQMkZ1ejk5SEVqYi1VWWptZTN2NlpxLUZzaldHUVk3Mm1UYmw3eVFEYnFQMUdELWtNYzk1STF4TWJvMUlZRmYydDdQdFRvVHFtRm9wVER5OXNCZUNGc2VLSzJMRg?oc=5</link>
-      <description>Publié le : Sun, 05 Jul 2026 07:00:00 GMT - Source : Google News (EN)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdUxtV1k5cjB4TDJIclFCbWRmdFA0OE1ETjFCLV9FM3dsQ1F0SnRFQmZyMzFpcmVzWmxHVW9vajhQRFJCWkNEWkNEZHNKTjZNdS0wcGNYWkZXbmhUVVlTbG9iQkFNMTBrY0FuTVFzNDJYTEdwZTFQQ2pHc2VjZGdaM2tuZ1JnZkJRSmkzVHpkOTRZaFBoRkNzRTdOSWxQMkZ1ejk5SEVqYi1VWWptZTN2NlpxLUZzaldHUVk3Mm1UYmw3eVFEYnFQMUdELWtNYzk1STF4TWJvMUlZRmYydDdQdFRvVHFtRm9wVER5OXNCZUNGc2VLSzJMRg?oc=5</guid>
-      <pubDate>Sun, 05 Jul 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[FR] Championnats de France d'Épreuves Combinées : Maël Bephassou Lannurien en or - Ligue de Bretagne d'Athlétisme</title>
-      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSW9vcmhKRG50MXpNQUVib1V2MTI5dWFMODBEaUZobDd3b0xsQWI1S01OVFBMRjVOYTZ0d1JRZ2NZc053aE82VGRQZ1ozRk1Cc2lNOVVORVlaN0xWYkpaTl9ubHEwamU3bzc4VnNYQTJ0S2dHMzczTU1zYmg5cjY3a1diT2JwUGFxeHV5Sjk5Z01rd2J5VmtBVFFURUt3akdFOFoxaEU1U3U5Nms?oc=5</link>
-      <description>Publié le : Sun, 05 Jul 2026 07:00:00 GMT - Source : Google News (FR)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSW9vcmhKRG50MXpNQUVib1V2MTI5dWFMODBEaUZobDd3b0xsQWI1S01OVFBMRjVOYTZ0d1JRZ2NZc053aE82VGRQZ1ozRk1Cc2lNOVVORVlaN0xWYkpaTl9ubHEwamU3bzc4VnNYQTJ0S2dHMzczTU1zYmg5cjY3a1diT2JwUGFxeHV5Sjk5Z01rd2J5VmtBVFFURUt3akdFOFoxaEU1U3U5Nms?oc=5</guid>
-      <pubDate>Sun, 05 Jul 2026 07:00:00 +0000</pubDate>
+      <title>[FR] Athlétisme. La Paloise Zola Ndouma Mona devient championne de France d’heptathlon ! - La République des Pyrénées</title>
+      <link>https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSU92RDZlV1ZJbU9WcmlRV1pfN2o1YkNTU1FydUtsYS1zNVBncVBtMmRtRFl0NXBMR0FzYkNYbEg2YVNYa2FaRVJMZFFyTVVWRG9rRGV2MDJxR2t1TTFYYkNxRU5PQUhOUkxQdUUtMmR3aDhDOGU5UlFzQWZISjk4RUdxckwtR3ljZ1BQVHRhdlZSSnR0X3dSVWJUQW0wNjVucjlvMXR6Mk9VNFBoamNQRDF0NnhIZ3FEUXVscm9oUGFsQWM4bHNpbFhSQWdiOXd2YmtpZldZczMtSE5xM1gxYTFQUQ?oc=5</link>
+      <description>Publié le : Mon, 06 Jul 2026 07:00:00 GMT - Source : Google News (FR)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSU92RDZlV1ZJbU9WcmlRV1pfN2o1YkNTU1FydUtsYS1zNVBncVBtMmRtRFl0NXBMR0FzYkNYbEg2YVNYa2FaRVJMZFFyTVVWRG9rRGV2MDJxR2t1TTFYYkNxRU5PQUhOUkxQdUUtMmR3aDhDOGU5UlFzQWZISjk4RUdxckwtR3ljZ1BQVHRhdlZSSnR0X3dSVWJUQW0wNjVucjlvMXR6Mk9VNFBoamNQRDF0NnhIZ3FEUXVscm9oUGFsQWM4bHNpbFhSQWdiOXd2YmtpZldZczMtSE5xM1gxYTFQUQ?oc=5</guid>
+      <pubDate>Mon, 06 Jul 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[FR] ATHLE.FR | Championnats de France d’épreuves combinées : Ndouma-Mona et Lannurien en patrons - Fédération Française d'Athlétisme</title>
@@ -153,6 +20,20 @@
       <description>Publié le : Mon, 06 Jul 2026 07:00:00 GMT - Source : Google News (FR)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxOclZfeUt4RWg4SFY0akdSNF9keVdtR2JQQmpMcG42RlExUFB4Z3lTLWlTT2dNT2drSVQ2cURXTlVRRHBJeVdSYkhGbHFqSk1QZW9xUnRJTmVjRXRWdHNmUEp6U3Q4MnM5TmxqUEk4M3VKaThlTTREaDJxaEI4M3A0bDN0RDVxVTVKUE9kU3ZpNlRtUUdWWl9wSFpoTEpTbEhQYnVzRGt6c0stNUZDclNvenREZEZFYkVF?oc=5</guid>
       <pubDate>Mon, 06 Jul 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[FR] JO 2030. Le CIO fait entrer de nouvelles épreuves mais renonce au combiné nordique pour la prochaine édition - Ouest-France</title>
+      <link>https://news.google.com/rss/articles/CBMilwJBVV95cUxNd1FxcFVtdDFrcFpVQURnZFZiUU56cjdiWmR6ZENGUTZUWFExOVRNQzlVQlhJYlpIYl9WYm1XZG1kWDNLLTh2M2ZkSjM5Vlc5Vl9qa3g2ODFySlhFNlZMTFUxb2tHNDJmUzRYYXVLNFc5Sk43S0dNRE42QzRpREEwd0VKNlhxNEpSX1k1UGNKMmRBQnlGbTM0a3pNUGpqcDdJdTN0VEJpU0gxVzE5dExjckhyQXVzZTl6dnNwZnRxTWhIRW80OVJxWEszSVUtc3NTRlg5ZENiUWRsMGJ3U2g4eHhCUl9nOUhGVXFFcVNjNEFPQ0twWHBabDItejJ4bG13a0taQUdhelBBRjA2LUZtVUdCQmNEV0U?oc=5</link>
+      <description>Publié le : Tue, 07 Jul 2026 07:00:00 GMT - Source : Google News (FR)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMilwJBVV95cUxNd1FxcFVtdDFrcFpVQURnZFZiUU56cjdiWmR6ZENGUTZUWFExOVRNQzlVQlhJYlpIYl9WYm1XZG1kWDNLLTh2M2ZkSjM5Vlc5Vl9qa3g2ODFySlhFNlZMTFUxb2tHNDJmUzRYYXVLNFc5Sk43S0dNRE42QzRpREEwd0VKNlhxNEpSX1k1UGNKMmRBQnlGbTM0a3pNUGpqcDdJdTN0VEJpU0gxVzE5dExjckhyQXVzZTl6dnNwZnRxTWhIRW80OVJxWEszSVUtc3NTRlg5ZENiUWRsMGJ3U2g4eHhCUl9nOUhGVXFFcVNjNEFPQ0twWHBabDItejJ4bG13a0taQUdhelBBRjA2LUZtVUdCQmNEV0U?oc=5</guid>
+      <pubDate>Tue, 07 Jul 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[FR] Ambitieux, Thomas Humbey échoue au pied du podium des championnats de France d’épreuves combinées - L'Est Républicain</title>
+      <link>https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTVlTdzBaOWJocFNJdVN3OXFNV25wMm1fUlMyR0FMX3ZZYXE3RERkNmtKdWN0am0tVlpEcVEzZ2ZDNExIUkRrelF6T2RqY3FLU1NwLWhQVFNxbWx3bE52blNDYl81V180SlVXUGpRYXdVcnl1NnBiYUo0eFJYRTZkUTlVV3JfbmVSVDVVSXpGVE1aMUo3Y2x2YTVqd0hOWnFMX3A2VXFhY2djZ25yYVRKSzJqLXNBbUNoaGZiR2c1UWo4NktvQjNQSGNFa0xIWmE4NlhJVzRDQ2N0NFU?oc=5</link>
+      <description>Publié le : Tue, 07 Jul 2026 07:00:00 GMT - Source : Google News (FR)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTVlTdzBaOWJocFNJdVN3OXFNV25wMm1fUlMyR0FMX3ZZYXE3RERkNmtKdWN0am0tVlpEcVEzZ2ZDNExIUkRrelF6T2RqY3FLU1NwLWhQVFNxbWx3bE52blNDYl81V180SlVXUGpRYXdVcnl1NnBiYUo0eFJYRTZkUTlVV3JfbmVSVDVVSXpGVE1aMUo3Y2x2YTVqd0hOWnFMX3A2VXFhY2djZ25yYVRKSzJqLXNBbUNoaGZiR2c1UWo4NktvQjNQSGNFa0xIWmE4NlhJVzRDQ2N0NFU?oc=5</guid>
+      <pubDate>Tue, 07 Jul 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[FR] Championnats de France d’épreuves combinées &amp; de nombreuses compétitions ! - athlelana</title>
@@ -167,6 +48,41 @@
       <description>Publié le : Wed, 08 Jul 2026 07:00:00 GMT - Source : Google News (FR)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNmRXbzNSQWY3MWZTdU4yR3ZxWjlpV3h6WlF1ZUtzaFpnT2licS0yMWQtMXRJRzQ5VU9UcDlGdHpBenpFN29TRnU0SGJVcjhTdWw3ckJVS3Z3cXhJSkw4NXZRMWdqc0ZtNHNNb2Y5bXBFc2hYdUdVcWFsS0xTMVM1TER2VjRqRm5EdHlpcW5XMmxzRW80MHp1akhRVlItRVJjV2lYVHpaTTE0dTg?oc=5</guid>
       <pubDate>Wed, 08 Jul 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[FR] Athlétisme. Trois Saint-Lois dans le top 10 français en épreuves combinées - lamanchelibre.fr</title>
+      <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxPTHV0SW9jMkRfQXB5R2RNZHdwOVZYc2NWOWxRcl9xaUd3RGg5SmRXVmxVd1RaUDJiWENiYkNORHJBUnljTmN6YTdVaFFPV2tzaExOT1FvdW5oblVBaXpSMHZyTjRTMm9MelBrQXpMbFFBZVNQenZrc2FUUzlKUVpRbFcxcnlITkczaGJ2V09yUFZ4Zk14elFGVmlsalBta1hRSzNxenJGc0RCUjc2dEg3X2lXOS1kdTByd3U0dw?oc=5</link>
+      <description>Publié le : Thu, 09 Jul 2026 07:00:00 GMT - Source : Google News (FR)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxPTHV0SW9jMkRfQXB5R2RNZHdwOVZYc2NWOWxRcl9xaUd3RGg5SmRXVmxVd1RaUDJiWENiYkNORHJBUnljTmN6YTdVaFFPV2tzaExOT1FvdW5oblVBaXpSMHZyTjRTMm9MelBrQXpMbFFBZVNQenZrc2FUUzlKUVpRbFcxcnlITkczaGJ2V09yUFZ4Zk14elFGVmlsalBta1hRSzNxenJGc0RCUjc2dEg3X2lXOS1kdTByd3U0dw?oc=5</guid>
+      <pubDate>Thu, 09 Jul 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[FR] Decastar 2026 : le mythique meeting de Talence fête ses 50 ans - Bouger à Bordeaux</title>
+      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxONGFoSnlXVVJyZWlmV3RIclhmeDdoVjZJTXVrTktSbWU2c1RoYWhkRzFMWGtqQ1ZTZXhsMl9vdHBrbDA4WnlLVlhJeDI1bUpodGdBT0ZnTjFmVU9TU2dBQlBjZ05CTEhjOUg1THpReGgwNXhJSkxtdC1vc2YwOUFRTGRYeEU4WC1XbW9IMnI3SzJhMXphWWVwY1Fzclc2Rkk5aXZPUlp3?oc=5</link>
+      <description>Publié le : Fri, 10 Jul 2026 07:00:00 GMT - Source : Google News (FR)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipgFBVV95cUxONGFoSnlXVVJyZWlmV3RIclhmeDdoVjZJTXVrTktSbWU2c1RoYWhkRzFMWGtqQ1ZTZXhsMl9vdHBrbDA4WnlLVlhJeDI1bUpodGdBT0ZnTjFmVU9TU2dBQlBjZ05CTEhjOUg1THpReGgwNXhJSkxtdC1vc2YwOUFRTGRYeEU4WC1XbW9IMnI3SzJhMXphWWVwY1Fzclc2Rkk5aXZPUlp3?oc=5</guid>
+      <pubDate>Fri, 10 Jul 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[FR] Championnats de France d'Epreuves Combinées 2023 - Compiègne (H-F) - Fédération Française d'Athlétisme</title>
+      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxOM3JyblJ1ZkR2ekY4NU0wZ3NGd1BzbTVOS1VKTV95bnVmVlFsR2NORzIwR3hfcXFpMzJ4cGtfS3ROSm4zN2dISjdDWTJTdFBZOGNfQXB3OGhkZHJMNUNxRk1CODVzTm5OX0tGTjRwNnJDVDNFU3dMbUc0MlU3dVFseVIxMW0wQS1FM3ltM3hSSmlNU25JRjc4eVc5RE8?oc=5</link>
+      <description>Publié le : Sun, 12 Jul 2026 19:40:18 GMT - Source : Google News (FR)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMinAFBVV95cUxOM3JyblJ1ZkR2ekY4NU0wZ3NGd1BzbTVOS1VKTV95bnVmVlFsR2NORzIwR3hfcXFpMzJ4cGtfS3ROSm4zN2dISjdDWTJTdFBZOGNfQXB3OGhkZHJMNUNxRk1CODVzTm5OX0tGTjRwNnJDVDNFU3dMbUc0MlU3dVFseVIxMW0wQS1FM3ltM3hSSmlNU25JRjc4eVc5RE8?oc=5</guid>
+      <pubDate>Sun, 12 Jul 2026 19:40:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[FR] Athlétisme. Bahia Reding monte en puissance au Caen AC : "J'ai envie de dépasser mes limites" - Actu.fr</title>
+      <link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdmN3c1Z5cWJ1ZGpGVGZUVkR0Q0NPX3VXOTZqVTFZLUZGVTByazRZSHVTNURxMmx2SUdVWE56MWp6cUdBSjZET295NU5xUjJMM01IXzlXUFRCZGlqTllkS0FNUXBJNmNkc3YyTXpUaXhnSVExTW5LSkcxNjJaOE8xUXpIVm9ZcFBDMjMxRHdFRlNBeUMtX0htY0s3aDNIMzZOOHdCUThmYklwVjdoQldNbERGdjltMGV1M0tYRGk3SFRtZndsSVc4NldHSWtqUkFtMFprUQ?oc=5</link>
+      <description>Publié le : Wed, 15 Jul 2026 07:00:00 GMT - Source : Google News (FR)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdmN3c1Z5cWJ1ZGpGVGZUVkR0Q0NPX3VXOTZqVTFZLUZGVTByazRZSHVTNURxMmx2SUdVWE56MWp6cUdBSjZET295NU5xUjJMM01IXzlXUFRCZGlqTllkS0FNUXBJNmNkc3YyTXpUaXhnSVExTW5LSkcxNjJaOE8xUXpIVm9ZcFBDMjMxRHdFRlNBeUMtX0htY0s3aDNIMzZOOHdCUThmYklwVjdoQldNbERGdjltMGV1M0tYRGk3SFRtZndsSVc4NldHSWtqUkFtMFprUQ?oc=5</guid>
+      <pubDate>Wed, 15 Jul 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[FR] Athlétisme — Finales des épreuves combinées U16, hier : Doublé de Quatre-Bornes Pavillon dans le classement par équipes - Le Mauricien</title>
+      <link>https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcENPeHlrOUpQdWFhOEI2Y3lQZXVoNWYyMm1td2VPT0x2cFlYXzFiQ3BuOUNPWk5YaVV5LVpTVk5ZemF3THJGUndSVTJocS1RWUlQeE5NLS0xU01jMEE1ODdaSWFoRWhLU3FhdW9kdWhsOHJkSEt3R1pISnFRSWpJYUFqdjJBSW43cGJBdnIzdC1xbFVBQkxkMHFMbENvWmRlX0lIRkhwU290OC1haHRsOXZQN1JBVXVsdmtJRjR6WDQtZ2M3dXpaQ0N6V1hicVJ4OVZaTUtZUUVySUJ4d1hHSm9RVnZhblNqSlpiMlBRamc?oc=5</link>
+      <description>Publié le : Sun, 19 Jul 2026 07:00:00 GMT - Source : Google News (FR)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcENPeHlrOUpQdWFhOEI2Y3lQZXVoNWYyMm1td2VPT0x2cFlYXzFiQ3BuOUNPWk5YaVV5LVpTVk5ZemF3THJGUndSVTJocS1RWUlQeE5NLS0xU01jMEE1ODdaSWFoRWhLU3FhdW9kdWhsOHJkSEt3R1pISnFRSWpJYUFqdjJBSW43cGJBdnIzdC1xbFVBQkxkMHFMbENvWmRlX0lIRkhwU290OC1haHRsOXZQN1JBVXVsdmtJRjR6WDQtZ2M3dXpaQ0N6V1hicVJ4OVZaTUtZUUVySUJ4d1hHSm9RVnZhblNqSlpiMlBRamc?oc=5</guid>
+      <pubDate>Sun, 19 Jul 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[ES] Málaga 2026 prueba a prueba: combinadas y marcha - RFEA</title>
@@ -187,6 +103,13 @@
       <link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxOa1NVWWF2bnpGa2NId0stQm9fbmhQN1hhNVo3OUFzNEs5TVV3d3hfY1VGUktMU2dLcmE3SE9IMkhwczRWT2pONFVGMElmRlVRX3N0UWpNcm1uVGlGNW4wV09wWHZoWkFpa25CbVBEV0VnUFlvQlBvV1lyTzY1X281MlhkZWVxc2ZqWlhmR3RUNDlWRHEtVzRYejRyQjRYUS1OVTFIdTBwRmFLLUhSRVRaUHZGZDl5c0VzQTVIQUxLMVRXcVBjMkJRR1RuRHFmaVdQYUE?oc=5</link>
       <description>Publié le : Fri, 24 Jul 2026 07:00:00 GMT - Source : Google News (FR)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0gFBVV95cUxOa1NVWWF2bnpGa2NId0stQm9fbmhQN1hhNVo3OUFzNEs5TVV3d3hfY1VGUktMU2dLcmE3SE9IMkhwczRWT2pONFVGMElmRlVRX3N0UWpNcm1uVGlGNW4wV09wWHZoWkFpa25CbVBEV0VnUFlvQlBvV1lyTzY1X281MlhkZWVxc2ZqWlhmR3RUNDlWRHEtVzRYejRyQjRYUS1OVTFIdTBwRmFLLUhSRVRaUHZGZDl5c0VzQTVIQUxLMVRXcVBjMkJRR1RuRHFmaVdQYUE?oc=5</guid>
+      <pubDate>Fri, 24 Jul 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[FR] "On veut se voir sur la boîte !" Pourquoi la fratrie Bastien, qui rêve de podium aux Championnats de France Elite à Albi, est-elle aussi atypique - ladepeche.fr</title>
+      <link>https://news.google.com/rss/articles/CBMilwJBVV95cUxOY0FyV0JqNGdSOE1rVnZ2Vk9CQUdJblNkbWI2ZXVKczF6LVVyZGx0MlNEWjJ6WmlkZDU3Yk5nM0hJb05CZk4yS3JkS0RYVmc5ZjlFcmhhQjhRZHdUUW9tWTMtTG1wYUk1QzIxY3JyRnFtUU9sYXp4cGliY0loeUd0TWs3Y3g4X2F3bDE4Y2wydHZzUWR3dUdQZC1ScFN5Q1hvM1lEUXFBcTg1VGZNWG5QZ0xjWHc5QmxBY2NQUTFZbkRlbDNpUzdjTldHenBLbzRFX3VyNkNiSTluT1I0NWxfRkw5V1JtcUlGTEE1XzRhemNkWXlkS1VOc29lMm9mLTdzZEZVZldVSk1HMUc1NnBINFFVc0VqYzA?oc=5</link>
+      <description>Publié le : Fri, 24 Jul 2026 07:00:00 GMT - Source : Google News (FR)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMilwJBVV95cUxOY0FyV0JqNGdSOE1rVnZ2Vk9CQUdJblNkbWI2ZXVKczF6LVVyZGx0MlNEWjJ6WmlkZDU3Yk5nM0hJb05CZk4yS3JkS0RYVmc5ZjlFcmhhQjhRZHdUUW9tWTMtTG1wYUk1QzIxY3JyRnFtUU9sYXp4cGliY0loeUd0TWs3Y3g4X2F3bDE4Y2wydHZzUWR3dUdQZC1ScFN5Q1hvM1lEUXFBcTg1VGZNWG5QZ0xjWHc5QmxBY2NQUTFZbkRlbDNpUzdjTldHenBLbzRFX3VyNkNiSTluT1I0NWxfRkw5V1JtcUlGTEE1XzRhemNkWXlkS1VOc29lMm9mLTdzZEZVZldVSk1HMUc1NnBINFFVc0VqYzA?oc=5</guid>
       <pubDate>Fri, 24 Jul 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
@@ -211,11 +134,39 @@
       <pubDate>Sun, 23 Aug 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>[EN] OU T&amp;F Announces Hinch as Combined Events/Pole Vault Coach - University of Oklahoma - Soonersports.com</title>
+      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxOV3lpTUdCVkYwZG90WTh6UGlwamd2WEdPMXM0QktNcUlqOTRSSVE5dnNGSmhLX1hmTkJ0dWZxV1pLTUs3VWFSN2NSVDNlaHIxdkNaR0Z2ei1TUGVHOTd3YWpXMHV6djNRY1NoVkFBa2lpaWhlT0RkLWFrSVJhb1d0d0RXdEpJZ3AwaU5MRWdxRGdXZWRNZ1VnNlZCUEJ6OEd3aEJnOFBOOUNwRDhWUUdQV3l0dWI?oc=5</link>
+      <description>Publié le : Mon, 24 Aug 2026 07:00:00 GMT - Source : Google News (EN)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitAFBVV95cUxOV3lpTUdCVkYwZG90WTh6UGlwamd2WEdPMXM0QktNcUlqOTRSSVE5dnNGSmhLX1hmTkJ0dWZxV1pLTUs3VWFSN2NSVDNlaHIxdkNaR0Z2ei1TUGVHOTd3YWpXMHV6djNRY1NoVkFBa2lpaWhlT0RkLWFrSVJhb1d0d0RXdEpJZ3AwaU5MRWdxRGdXZWRNZ1VnNlZCUEJ6OEd3aEJnOFBOOUNwRDhWUUdQV3l0dWI?oc=5</guid>
+      <pubDate>Mon, 24 Aug 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[FR] Athlétisme : Tous les records du monde sur piste, route, marathon, concours et épreuves combinées - Olympics</title>
+      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxQdEFodnA0c2tOWTc3ZUpRTWJQaW93ZXhxekhvVVMtam5XZEpnNVgzS09GZ2pIOWh2WUdBZ1VTNl9VUmFtbm9kemxLb2VwNWxwNVJ1Z1AxVGpyRTJIMFo0a1dpemNvZmRBOW5taUFITFJ2U1NGb1FlRHZ5b1FKVWF4RFB5cVl2MmdROUlQVXpJN2ZhY3M4dlNrZ3FOaw?oc=5</link>
+      <description>Publié le : Thu, 27 Aug 2026 07:00:00 GMT - Source : Google News (FR)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMimwFBVV95cUxQdEFodnA0c2tOWTc3ZUpRTWJQaW93ZXhxekhvVVMtam5XZEpnNVgzS09GZ2pIOWh2WUdBZ1VTNl9VUmFtbm9kemxLb2VwNWxwNVJ1Z1AxVGpyRTJIMFo0a1dpemNvZmRBOW5taUFITFJ2U1NGb1FlRHZ5b1FKVWF4RFB5cVl2MmdROUlQVXpJN2ZhY3M4dlNrZ3FOaw?oc=5</guid>
+      <pubDate>Thu, 27 Aug 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>[ES] Campeonato de Cantabria Sub12 y Sub10 de Pruebas Combinadas / Campeonato de Cantabria Absoluto y Máster de Martillo Pesado / XXX Liga Escolar de Menores - Concursos aplazados de Martillo Sub16 (2026-10-03) - Federación Cántabra de Atletismo</title>
       <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Pd1lfSGNleWxUUTFURHNHenNweWt5NmdSRTFtQm5zQ3RWQnNucExWdXQ0UWJiR0pYZkFqZHBsQWlvRWVDeDdlaml1c3lHUDFZeTZF?oc=5</link>
       <description>Publié le : Tue, 08 Sep 2026 07:00:00 GMT - Source : Google News (ES)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Pd1lfSGNleWxUUTFURHNHenNweWt5NmdSRTFtQm5zQ3RWQnNucExWdXQ0UWJiR0pYZkFqZHBsQWlvRWVDeDdlaml1c3lHUDFZeTZF?oc=5</guid>
       <pubDate>Tue, 08 Sep 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[FR] Les étoiles ont rendez-vous avec l’exploit - France Télévisions</title>
+      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxQVWZ1eUVTZVF5RTFUbVdWZmEzWjhLZnVjU2dlQ0VWX1QtT2RCTHBJODc1aVFkeXhuQXN5czdYWHI4S1VfY2c0NlY3OVNqQmJsYmJQOHZLLUlQWUVIN0RNRExZWjdWZ3hWcHFvYi1DOFIxYXhkelJZS2VoRUh5bldmRUUzOWxmb084NkFSem1lWUFYLUU4RW8zOGpJbzVBQzRLcjZXSTJYUEhacVdCLWc?oc=5</link>
+      <description>Publié le : Thu, 10 Sep 2026 16:33:51 GMT - Source : Google News (FR)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirgFBVV95cUxQVWZ1eUVTZVF5RTFUbVdWZmEzWjhLZnVjU2dlQ0VWX1QtT2RCTHBJODc1aVFkeXhuQXN5czdYWHI4S1VfY2c0NlY3OVNqQmJsYmJQOHZLLUlQWUVIN0RNRExZWjdWZ3hWcHFvYi1DOFIxYXhkelJZS2VoRUh5bldmRUUzOWxmb084NkFSem1lWUFYLUU4RW8zOGpJbzVBQzRLcjZXSTJYUEhacVdCLWc?oc=5</guid>
+      <pubDate>Thu, 10 Sep 2026 16:33:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[FR] Décastar : pourquoi Talence compte dans l’histoire du décathlon - laclepublique.fr</title>
+      <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxPV21BUmVZTlpQLWh6cmphSjAxTkRmQVBVMlBIT3g1cDlNcXFIMnR3a3JTSkU0bFJsaWNJdE4tUDFXUjJsalU4dFNPd01BZmdCM2t0dHdTMTlLSlRWdGlhTVFDZ1FoN0U0LTNOTS1FdzhkSW85R3czQWlyc0FuUkJSTXdnaVRxYU1TbVE?oc=5</link>
+      <description>Publié le : Sun, 13 Sep 2026 07:00:00 GMT - Source : Google News (FR)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiigFBVV95cUxPV21BUmVZTlpQLWh6cmphSjAxTkRmQVBVMlBIT3g1cDlNcXFIMnR3a3JTSkU0bFJsaWNJdE4tUDFXUjJsalU4dFNPd01BZmdCM2t0dHdTMTlLSlRWdGlhTVFDZ1FoN0U0LTNOTS1FdzhkSW85R3czQWlyc0FuUkJSTXdnaVRxYU1TbVE?oc=5</guid>
+      <pubDate>Sun, 13 Sep 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[ES] Pruebas combinadas de sangre y genética estiman el momento de aparición de síntomas de Alzheimer - Lab Medica en Español</title>
@@ -232,11 +183,39 @@
       <pubDate>Fri, 18 Sep 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[EN] WTA Announces Equal Pay for All Combined 1000 Events - Front Office Sports</title>
-      <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxNRTFrZjZ2amhVMmFoVXdzR1BlaHdpMndvNXBQTjJvVEl0SUN3dlgxbXJSZlppV052SDR4cTRBNWIxQ2Fqb1ZJT2JvSTI4bEc4M1FJZFlTZjRrdzZwMFgxZWVOUXJZUWhxZ05oVS1hM2ExRVZIbWJkXzg2emtSbzJuUkM3TmxFM0hKNUM1a0ZpVS1QQ0VMY0E?oc=5</link>
-      <description>Publié le : Thu, 01 Oct 2026 07:00:00 GMT - Source : Google News (EN)</description>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMilgFBVV95cUxNRTFrZjZ2amhVMmFoVXdzR1BlaHdpMndvNXBQTjJvVEl0SUN3dlgxbXJSZlppV052SDR4cTRBNWIxQ2Fqb1ZJT2JvSTI4bEc4M1FJZFlTZjRrdzZwMFgxZWVOUXJZUWhxZ05oVS1hM2ExRVZIbWJkXzg2emtSbzJuUkM3TmxFM0hKNUM1a0ZpVS1QQ0VMY0E?oc=5</guid>
+      <title>[FR] Figeac. Christophe Fournial sacré vice-champion de France de pentathlon sur piste - ladepeche.fr</title>
+      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxNMHlBVEh5TldfMHlyZEZYU2M4ZjR3T2h4M0ZjSmJvUmZVQlFpaTcyeC1lY3NXNmRQOXNzd2xhZ2lLTkxxcFdJYzBKSzRaZHpzNHBQT1lvTnRWR2VycTI1dWNSQndJdHl2NHlxQVphZUxxWHRVQVJYZWtKb3dKQTVndmxmR0UtdVpNeFFsYWdWNGdxWF91Q0ZtTENLODdwX0JuLWt5UmFTeTlENk9TeDNlckF0Y21UcE9VTzYwLTFqbw?oc=5</link>
+      <description>Publié le : Sat, 26 Sep 2026 07:00:00 GMT - Source : Google News (FR)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivwFBVV95cUxNMHlBVEh5TldfMHlyZEZYU2M4ZjR3T2h4M0ZjSmJvUmZVQlFpaTcyeC1lY3NXNmRQOXNzd2xhZ2lLTkxxcFdJYzBKSzRaZHpzNHBQT1lvTnRWR2VycTI1dWNSQndJdHl2NHlxQVphZUxxWHRVQVJYZWtKb3dKQTVndmxmR0UtdVpNeFFsYWdWNGdxWF91Q0ZtTENLODdwX0JuLWt5UmFTeTlENk9TeDNlckF0Y21UcE9VTzYwLTFqbw?oc=5</guid>
+      <pubDate>Sat, 26 Sep 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[FR] Saint-Georges-de-Didonne : à 83 ans, Jean-Claude Chaumont décroche un nouveau titre de champion de France Masters - Sud Ouest</title>
+      <link>https://news.google.com/rss/articles/CBMimgJBVV95cUxQUE1YNFVjZTJOZkdTZ24ydGIyYi1ocmcyaW16MHVRaEhCVmtZSzVRamtFTk1TUFl6QjRsM3JqZDJzMnBYMkZLa0NZT0NERGlndXJ4aU14OUNRV19BbnhBQV9LMzFiOTI3am92WDBRN2dKT2s1blU3bFptR3E2S2VnMC1EVC0wNTBKNVJfal82TE95RUZEV3VqbUxoOXRqVFBkempVRFNfSzVXT29YTFV5aHlYU0RPVUhJQlBRSjFtWUlIQl9FdnRyU01fUWpEY2FSdE0wZkthSWpVVXdjaEh1NVV4TUlwMjNzOEtsaWphZTdKUTBRQnlsZmUtNTVUWExUWVVXWHREb01YNVQxVnhhQzdoMDRHaE5WakE?oc=5</link>
+      <description>Publié le : Mon, 28 Sep 2026 07:00:00 GMT - Source : Google News (FR)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMimgJBVV95cUxQUE1YNFVjZTJOZkdTZ24ydGIyYi1ocmcyaW16MHVRaEhCVmtZSzVRamtFTk1TUFl6QjRsM3JqZDJzMnBYMkZLa0NZT0NERGlndXJ4aU14OUNRV19BbnhBQV9LMzFiOTI3am92WDBRN2dKT2s1blU3bFptR3E2S2VnMC1EVC0wNTBKNVJfal82TE95RUZEV3VqbUxoOXRqVFBkempVRFNfSzVXT29YTFV5aHlYU0RPVUhJQlBRSjFtWUlIQl9FdnRyU01fUWpEY2FSdE0wZkthSWpVVXdjaEh1NVV4TUlwMjNzOEtsaWphZTdKUTBRQnlsZmUtNTVUWExUWVVXWHREb01YNVQxVnhhQzdoMDRHaE5WakE?oc=5</guid>
+      <pubDate>Mon, 28 Sep 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[EN] Ehammer and Kälin complete historic Swiss double in World Athletics Combined Events Tour - worldathletics.org</title>
+      <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVDlrQ1dQM1AwX3hZb3Q1WmtCWTFkUjZ3UmxMR2V6NGtQVXZfYUotMUlFRUJydWZUTTFTMDVaM2JOSFZjNm45UjBZWkxOMU9iV3d5RUJUcFNEdzhkSHZSV3NRY29UNWRjQXpoZ2pFUFctRjA4WEd1N2tzVFZ2NWV5ZE1kRURzQ2VkRGl5TTNZV3NpYld2b0NQQkJyUTRwR015NTN5UXdsV1l1VXd4bnNGWWY1VXNGbWZXTDA2X0l1MGVSRVJmSm9MUA?oc=5</link>
+      <description>Publié le : Wed, 30 Sep 2026 07:00:00 GMT - Source : Google News (EN)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVDlrQ1dQM1AwX3hZb3Q1WmtCWTFkUjZ3UmxMR2V6NGtQVXZfYUotMUlFRUJydWZUTTFTMDVaM2JOSFZjNm45UjBZWkxOMU9iV3d5RUJUcFNEdzhkSHZSV3NRY29UNWRjQXpoZ2pFUFctRjA4WEd1N2tzVFZ2NWV5ZE1kRURzQ2VkRGl5TTNZV3NpYld2b0NQQkJyUTRwR015NTN5UXdsV1l1VXd4bnNGWWY1VXNGbWZXTDA2X0l1MGVSRVJmSm9MUA?oc=5</guid>
+      <pubDate>Wed, 30 Sep 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[FR] Ehammer et Kälin signent un doublé suisse - Leman bleu</title>
+      <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxOcENpUDlacGhpYkYwN1VaLWdhbXhzTWNaMkZNc0s1N2F1V3NqSk9VT0xuTGJpM0JFUWNOdDhkV29EaURYRU16NWZGQVc4enlCRDgwaUIzUWpDWnRLbElJR1FzVjlXenhNUWlpX3lhcDBpeUZXWG9pY25QUERKQXFWQmV3dEVvTTh6b0duNEhLNl85YklPX2c?oc=5</link>
+      <description>Publié le : Thu, 01 Oct 2026 07:00:00 GMT - Source : Google News (FR)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMilgFBVV95cUxOcENpUDlacGhpYkYwN1VaLWdhbXhzTWNaMkZNc0s1N2F1V3NqSk9VT0xuTGJpM0JFUWNOdDhkV29EaURYRU16NWZGQVc4enlCRDgwaUIzUWpDWnRLbElJR1FzVjlXenhNUWlpX3lhcDBpeUZXWG9pY25QUERKQXFWQmV3dEVvTTh6b0duNEhLNl85YklPX2c?oc=5</guid>
       <pubDate>Thu, 01 Oct 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[FR] Athlétisme. Janzé, Rennes, Redon… L’Ille-et-Vilaine va accueillir plusieurs championnats de France en 2027 - Ouest-France</title>
+      <link>https://news.google.com/rss/articles/CBMikAJBVV95cUxOX3hOTlotME94VnF5aXg5dlNITnA5bkhhNkxnejkzdW1IZWFsY01aYnB2WGxxX0hYQjN2U0pwMmNHMUNndzBONUtpNXhTYk1ndDlucDhmcmVNZUhoUlZ1T3BpX3BpTXcxdlN1MEhLTzY4VEQ2N1dMd0ZSc08xMFFKNkZuVENkU05BdnBnZVZBUE80WmNTT0N4ZEFVbHg0M3ZqbVpwYmg0UE9hS3NnRzc2NGQzRG9UaUNOVHFKUWN0ZjkzRGVzQU5XV1lVd082d1psaE13aG01OG1WZ1JJdGpOM3NTcGJndm9mVkxlcEd4enpRWDFzeGpHQzVIRUx6RmYwQXkxd3dTTkpMRHVSa3hlag?oc=5</link>
+      <description>Publié le : Fri, 06 Nov 2026 08:00:00 GMT - Source : Google News (FR)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMikAJBVV95cUxOX3hOTlotME94VnF5aXg5dlNITnA5bkhhNkxnejkzdW1IZWFsY01aYnB2WGxxX0hYQjN2U0pwMmNHMUNndzBONUtpNXhTYk1ndDlucDhmcmVNZUhoUlZ1T3BpX3BpTXcxdlN1MEhLTzY4VEQ2N1dMd0ZSc08xMFFKNkZuVENkU05BdnBnZVZBUE80WmNTT0N4ZEFVbHg0M3ZqbVpwYmg0UE9hS3NnRzc2NGQzRG9UaUNOVHFKUWN0ZjkzRGVzQU5XV1lVd082d1psaE13aG01OG1WZ1JJdGpOM3NTcGJndm9mVkxlcEd4enpRWDFzeGpHQzVIRUx6RmYwQXkxd3dTTkpMRHVSa3hlag?oc=5</guid>
+      <pubDate>Fri, 06 Nov 2026 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[ES] LAS PRUEBAS COMBINADAS, PROTAGONISTAS EN RÍO ESGUEVA - Federación de Atletismo de Castilla y León</title>
@@ -267,6 +246,13 @@
       <pubDate>Mon, 16 Nov 2026 18:37:00 +0000</pubDate>
     </item>
     <item>
+      <title>[EN] Nordic Combined 2026/27: Lamparter and Oftebro renew rivalry in Ruka opener - International Ski and Snowboard Federation (FIS)</title>
+      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxQNkxYTF9WYndfWlplTW5HbE1xd2U0ZHFla050c3VfNVVLQUR1REZTMFMwMnlURUN5Z3JiY2tQbnI4dFlaNHNZZTdpXzNkQW5kSnNsRmplNlpJZFZmMk9aSmh6dDF6dEtwTFQ3cmhyRzAtWjQtbENrcG4xaEZabmZUQXFNdjBQM3VOazh5VHpQTGo0a3l6ZUp4MGdRWFRMbzJsQlVKUlJyN2RuSHRFbVM5bDJoZVI2aUl5NjJZdHI5MA?oc=5</link>
+      <description>Publié le : Wed, 25 Nov 2026 08:59:38 GMT - Source : Google News (EN)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivwFBVV95cUxQNkxYTF9WYndfWlplTW5HbE1xd2U0ZHFla050c3VfNVVLQUR1REZTMFMwMnlURUN5Z3JiY2tQbnI4dFlaNHNZZTdpXzNkQW5kSnNsRmplNlpJZFZmMk9aSmh6dDF6dEtwTFQ3cmhyRzAtWjQtbENrcG4xaEZabmZUQXFNdjBQM3VOazh5VHpQTGo0a3l6ZUp4MGdRWFRMbzJsQlVKUlJyN2RuSHRFbVM5bDJoZVI2aUl5NjJZdHI5MA?oc=5</guid>
+      <pubDate>Wed, 25 Nov 2026 08:59:38 +0000</pubDate>
+    </item>
+    <item>
       <title>[EN] Uzbekistan targets $6.5bn in combined trade with Oman, Jordan and Türkiye - Daryo</title>
       <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxNOWxvek1iZDZicTNzZ0NOWnB0RmljLTVkdEFWZ1NiczMwTTUtNFBxS1ZvaUZOYkFxUmNfYlA1ekdtN2k3MGdJWE9QQUxvMU9lbmZOR3g4LVVzV20xUU1UMkdMbDczN0hvZG1BV0pjamFSZ2F1bjk5TTRYbF9HZUpXQmJTY0pzU0VBLTJJZzZoNTJuYzMyNEJ2ak81bEdTTGhibHpoYm1B?oc=5</link>
       <description>Publié le : Thu, 26 Nov 2026 06:00:43 GMT - Source : Google News (EN)</description>
@@ -286,6 +272,20 @@
       <description>Publié le : Fri, 27 Nov 2026 08:54:57 GMT - Source : Google News (EN)</description>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitAFBVV95cUxONTBtUDl3X1pHVG5iaEhjeUZneTlCMThEUUEteXFNbEhyTWJUN3lmeVdjYUZYc0hHNE5sdk12cGZfWjlBYTZvUndHZkd5ZHhqLVNwU3BQQl9uOVdYREdGTS1pLVRDc2VEYlhqenB0OVh0TzE3d1cta3RLVWp6TEF4RVRkdnBLNXk0S3AxSE9TZE5OTENSOUttbjB0QVpTangyWmNYRUM2WGwtMTFUMUxKMm9YbTc?oc=5</guid>
       <pubDate>Fri, 27 Nov 2026 08:54:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[ES] Se reactiva la temporada de las pruebas combinadas en el dique El Jumeal - Diario Inforama - Catamarca</title>
+      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcEFycU50N1JBLXVUMk9KbkVUNG1MRlR6b3JwZEdaRGNNdjZYVER2akdMLXlPWkd2R2VoOGdxa3ZGLVdfME1XSHhuTGcxTW41TVRaY0EtSXBoY0NiOVJERmE4Sk13ZWFWRkN6WW5jVE4yOGJwVF93N3lFNnBCRC0yc2toUXprdm5PRHJzLUVOSmljNjZNRExDd2NUenVjUnk3MkUzaWZ6aWZoanNOZTB3blJuVF94VkJK?oc=5</link>
+      <description>Publié le : Fri, 27 Nov 2026 21:31:07 GMT - Source : Google News (ES)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcEFycU50N1JBLXVUMk9KbkVUNG1MRlR6b3JwZEdaRGNNdjZYVER2akdMLXlPWkd2R2VoOGdxa3ZGLVdfME1XSHhuTGcxTW41TVRaY0EtSXBoY0NiOVJERmE4Sk13ZWFWRkN6WW5jVE4yOGJwVF93N3lFNnBCRC0yc2toUXprdm5PRHJzLUVOSmljNjZNRExDd2NUenVjUnk3MkUzaWZ6aWZoanNOZTB3blJuVF94VkJK?oc=5</guid>
+      <pubDate>Fri, 27 Nov 2026 21:31:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[ES] Atleta catamarqueña se consagró campeona regional - Diario Inforama - Catamarca</title>
+      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxQZzI0ejBSRDBOalMyb3Nua2pPZE00VmlGRTJ2dUROdXhpSzY5dFZKMC1yZ1VkUEhYZVpRZkI5WGIybGZrSThVeGlDN2o1ejVWdXBmY2t4S1N4dHZXZ2FGaVZkY29RZUpTWDQwY1FYR1hoUkZBRmZvOHpoencwOVJJNDg3N1M4LUo5cVlHZlJ6YjYyR2lDaG1CM0RR?oc=5</link>
+      <description>Publié le : Fri, 27 Nov 2026 21:44:47 GMT - Source : Google News (ES)</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMimgFBVV95cUxQZzI0ejBSRDBOalMyb3Nua2pPZE00VmlGRTJ2dUROdXhpSzY5dFZKMC1yZ1VkUEhYZVpRZkI5WGIybGZrSThVeGlDN2o1ejVWdXBmY2t4S1N4dHZXZ2FGaVZkY29RZUpTWDQwY1FYR1hoUkZBRmZvOHpoencwOVJJNDg3N1M4LUo5cVlHZlJ6YjYyR2lDaG1CM0RR?oc=5</guid>
+      <pubDate>Fri, 27 Nov 2026 21:44:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
